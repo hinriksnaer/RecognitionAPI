@@ -1,4 +1,4 @@
-from flask import Flask, request
+from flask import Flask, request, send_file
 
 app = Flask(__name__)
 
@@ -15,5 +15,7 @@ def post():
 
 app.run(port=5000)
 
-def get()
-    return imagefile
+@app.route('/get_image')
+def get_image():
+    imagefile = 'uploads\\123.jpg'
+    return send_file(imagefile, mimetype='image/jpg')
