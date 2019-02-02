@@ -44,7 +44,7 @@ class Todo(Resource):
 # shows a list of all todos, and lets you POST to add new tasks
 class ImageList(Resource):
     def get(self):
-        return dataTodo
+        return data
 
     def post(self):
         args = parser.parse_args()
