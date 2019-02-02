@@ -53,7 +53,7 @@ class ConvertImage(Resource):
         filename = 'some_image.png'  # I assume you have a way of picking unique filenames
         with open(filename, 'wb') as f:
             f.write(imgdata)
-        return 'Image has been received', 201
+        return '{response : "Image has been received"}', 201
 # TodoList
 # shows a list of all todos, and lets you POST to add new tasks
 
