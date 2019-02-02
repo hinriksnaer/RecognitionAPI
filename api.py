@@ -48,8 +48,9 @@ class ConvertImage(Resource):
     print('Converting image...')
     def post(self):
         args = parser.parse_args()
+        print(args)
         imgstring = {'imgText' : args['imgText']}
-        return imgstring
+        return 'FuckjúHelgi'
         #imgstring = re.sub("\n", "", imgstring)
         #imgdata = base64.b64decode(imgstring)
         #filename = 'some_image.png'  # I assume you have a way of picking unique filenames
