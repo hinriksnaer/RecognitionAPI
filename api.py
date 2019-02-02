@@ -19,7 +19,7 @@ def abort_if_image_doesnt_exist(image_id):
 
 #init parser
 parser = reqparse.RequestParser()
-parser.add_argument('imgText', type=str, location='form')
+parser.add_argument('imgText', type=str)
 
 #Makes it a must to include a task param in the request
 #parser.add_argument('task')
