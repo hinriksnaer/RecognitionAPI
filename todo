@@ -1,1 +1,2 @@
 install python-flask
+source python-environment/bin/activate
