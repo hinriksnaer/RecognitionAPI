@@ -1,1019 +1,975 @@
 {
-  "Demo": {
-    "_type": "SearchResponse",
-    "webPages": {
-      "webSearchUrl": "https://www.bing.com/search?q=hallgr%c3%admskirkja",
-      "totalEstimatedMatches": 179000,
-      "value": [
-        {
-          "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.0",
-          "deepLinks": null,
-          "dateLastCrawled": "2019-01-29T22:33:00Z",
-          "about": [
-            {
-              "name": "Hallgrímskirkja"
-            }
-          ],
-          "name": "Hallgrímskirkja - Wikipedia",
-          "url": "https://en.wikipedia.org/wiki/Hallgr%C3%ADmskirkja",
-          "displayUrl": "https://en.wikipedia.org/wiki/Hallgrímskirkja",
-          "snippet": "Hallgrímskirkja (Icelandic pronunciation: [ˈhatl̥krimsˌcʰɪr̥ca], church of Hallgrímur) is a Lutheran (Church of Iceland) parish church in Reykjavík, Iceland. At 74.5 metres (244 ft) high, it is the largest church in Iceland and among the tallest structures in the country."
-        },
-        {
-          "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.1",
-          "deepLinks": [
-            {
-              "name": "The Tower",
-              "url": "http://en.hallgrimskirkja.is/information/the-tower"
-            },
-            {
-              "name": "Events",
-              "url": "http://en.hallgrimskirkja.is/information/events/"
-            },
-            {
-              "name": "History",
-              "url": "http://en.hallgrimskirkja.is/about/"
-            },
-            {
-              "name": "Ceremonies",
-              "url": "http://en.hallgrimskirkja.is/ceremonies/"
-            },
-            {
-              "name": "Information",
-              "url": "http://en.hallgrimskirkja.is/"
-            }
-          ],
-          "dateLastCrawled": "2019-01-30T00:16:00Z",
-          "about": [
-            {
-              "name": "Hallgrímskirkja"
-            }
-          ],
-          "name": "Hallgrímskirkja – Reykjavík",
-          "url": "http://en.hallgrimskirkja.is/",
-          "displayUrl": "en.hallgrimskirkja.is",
-          "snippet": "Hallgrímskirkja stands guard over Reykjavík. The church is both a parish church and a national sanctuary in Iceland. Its stepped concrete facade is an ode to modernism and a reminder of the Icelandic landscape."
-        },
-        {
-          "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.2",
-          "deepLinks": null,
-          "dateLastCrawled": "2019-01-29T23:02:00Z",
-          "about": [
-            {
-              "name": "Hallgrímskirkja"
-            }
-          ],
-          "name": "Hallgrimskirkja Church | Visit Reykjavík",
-          "url": "https://visitreykjavik.is/hallgrimskirkja-church",
-          "displayUrl": "https://visitreykjavik.is/hallgrimskirkja-church",
-          "snippet": "Hallgrímskirkja church is Reykjavík's main landmark and its tower can be seen from almost everywhere in the city. It was designed by the late Guðjón Samúelsson in 1937, who was often inspired in his endeavours by the fascinating shapes and forms created when lava cools into basalt rock."
-        },
-        {
-          "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.3",
-          "deepLinks": null,
-          "dateLastCrawled": "2019-01-25T09:31:00Z",
-          "about": null,
-          "name": "Hallgrímskirkja | Reykjavík, Iceland Attractions - Lonely ...",
-          "url": "https://www.lonelyplanet.com/iceland/reykjavik/attractions/hallgrimskirkja/a/poi-sig/426241/359560",
-          "displayUrl": "https://www.lonelyplanet.com/iceland/reykjavik/attractions/...",
-          "snippet": "Hallgrímskirkja (pronounced hatl-krims-kirkya) was named after poet Reverend Hallgrímur Pétursson (1614–1674), who wrote Iceland’s most popular hymn book: Passíusálmar (Passion Hymns)."
-        },
-        {
-          "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.4",
-          "deepLinks": null,
-          "dateLastCrawled": "2019-01-30T12:37:00Z",
-          "about": [
-            {
-              "name": "Hallgrímskirkja"
-            },
-            {
-              "name": "Iceland"
-            }
-          ],
-          "name": "Hallgrímskirkja Church: Inside Iceland's Most Bizarre Church",
-          "url": "https://allthatsinteresting.com/hallgrimskirkja-iceland",
-          "displayUrl": "https://allthatsinteresting.com/hallgrimskirkja-iceland",
-          "snippet": "Hallgrímskirkja’s organ, the only bright jewel in the church’s bleak interior, was installed six years later in 1992. This incredible instrument built by the German artisan Johannes Klais is nearly 50 feet tall, weighs around 25 tons, and has more than 5,000 bellowing pipes."
-        },
-        {
-          "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.5",
-          "deepLinks": null,
-          "dateLastCrawled": "2019-01-26T06:54:00Z",
-          "about": null,
-          "name": "Category:Hallgrímskirkja - Wikimedia Commons",
-          "url": "https://commons.wikimedia.org/wiki/Category:Hallgr%C3%ADmskirkja",
-          "displayUrl": "https://commons.wikimedia.org/wiki/Category:Hallgrímskirkja",
-          "snippet": "Media in category \"Hallgrímskirkja\" The following 50 files are in this category, out of 50 total."
-        },
-        {
-          "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.6",
-          "deepLinks": null,
-          "dateLastCrawled": "2019-01-19T10:38:00Z",
-          "about": [
-            {
-              "name": "Hallgrímskirkja"
-            }
-          ],
-          "name": "Hallgrímskirkja | church, Saurbaer, Iceland | Britannica.com",
-          "url": "https://www.britannica.com/place/Hallgrimskirkja",
-          "displayUrl": "https://www.britannica.com/place/Hallgrimskirkja",
-          "snippet": "Other articles where Hallgrímskirkja is discussed: Hallgrímur Pétursson: The Hallgrímskirkja, a memorial church built in the poet’s honour at Reykjavík, is one of the largest and finest churches in Iceland."
-        },
-        {
-          "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.7",
-          "deepLinks": null,
-          "dateLastCrawled": "2019-01-26T03:38:00Z",
-          "about": null,
-          "name": "Hallgrímskirkja church : Reykjavik : Travel Guide : Nordic ...",
-          "url": "https://iceland.nordicvisitor.com/travel-guide/attractions/reykjavik-capital-area/hallgrimskirkja/",
-          "displayUrl": "https://iceland.nordicvisitor.com/travel-guide/attractions/...",
-          "snippet": "Hallgrímskirkja is the landmark Lutheran church in Reykjavík. Standing 73 meters tall, Hallgrímskirkja is the largest church in the country and is named for Hallgrímur Pétursson, author of the Passion Hymns. The design of the church is said to be inspired by the basalt lava columns that line many areas along Iceland’s coast."
-        },
-        {
-          "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.8",
-          "deepLinks": null,
-          "dateLastCrawled": "2019-01-29T17:28:00Z",
-          "about": [
-            {
-              "name": "Hallgrímskirkja"
-            }
-          ],
-          "name": "Hallgrimskirkja, Reykjavik - TripAdvisor",
-          "url": "https://www.tripadvisor.com/Attraction_Review-g189970-d245998-Reviews-Hallgrimskirkja-Reykjavik_Capital_Region.html",
-          "displayUrl": "https://www.tripadvisor.com/Attraction_Review-g189970-d245998...",
-          "snippet": "We visited Hallgrimskirkja on our last afternoon in Reykjavik. The church itself is interesting but the view from the top of the spire is amazing - 360 degree views of Reykjavik and the mountains beyond. There is a lift to the top followed by 1... More. Date of experience: January 2019. Thank Deb R ."
-        },
-        {
-          "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.9",
-          "deepLinks": null,
-          "dateLastCrawled": "2019-01-26T11:16:00Z",
-          "about": null,
-          "name": "Hallgrímskirkja | Guide to Iceland",
-          "url": "https://guidetoiceland.is/travel-iceland/drive/hallgrimskirkja",
-          "displayUrl": "https://guidetoiceland.is/travel-iceland/drive/hallgrimskirkja",
-          "snippet": "Hallgrímskirkja is a Lutheran church, located on top of the Skólavörðuhæð hill in the centre of Reykjavík. At 74.5 metres (245 feet) tall, it is the largest church in Iceland, and its tower offers a spectacular panoramic view over the city."
-        }
-      ]
-    },
-    "images": {
-      "id": "https://api.cognitive.microsoft.com/api/v7/#Images",
-      "readLink": "https://api.cognitive.microsoft.com/api/v7/images/search?q=hallgr%c3%admskirkja&qpvt=hallgr%c3%admskirkja",
-      "webSearchUrl": "https://www.bing.com/images/search?q=hallgr%c3%admskirkja&qpvt=hallgr%c3%admskirkja",
-      "isFamilyFriendly": true,
-      "value": [
-        {
-          "name": "Hallgrimskirkja - Church in Reykjavík - Thousand Wonders",
-          "datePublished": "2015-02-08T06:20:00Z",
-          "hostPageUrl": "http://www.thousandwonders.net/Hallgrimskirkja",
-          "contentSize": "874452 B",
-          "hostPageDisplayUrl": "http://www.thousandwonders.net/Hallgrimskirkja",
-          "width": 1920,
-          "height": 1200,
-          "thumbnail": {
-            "width": 474,
-            "height": 296
-          },
-          "webSearchUrl": "https://www.bing.com/images/search?q=hallgr%c3%admskirkja&id=EA4DA8E7B894D2582528C159D9647D5ADE3EB2F9&FORM=IARRTH",
-          "thumbnailUrl": "https://tse1.mm.bing.net/th?id=OIP.HifNEnfoTJWYfgMhNCfAFAHaEo&pid=Api",
-          "encodingFormat": "jpeg",
-          "contentUrl": "http://static.thousandwonders.net/Hallgrimskirkja.original.5405.jpg"
-        },
-        {
-          "name": "Datei:Hallgrimskirkja by Andreas Tille.jpg – Wikipedia",
-          "datePublished": "2018-10-25T00:23:00Z",
-          "hostPageUrl": "https://de.wikipedia.org/wiki/Datei:Hallgrimskirkja_by_Andreas_Tille.jpg",
-          "contentSize": "347005 B",
-          "hostPageDisplayUrl": "https://de.wikipedia.org/wiki/Datei:Hallgrimskirkja_by_Andreas_Tille.jpg",
-          "width": 1024,
-          "height": 768,
-          "thumbnail": {
-            "width": 474,
-            "height": 355
-          },
-          "webSearchUrl": "https://www.bing.com/images/search?q=hallgr%c3%admskirkja&id=83884802BF279F05B1962FE245AF24D37F3BAA00&FORM=IARRTH",
-          "thumbnailUrl": "https://tse1.mm.bing.net/th?id=OIP.gEsyyz84JdKbGz-0onxtZgHaFj&pid=Api",
-          "encodingFormat": "jpeg",
-          "contentUrl": "https://upload.wikimedia.org/wikipedia/de/3/37/Hallgrimskirkja_by_Andreas_Tille.jpg"
-        },
-        {
-          "name": "Hallgrímskirkja Church: Inside Iceland's Most Bizarre Church",
-          "datePublished": "2015-12-12T01:03:00Z",
-          "hostPageUrl": "http://all-that-is-interesting.com/hallgrimskirkja-iceland",
-          "contentSize": "63414 B",
-          "hostPageDisplayUrl": "http://all-that-is-interesting.com/hallgrimskirkja-iceland",
-          "width": 900,
-          "height": 598,
-          "thumbnail": {
-            "width": 474,
-            "height": 314
-          },
-          "webSearchUrl": "https://www.bing.com/images/search?q=hallgr%c3%admskirkja&id=B836309B483EECF666BEC2F5CD890B07C6190707&FORM=IARRTH",
-          "thumbnailUrl": "https://tse1.mm.bing.net/th?id=OIP.Z_Y9fNjqylzcvnCqyntUDgHaE6&pid=Api",
-          "encodingFormat": "jpeg",
-          "contentUrl": "http://all-that-is-interesting.com/wordpress/wp-content/uploads/2015/11/hallgrimskirkja-iceland-church-daylight.jpg"
-        },
-        {
-          "name": "Iceland Bucket List: Reykjavik",
-          "datePublished": "2016-10-07T11:32:00Z",
-          "hostPageUrl": "https://www.extremeiceland.is/en/information/news-and-blog/3184-iceland-bucket-list-reykjavik",
-          "contentSize": "576110 B",
-          "hostPageDisplayUrl": "https://www.extremeiceland.is/en/information/news-and-blog/3184-iceland-bucket-list-reykjavik",
-          "width": 1500,
-          "height": 1000,
-          "thumbnail": {
-            "width": 474,
-            "height": 316
-          },
-          "webSearchUrl": "https://www.bing.com/images/search?q=hallgr%c3%admskirkja&id=C061CF4A366227D8157013BCC2E8365BF7BE46E4&FORM=IARRTH",
-          "thumbnailUrl": "https://tse1.mm.bing.net/th?id=OIP.MWASbJx3u7O3HgDgNAEcsAHaE8&pid=Api",
-          "encodingFormat": "jpeg",
-          "contentUrl": "https://www.extremeiceland.is/images/blog/BucketListReykj/Hallgrimskirkja-1500.jpg"
-        },
-        {
-          "name": "Hallgrimskirkja – Reykjavik, Iceland - Atlas Obscura",
-          "datePublished": "2018-01-07T10:44:00Z",
-          "hostPageUrl": "https://www.atlasobscura.com/places/hallgrimskirkja",
-          "contentSize": "50799 B",
-          "hostPageDisplayUrl": "https://www.atlasobscura.com/places/hallgrimskirkja",
-          "width": 585,
-          "height": 390,
-          "thumbnail": {
-            "width": 474,
-            "height": 316
-          },
-          "webSearchUrl": "https://www.bing.com/images/search?q=hallgr%c3%admskirkja&id=C620D91D6103940CC49A9CFC2F7331D4664D1111&FORM=IARRTH",
-          "thumbnailUrl": "https://tse1.mm.bing.net/th?id=OIP.hfQW47eCLwRdzV3yIy-8aAHaE8&pid=Api",
-          "encodingFormat": "jpeg",
-          "contentUrl": "https://assets.atlasobscura.com/media/W1siZiIsInVwbG9hZHMvcGxhY2VfaW1hZ2VzLzlmMWIwODZhN2YwNDhlY2U4NjY4OTE1Mzc5YWNkMzc1MzQ5YzQ2Y2IuanBnIl0sWyJwIiwidGh1bWIiLCJ4MzkwPiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA4MSAtYXV0by1vcmllbnQiXV0/9f1b086a7f048ece8668915379acd375349c46cb.jpg"
-        },
-        {
-          "name": "The Colourful Buildings and Street Art of Reykjavik ...",
-          "datePublished": "2018-02-03T16:22:00Z",
-          "hostPageUrl": "http://www.theculturemap.com/colourful-buildings-street-art-reykjavik-iceland/",
-          "contentSize": "6950211 B",
-          "hostPageDisplayUrl": "http://www.theculturemap.com/colourful-buildings-street-art-reykjavik-iceland/",
-          "width": 5184,
-          "height": 3456,
-          "thumbnail": {
-            "width": 474,
-            "height": 316
-          },
-          "webSearchUrl": "https://www.bing.com/images/search?q=hallgr%c3%admskirkja&id=ECF5759A0E78A1C92549E6205D4012D1539ECB08&FORM=IARRTH",
-          "thumbnailUrl": "https://tse1.mm.bing.net/th?id=OIP.1dw7g_d3qp67b0t4ScOGFwHaE8&pid=Api",
-          "encodingFormat": "jpeg",
-          "contentUrl": "http://www.theculturemap.com/wp-content/uploads/2013/03/Hallgr%C3%ADmskirkja-Church-Reykjavik.jpg"
-        },
-        {
-          "name": "Unique Picture Around the World: Hallgrimskirkja Church ...",
-          "datePublished": "2013-03-22T12:00:00Z",
-          "hostPageUrl": "http://unigl.blogspot.com/2013/03/hallgrimskirkja-church-iceland.html",
-          "contentSize": "340093 B",
-          "hostPageDisplayUrl": "http://unigl.blogspot.com/2013/03/hallgrimskirkja-church-iceland.html",
-          "width": 1000,
-          "height": 667,
-          "thumbnail": {
-            "width": 474,
-            "height": 316
-          },
-          "webSearchUrl": "https://www.bing.com/images/search?q=hallgr%c3%admskirkja&id=213FB26A9DBD758CC0EA34E7BC17A60ABD9D2212&FORM=IARRTH",
-          "thumbnailUrl": "https://tse1.mm.bing.net/th?id=OIP.ToGSAo469wsfVb6omuHVpQHaE8&pid=Api",
-          "encodingFormat": "jpeg",
-          "contentUrl": "http://2.bp.blogspot.com/-8yr45mrAj68/UUwJeVTQo9I/AAAAAAAACmk/_xOFCcAV5Fs/s1600/Hallgrimskirkja_Church_Iceland+(20).jpg"
-        },
-        {
-          "name": "South & West Iceland Classic | 8 days / 7 nights | Iceland ...",
-          "datePublished": "2012-08-24T04:09:00Z",
-          "hostPageUrl": "https://iceland.nordicvisitor.com/travel-deals/self-drive-tours/family-adventure-in-reykjavik/750/",
-          "contentSize": "304465 B",
-          "hostPageDisplayUrl": "https://iceland.nordicvisitor.com/travel-deals/self-drive-tours/family-adventure-in-reykjavik/750/",
-          "width": 1920,
-          "height": 1080,
-          "thumbnail": {
-            "width": 474,
-            "height": 266
-          },
-          "webSearchUrl": "https://www.bing.com/images/search?q=hallgr%c3%admskirkja&id=49630F3B1970B580C1E48FBFD1FAE70B429259B8&FORM=IARRTH",
-          "thumbnailUrl": "https://tse1.mm.bing.net/th?id=OIP.YN4cX5s4Zvd3WjCgK1Rc6gHaEK&pid=Api",
-          "encodingFormat": "jpeg",
-          "contentUrl": "https://www.nordicvisitor.com/images/iceland/summer/hallgrimskirkja-reykjavik-iceland.jpg"
-        },
-        {
-          "name": "Images Cart : Hallgrimskirkja Church Iceland",
-          "datePublished": "2018-02-02T18:45:00Z",
-          "hostPageUrl": "http://imagescart.blogspot.com/2013/03/hallgrimskirkja-church-iceland.html",
-          "contentSize": "120331 B",
-          "hostPageDisplayUrl": "http://imagescart.blogspot.com/2013/03/hallgrimskirkja-church-iceland.html",
-          "width": 500,
-          "height": 351,
-          "thumbnail": {
-            "width": 474,
-            "height": 332
-          },
-          "webSearchUrl": "https://www.bing.com/images/search?q=hallgr%c3%admskirkja&id=B2C7909FC17DFDA20F35CBB7D8F4F49AF469B337&FORM=IARRTH",
-          "thumbnailUrl": "https://tse1.mm.bing.net/th?id=OIP.bywqAfVTjKg8_Aer9hzoJAHaFM&pid=Api",
-          "encodingFormat": "jpeg",
-          "contentUrl": "http://2.bp.blogspot.com/-Wjb8JTj442U/UUwHXjnNSJI/AAAAAAAAClI/NCtVJexuC3Y/s640/Hallgrimskirkja_Church_Iceland+(5).jpg"
-        },
-        {
-          "name": "Images Cart : Hallgrimskirkja Church Iceland",
-          "datePublished": "2018-02-02T18:45:00Z",
-          "hostPageUrl": "http://imagescart.blogspot.com/2013/03/hallgrimskirkja-church-iceland.html",
-          "contentSize": "828925 B",
-          "hostPageDisplayUrl": "http://imagescart.blogspot.com/2013/03/hallgrimskirkja-church-iceland.html",
-          "width": 1536,
-          "height": 862,
-          "thumbnail": {
-            "width": 474,
-            "height": 266
-          },
-          "webSearchUrl": "https://www.bing.com/images/search?q=hallgr%c3%admskirkja&id=B2C7909FC17DFDA20F353B81AAFE7407645127E8&FORM=IARRTH",
-          "thumbnailUrl": "https://tse1.mm.bing.net/th?id=OIP.LG4SoDdltV0uzoNrtrod-QHaEK&pid=Api",
-          "encodingFormat": "jpeg",
-          "contentUrl": "http://3.bp.blogspot.com/-kROkA8fmizA/UUwJqnDxPzI/AAAAAAAACpg/opS1DY_D9HU/s1600/Hallgrimskirkja_Church_Iceland.jpg"
-        },
-        {
-          "name": "Hallgrímskirkja Church: Inside Iceland's Most Bizarre Church",
-          "datePublished": "2015-12-12T01:03:00Z",
-          "hostPageUrl": "http://all-that-is-interesting.com/hallgrimskirkja-iceland",
-          "contentSize": "180889 B",
-          "hostPageDisplayUrl": "http://all-that-is-interesting.com/hallgrimskirkja-iceland",
-          "width": 900,
-          "height": 996,
-          "thumbnail": {
-            "width": 474,
-            "height": 524
-          },
-          "webSearchUrl": "https://www.bing.com/images/search?q=hallgr%c3%admskirkja&id=B836309B483EECF666BE83A4A6D12DF80C7CE456&FORM=IARRTH",
-          "thumbnailUrl": "https://tse1.mm.bing.net/th?id=OIP.kj_1a_JT-pB9MnXxDGqmZgHaIM&pid=Api",
-          "encodingFormat": "jpeg",
-          "contentUrl": "http://all-that-is-interesting.com/wordpress/wp-content/uploads/2015/11/hallgrimskirkja-iceland-cloudy-church.jpg"
-        },
-        {
-          "name": "Hallgrimskirkja – Reykjavik, Iceland | Atlas Obscura",
-          "datePublished": "2016-09-23T21:03:00Z",
-          "hostPageUrl": "http://www.atlasobscura.com/places/hallgrimskirkja",
-          "contentSize": "37581 B",
-          "hostPageDisplayUrl": "http://www.atlasobscura.com/places/hallgrimskirkja",
-          "width": 520,
-          "height": 390,
-          "thumbnail": {
-            "width": 474,
-            "height": 355
-          },
-          "webSearchUrl": "https://www.bing.com/images/search?q=hallgr%c3%admskirkja&id=1BB584D63B9E43866C354A74D465882E869406EF&FORM=IARRTH",
-          "thumbnailUrl": "https://tse1.mm.bing.net/th?id=OIP.zU8fD0VOtmxdfk5_nKOrSAHaFj&pid=Api",
-          "encodingFormat": "jpeg",
-          "contentUrl": "http://assets.atlasobscura.com/media/W1siZiIsInVwbG9hZHMvcGxhY2VfaW1hZ2VzL2MyMGQyN2E1YjQ4MGExY2Q0MGZlODIzNGEyNjJiYTJmMWQxMWY1MjAuanBnIl0sWyJwIiwidGh1bWIiLCJ4MzkwXHUwMDNlIl0sWyJwIiwiY29udmVydCIsIi1xdWFsaXR5IDkxIC1hdXRvLW9yaWVudCJdXQ/c20d27a5b480a1cd40fe8234a262ba2f1d11f520.jpg"
-        },
-        {
-          "name": "International Organ Summer in Hallgrímskirkja 2017 | What ...",
-          "datePublished": "2018-11-06T05:31:00Z",
-          "hostPageUrl": "https://www.whatson.is/event/international-organ-summer-hallgrimskirkja-2017-18/",
-          "contentSize": "266440 B",
-          "hostPageDisplayUrl": "https://www.whatson.is/event/international-organ-summer-hallgrimskirkja-2017-18/",
-          "width": 2000,
-          "height": 1219,
-          "thumbnail": {
-            "width": 474,
-            "height": 288
-          },
-          "webSearchUrl": "https://www.bing.com/images/search?q=hallgr%c3%admskirkja&id=2797530B6A33C8D551E5EE5F0D54D4CA66BE6BD3&FORM=IARRTH",
-          "thumbnailUrl": "https://tse1.mm.bing.net/th?id=OIP.GeL4o8G8JWGBMiUKTcMIGAHaEg&pid=Api",
-          "encodingFormat": "jpeg",
-          "contentUrl": "https://www.whatson.is/wp-content/uploads/2017/07/821576_3983_preview.jpg"
-        },
-        {
-          "name": "Hallgrimskirkja - Church in Reykjavík - Thousand Wonders",
-          "datePublished": "2019-01-11T23:40:00Z",
-          "hostPageUrl": "https://www.thousandwonders.net/Hallgrimskirkja",
-          "contentSize": "317449 B",
-          "hostPageDisplayUrl": "https://www.thousandwonders.net/Hallgrimskirkja",
-          "width": 1600,
-          "height": 900,
-          "thumbnail": {
-            "width": 474,
-            "height": 266
-          },
-          "webSearchUrl": "https://www.bing.com/images/search?q=hallgr%c3%admskirkja&id=22A0A5591C4750D7588C7AFB383AB3E3398CCBDD&FORM=IARRTH",
-          "thumbnailUrl": "https://tse1.mm.bing.net/th?id=OIP.VNKFxAtsAhz9v7TNYTEFxwHaEK&pid=Api",
-          "encodingFormat": "jpeg",
-          "contentUrl": "https://static.thousandwonders.net/Hallgrimskirkja.original.2742.jpg"
-        },
-        {
-          "name": "Hallgrímskirkja Church: Inside Iceland's Most Bizarre Church",
-          "datePublished": "2018-08-08T15:39:00Z",
-          "hostPageUrl": "http://allthatsinteresting.com/hallgrimskirkja-iceland",
-          "contentSize": "61369 B",
-          "hostPageDisplayUrl": "http://allthatsinteresting.com/hallgrimskirkja-iceland",
-          "width": 900,
-          "height": 597,
-          "thumbnail": {
-            "width": 474,
-            "height": 314
-          },
-          "webSearchUrl": "https://www.bing.com/images/search?q=hallgr%c3%admskirkja&id=EB340005E9955A400849887C6AAB345FFEE9D627&FORM=IARRTH",
-          "thumbnailUrl": "https://tse1.mm.bing.net/th?id=OIP.trfCLWCcJR1_tWWcB_f5tgHaE6&pid=Api",
-          "encodingFormat": "jpeg",
-          "contentUrl": "http://allthatsinteresting.com/wordpress/wp-content/uploads/2015/11/hallgrimskirkja-iceland-reverse-angle.jpg"
-        },
-        {
-          "name": "Iceland Hallgrimskirkja 1152x864 Wallpapers ...",
-          "datePublished": "2018-09-25T16:37:00Z",
-          "hostPageUrl": "http://wallpapers.brothersoft.com/iceland-hallgrimskirkja-106669-1152x864.html",
-          "contentSize": "141948 B",
-          "hostPageDisplayUrl": "http://wallpapers.brothersoft.com/iceland-hallgrimskirkja-106669-1152x864.html",
-          "width": 1152,
-          "height": 864,
-          "thumbnail": {
-            "width": 474,
-            "height": 355
-          },
-          "webSearchUrl": "https://www.bing.com/images/search?q=hallgr%c3%admskirkja&id=25BA6F67B9DD89B67082796BB17FDC213DC29ED4&FORM=IARRTH",
-          "thumbnailUrl": "https://tse1.mm.bing.net/th?id=OIP.-xnxVfSwj31BZzQrhWRG8QHaFj&pid=Api",
-          "encodingFormat": "jpeg",
-          "contentUrl": "http://wfiles.brothersoft.com/i/iceland-hallgrimskirkja_106669-1152x864.jpg"
-        },
-        {
-          "name": "Hallgrímskirkja Church - Hótel Ísland",
-          "datePublished": "2014-11-06T02:58:00Z",
-          "hostPageUrl": "http://www.hotelisland.is/hallgrimskirkja-church-2/",
-          "contentSize": "29980 B",
-          "hostPageDisplayUrl": "http://www.hotelisland.is/hallgrimskirkja-church-2/",
-          "width": 600,
-          "height": 450,
-          "thumbnail": {
-            "width": 474,
-            "height": 355
-          },
-          "webSearchUrl": "https://www.bing.com/images/search?q=hallgr%c3%admskirkja&id=498EF0358BB0FD873FF43DD4CEEBB14BD87C5557&FORM=IARRTH",
-          "thumbnailUrl": "https://tse1.mm.bing.net/th?id=OIP.ldRN0-sBRKXZsBpy34NkgwHaFj&pid=Api",
-          "encodingFormat": "jpeg",
-          "contentUrl": "http://www.hotelisland.is/wp-content/uploads/2014/08/church.jpg"
-        },
-        {
-          "name": "Iceland 2013 Tour Travelogue Part 1 (Podcast 387) • Martin ...",
-          "datePublished": "2013-09-16T12:00:00Z",
-          "hostPageUrl": "https://www.martinbaileyphotography.com/2013/09/16/iceland-2013-tour-travelogue-part-1-podcast-387/",
-          "contentSize": "81408 B",
-          "hostPageDisplayUrl": "https://www.martinbaileyphotography.com/2013/09/16/iceland-2013-tour-travelogue-part-1-podcast-387/",
-          "width": 1440,
-          "height": 960,
-          "thumbnail": {
-            "width": 474,
-            "height": 316
-          },
-          "webSearchUrl": "https://www.bing.com/images/search?q=hallgr%c3%admskirkja&id=D380CD3257CA51EC9CDCA80E3C7C4E45CB6B6AE6&FORM=IARRTH",
-          "thumbnailUrl": "https://tse1.mm.bing.net/th?id=OIP.6DVMl4G2kfL8-8I1w7JE0AHaE8&pid=Api",
-          "encodingFormat": "jpeg",
-          "contentUrl": "https://www.martinbaileyphotography.com/wp-content/uploads/2013/09/MBP_Iceland_20130826_81201.jpg"
-        },
-        {
-          "name": "Hallgrímskirkja « Juanmah",
-          "datePublished": "2012-08-12T12:00:00Z",
-          "hostPageUrl": "https://juanmah.wordpress.com/2012/08/12/hallgrimskirkja/",
-          "contentSize": "777853 B",
-          "hostPageDisplayUrl": "https://juanmah.wordpress.com/2012/08/12/hallgrimskirkja/",
-          "width": 2560,
-          "height": 2048,
-          "thumbnail": {
-            "width": 474,
-            "height": 379
-          },
-          "webSearchUrl": "https://www.bing.com/images/search?q=hallgr%c3%admskirkja&id=0BD9BC395BA4756FA6F04805FC7661F7576712B9&FORM=IARRTH",
-          "thumbnailUrl": "https://tse1.mm.bing.net/th?id=OIP.jYFT5VvUpNpz4tW9j8YvSAHaF7&pid=Api",
-          "encodingFormat": "jpeg",
-          "contentUrl": "https://juanmah.files.wordpress.com/2012/08/hallgrc3admskirkja-1-2560x20481.jpg"
-        },
-        {
-          "name": "Hallgrimskirkja - Church in Reykjavík - Thousand Wonders",
-          "datePublished": "2019-01-11T23:40:00Z",
-          "hostPageUrl": "https://www.thousandwonders.net/Hallgrimskirkja",
-          "contentSize": "169619 B",
-          "hostPageDisplayUrl": "https://www.thousandwonders.net/Hallgrimskirkja",
-          "width": 972,
-          "height": 640,
-          "thumbnail": {
-            "width": 474,
-            "height": 312
-          },
-          "webSearchUrl": "https://www.bing.com/images/search?q=hallgr%c3%admskirkja&id=22A0A5591C4750D7588C2C2959EF4EACA258B210&FORM=IARRTH",
-          "thumbnailUrl": "https://tse1.mm.bing.net/th?id=OIP.kPQeXjo4Ktl8tpqanHcJxwHaE4&pid=Api",
-          "encodingFormat": "jpeg",
-          "contentUrl": "https://static.thousandwonders.net/Hallgrimskirkja.640.5406.jpg"
-        }
-      ],
-      "displayShoppingSourcesBadges": false,
-      "displayRecipeSourcesBadges": false
-    },
-    "news": null,
-    "relatedSearches": {
-      "id": "https://api.cognitive.microsoft.com/api/v7/#RelatedSearches",
-      "value": [
-        {
-          "text": "famous church in iceland",
-          "displayText": "famous church in iceland",
-          "webSearchUrl": "https://www.bing.com/search?q=famous+church+in+iceland"
-        },
-        {
-          "text": "churches in iceland",
-          "displayText": "churches in iceland",
-          "webSearchUrl": "https://www.bing.com/search?q=churches+in+iceland"
-        },
-        {
-          "text": "hallgrimskirkja pronunciation",
-          "displayText": "hallgrimskirkja pronunciation",
-          "webSearchUrl": "https://www.bing.com/search?q=hallgrimskirkja+pronunciation"
-        },
-        {
-          "text": "church in reykjavik",
-          "displayText": "church in reykjavik",
-          "webSearchUrl": "https://www.bing.com/search?q=church+in+reykjavik"
-        },
-        {
-          "text": "reykjavik church tower",
-          "displayText": "reykjavik church tower",
-          "webSearchUrl": "https://www.bing.com/search?q=reykjavik+church+tower"
-        },
-        {
-          "text": "hallgrimskirkja church reykjavik iceland",
-          "displayText": "hallgrimskirkja church reykjavik iceland",
-          "webSearchUrl": "https://www.bing.com/search?q=hallgrimskirkja+church+reykjavik+iceland"
-        },
-        {
-          "text": "hallgrimskirkja church",
-          "displayText": "hallgrimskirkja church",
-          "webSearchUrl": "https://www.bing.com/search?q=hallgrimskirkja+church"
-        },
-        {
-          "text": "reykjavík cathedral",
-          "displayText": "reykjavík cathedral",
-          "webSearchUrl": "https://www.bing.com/search?q=reykjav%c3%adk+cathedral"
-        }
-      ]
-    },
-    "videos": {
-      "id": "https://api.cognitive.microsoft.com/api/v7/#Videos",
-      "readLink": "https://api.cognitive.microsoft.com/api/v7/videos/search?q=hallgr%c3%admskirkja",
-      "webSearchUrl": "https://www.bing.com/videos/search?q=hallgr%c3%admskirkja",
-      "isFamilyFriendly": true,
-      "value": [
-        {
-          "description": "Hallgrimskirkja Church supports the Lutheran faith in Reykjavik Iceland. The church is know for its dramatic architecture, and it is considered a landmark building in Reykjavik. It took more than 30 years to complete the design and construction of Hallgrimskirkja Church. The building was completed in the 1970s and thousands of tourists visit it ...",
-          "datePublished": "2015-08-23T02:04:19",
-          "publisher": [
-            {
-              "name": "YouTube"
-            }
-          ],
-          "contentUrl": "https://www.youtube.com/watch?v=AkcKYMkEdcQ",
-          "hostPageUrl": "https://www.youtube.com/watch?v=AkcKYMkEdcQ",
-          "encodingFormat": "mp4",
-          "hostPageDisplayUrl": "https://www.youtube.com/watch?v=AkcKYMkEdcQ",
-          "width": 1280,
-          "height": 720,
-          "duration": "PT56S",
-          "embedHtml": "<iframe width=\"1280\" height=\"720\" src=\"http://www.youtube.com/embed/AkcKYMkEdcQ?autoplay=1\" frameborder=\"0\" allowfullscreen></iframe>",
-          "allowHttpsEmbed": true,
-          "thumbnail": {
-            "width": 160,
-            "height": 120
-          },
-          "allowMobileEmbed": true,
-          "isSuperfresh": false,
-          "name": "Hallgrimskirkja Church - Reykjavik Iceland",
-          "thumbnailUrl": "https://tse1.mm.bing.net/th?id=OVP.811i_qZPbLjbeMXizgceFwEsDh&pid=Api",
-          "webSearchUrl": "https://www.bing.com/videos/search?q=hallgr%C3%ADmskirkja&view=detail&mid=096F8086D79CE0B249AC096F8086D79CE0B249AC",
-          "motionThumbnailUrl": "https://tse1.mm.bing.net/th?id=OM2.rEmy4JzXhoBvCQ_1545693684&pid=Api"
-        },
-        {
-          "description": "Tour around the Hallgrimskirkja Church in Reykjavik, Iceland. Hallgrímskirkja (Icelandic pronunciation: [ˈhatlkrimsˌcʰɪrca], church of Hallgrímur) is a Lutheran (Church of Iceland) parish church in Reykjavík, Iceland. At 73 metres (244 ft), it is the largest church in Iceland and the sixth tallest architectural structure in Iceland after ...",
-          "datePublished": "2014-01-04T21:54:43",
-          "publisher": [
-            {
-              "name": "YouTube"
-            }
-          ],
-          "contentUrl": "https://www.youtube.com/watch?v=Rkl-TjIWKrE",
-          "hostPageUrl": "https://www.youtube.com/watch?v=Rkl-TjIWKrE",
-          "encodingFormat": "mp4",
-          "hostPageDisplayUrl": "https://www.youtube.com/watch?v=Rkl-TjIWKrE",
-          "width": 1280,
-          "height": 720,
-          "duration": "PT1M38S",
-          "embedHtml": "<iframe width=\"1280\" height=\"720\" src=\"http://www.youtube.com/embed/Rkl-TjIWKrE?autoplay=1\" frameborder=\"0\" allowfullscreen></iframe>",
-          "allowHttpsEmbed": true,
-          "thumbnail": {
-            "width": 160,
-            "height": 120
-          },
-          "allowMobileEmbed": true,
-          "isSuperfresh": false,
-          "name": "Hallgrimskirkja Church in Reykjavik Iceland",
-          "thumbnailUrl": "https://tse2.mm.bing.net/th?id=OVP.sTw7-AVKAAUkwpU80ColhwHgFo&pid=Api",
-          "webSearchUrl": "https://www.bing.com/videos/search?q=hallgr%C3%ADmskirkja&view=detail&mid=3130A0A95B141D3603FF3130A0A95B141D3603FF",
-          "motionThumbnailUrl": "https://tse2.mm.bing.net/th?id=OM1._wM2HRRbqaAwMQ_1540035694&pid=Api"
-        },
-        {
-          "description": "The Hallgrímskirkja is a Lutheran (Church of Iceland) parish church in Reykjavík, Iceland. At 74.5 metres (244 ft), it is the largest church in Iceland and the sixth tallest architectural structure in Iceland after Longwave radio mast Hellissandur, the radio masts of US Navy at Grindavík, Eiðar longwave transmitter and Smáratorg tower. The ...",
-          "datePublished": "2012-06-03T13:10:23",
-          "publisher": [
-            {
-              "name": "YouTube"
-            }
-          ],
-          "contentUrl": "https://www.youtube.com/watch?v=FY6U0153UDE",
-          "hostPageUrl": "https://www.youtube.com/watch?v=FY6U0153UDE",
-          "encodingFormat": "mp4",
-          "hostPageDisplayUrl": "https://www.youtube.com/watch?v=FY6U0153UDE",
-          "width": 1280,
-          "height": 720,
-          "duration": "PT43S",
-          "embedHtml": "<iframe width=\"1280\" height=\"720\" src=\"http://www.youtube.com/embed/FY6U0153UDE?autoplay=1\" frameborder=\"0\" allowfullscreen></iframe>",
-          "allowHttpsEmbed": false,
-          "thumbnail": {
-            "width": 160,
-            "height": 120
-          },
-          "allowMobileEmbed": false,
-          "isSuperfresh": false,
-          "name": "Large Pipe Organ in Hallgrímskirkja Church - Reykjavik, Iceland",
-          "thumbnailUrl": "https://tse1.mm.bing.net/th?id=OVP.kG7g3bbnXFLyztgiZV-9xAEsDh&pid=Api",
-          "webSearchUrl": "https://www.bing.com/videos/search?q=hallgr%C3%ADmskirkja&view=detail&mid=D37D0CC317AE897395E2D37D0CC317AE897395E2",
-          "motionThumbnailUrl": "https://tse1.mm.bing.net/th?id=OM.4pVzia4Xwwx90w_1548059659&pid=Api"
-        },
-        {
-          "description": "Take a virtual tour of Hallgrímskirkja with your guides from Iceland Review Online. Learn more about the church's unusual design, meet one of the pastors, and finally find out what the deal is with that viking statue right in front of the entrance.",
-          "datePublished": "2015-06-13T21:29:20",
-          "publisher": [
-            {
-              "name": "YouTube"
-            }
-          ],
-          "contentUrl": "https://www.youtube.com/watch?v=lm8igCmEt1Y",
-          "hostPageUrl": "https://www.youtube.com/watch?v=lm8igCmEt1Y",
-          "encodingFormat": "mp4",
-          "hostPageDisplayUrl": "https://www.youtube.com/watch?v=lm8igCmEt1Y",
-          "width": 1280,
-          "height": 720,
-          "duration": "PT3M24S",
-          "embedHtml": "<iframe width=\"1280\" height=\"720\" src=\"http://www.youtube.com/embed/lm8igCmEt1Y?autoplay=1\" frameborder=\"0\" allowfullscreen></iframe>",
-          "allowHttpsEmbed": true,
-          "thumbnail": {
-            "width": 160,
-            "height": 120
-          },
-          "allowMobileEmbed": true,
-          "isSuperfresh": false,
-          "name": "Iceland in Motion -- Hallgrímskirkja",
-          "thumbnailUrl": "https://tse4.mm.bing.net/th?id=OVP.VNFIjDmdYSGD-agVN5QvEgEsDh&pid=Api",
-          "webSearchUrl": "https://www.bing.com/videos/search?q=hallgr%C3%ADmskirkja&view=detail&mid=A938D5A8653481C1C7DEA938D5A8653481C1C7DE",
-          "motionThumbnailUrl": "https://tse4.mm.bing.net/th?id=OM1.3sfBgTRlqNU4qQ_1543428060&pid=Api"
-        },
-        {
-          "description": "I took a trip to Iceland. The top of the hour Westminster chimes of Hallgrímskirkja in Reykjavík. This was taken on June 14, 2016 @ 16:00 Icelandic time (12:00 PM EST). The bells chime every 15 minutes. They turn the bells off at night. The bells run from 9 AM- 9 PM (9:00- 21:00) daily.",
-          "datePublished": "2016-06-18T03:26:19",
-          "publisher": [
-            {
-              "name": "YouTube"
-            }
-          ],
-          "contentUrl": "https://www.youtube.com/watch?v=c9VgtA4Pkrg",
-          "hostPageUrl": "https://www.youtube.com/watch?v=c9VgtA4Pkrg",
-          "encodingFormat": "mp4",
-          "hostPageDisplayUrl": "https://www.youtube.com/watch?v=c9VgtA4Pkrg",
-          "width": 480,
-          "height": 360,
-          "duration": "PT1M3S",
-          "embedHtml": "<iframe width=\"1280\" height=\"720\" src=\"http://www.youtube.com/embed/c9VgtA4Pkrg?autoplay=1\" frameborder=\"0\" allowfullscreen></iframe>",
-          "allowHttpsEmbed": true,
-          "thumbnail": {
-            "width": 160,
-            "height": 120
-          },
-          "allowMobileEmbed": true,
-          "isSuperfresh": false,
-          "name": "The Bells of Hallgrímskirkja- Reykjavík, Iceland",
-          "thumbnailUrl": "https://tse1.mm.bing.net/th?id=OVP.ppLnwc83SCRQLRPlFqNIswEsDh&pid=Api",
-          "webSearchUrl": "https://www.bing.com/videos/search?q=hallgr%C3%ADmskirkja&view=detail&mid=0D09794473A6BE0D6B910D09794473A6BE0D6B91",
-          "motionThumbnailUrl": "https://tse1.mm.bing.net/th?id=OM2.kWsNvqZzRHkJDQ_1545199945&pid=Api"
-        },
-        {
-          "description": "Hallgrímskirkja, which means church of Hallgrímur in Icelandic, is a Lutheran church in Reykjavík. It's not just a Lutheran church in Reykjavík; it's THE Lutheran church in Reykjavík on Skólavörðuholt, at the southeastern end of Skólavörðustígur overlooking the city. From up high inside the steeple, you can take in all of the ...",
-          "datePublished": "2014-12-14T13:57:45",
-          "publisher": [
-            {
-              "name": "YouTube"
-            }
-          ],
-          "contentUrl": "https://www.youtube.com/watch?v=bAW7DLiTwmQ",
-          "hostPageUrl": "https://www.youtube.com/watch?v=bAW7DLiTwmQ",
-          "encodingFormat": "mp4",
-          "hostPageDisplayUrl": "https://www.youtube.com/watch?v=bAW7DLiTwmQ",
-          "width": 1280,
-          "height": 720,
-          "duration": "PT1M39S",
-          "embedHtml": "<iframe width=\"1280\" height=\"720\" src=\"http://www.youtube.com/embed/bAW7DLiTwmQ?autoplay=1\" frameborder=\"0\" allowfullscreen></iframe>",
-          "allowHttpsEmbed": true,
-          "thumbnail": {
-            "width": 160,
-            "height": 120
-          },
-          "allowMobileEmbed": true,
-          "isSuperfresh": false,
-          "name": "The View from Hallgrimskirkja, Reykjavík, Iceland - 11 October 2014",
-          "thumbnailUrl": "https://tse4.mm.bing.net/th?id=OVP.lum9BrTk7it3Ix1eP869swEsDh&pid=Api",
-          "webSearchUrl": "https://www.bing.com/videos/search?q=hallgr%C3%ADmskirkja&view=detail&mid=D5B5F943ECCDC69554E8D5B5F943ECCDC69554E8",
-          "motionThumbnailUrl": "https://tse4.mm.bing.net/th?id=OM2.6FSVxs3sQ_m11Q_1545172876&pid=Api"
-        },
-        {
-          "description": "Hallgrimskirkja church is visible from almost anywhere in the city. The tower of the church is among the city's highest buildings and offers a great view of the city. The tower is open to guests daily from 9am to 5pm. Admission is 700ISK for adults and 100ISK for children 7-14 years old. Hallgrimskirkja is the largest church- and the sixth ...",
-          "datePublished": "2015-10-01T10:40:57",
-          "publisher": [
-            {
-              "name": "YouTube"
-            }
-          ],
-          "contentUrl": "https://www.youtube.com/watch?v=at1ENvi0Gw4",
-          "hostPageUrl": "https://www.youtube.com/watch?v=at1ENvi0Gw4",
-          "encodingFormat": "mp4",
-          "hostPageDisplayUrl": "https://www.youtube.com/watch?v=at1ENvi0Gw4",
-          "width": 1280,
-          "height": 720,
-          "duration": "PT1M9S",
-          "embedHtml": "<iframe width=\"1280\" height=\"720\" src=\"http://www.youtube.com/embed/at1ENvi0Gw4?autoplay=1\" frameborder=\"0\" allowfullscreen></iframe>",
-          "allowHttpsEmbed": true,
-          "thumbnail": {
-            "width": 160,
-            "height": 120
-          },
-          "allowMobileEmbed": true,
-          "isSuperfresh": false,
-          "name": "Hallgrimskirkja",
-          "thumbnailUrl": "https://tse2.mm.bing.net/th?id=OVP.PwIz0PCslc7FQ8x2ysb83AEsDh&pid=Api",
-          "webSearchUrl": "https://www.bing.com/videos/search?q=hallgr%C3%ADmskirkja&view=detail&mid=5BC0025E66932A5D66945BC0025E66932A5D6694",
-          "motionThumbnailUrl": "https://tse2.mm.bing.net/th?id=OM1.lGZdKpNmXgLAWw_1545895315&pid=Api"
-        },
-        {
-          "description": "Hallgrímskirkja is the iconic church on the hill in Reykjavik, Iceland. On a rare clear day during the Iceland Airwaves music festival, I took my quadcopter out for a spin to document the landscape. Be sure to watch in 1080p HD for full effect! Shot with a GoPro Hero3 Black in an Arris CM2000 brushless gimbal hanging from a DJI Phantom. Music ...",
-          "datePublished": "2013-11-26T00:51:06",
-          "publisher": [
-            {
-              "name": "YouTube"
-            }
-          ],
-          "contentUrl": "https://www.youtube.com/watch?v=VH7BLIMHMy8",
-          "hostPageUrl": "https://www.youtube.com/watch?v=VH7BLIMHMy8",
-          "encodingFormat": "mp4",
-          "hostPageDisplayUrl": "https://www.youtube.com/watch?v=VH7BLIMHMy8",
-          "width": 1280,
-          "height": 720,
-          "duration": "PT1M58S",
-          "embedHtml": "<iframe width=\"1280\" height=\"720\" src=\"http://www.youtube.com/embed/VH7BLIMHMy8?autoplay=1\" frameborder=\"0\" allowfullscreen></iframe>",
-          "allowHttpsEmbed": true,
-          "thumbnail": {
-            "width": 160,
-            "height": 120
-          },
-          "allowMobileEmbed": true,
-          "isSuperfresh": false,
-          "name": "Drone's eye view of Hallgrímskirkja - Reykjavik, Iceland",
-          "thumbnailUrl": "https://tse2.mm.bing.net/th?id=OVP.teJe1zb3gXocTABf4F5WwgEsDh&pid=Api",
-          "webSearchUrl": "https://www.bing.com/videos/search?q=hallgr%C3%ADmskirkja&view=detail&mid=D1AC3875277C4DD63A5CD1AC3875277C4DD63A5C",
-          "motionThumbnailUrl": "https://tse2.mm.bing.net/th?id=OM1.XDrWTXwndTis0Q_1543506389&pid=Api"
-        },
-        {
-          "description": "From the outside and inside the church, which is the highest building of Iceland.",
-          "datePublished": "2012-05-15T04:31:51",
-          "publisher": [
-            {
-              "name": "YouTube"
-            }
-          ],
-          "contentUrl": "https://www.youtube.com/watch?v=zcQDqxB_b4U",
-          "hostPageUrl": "https://www.youtube.com/watch?v=zcQDqxB_b4U",
-          "encodingFormat": "mp4",
-          "hostPageDisplayUrl": "https://www.youtube.com/watch?v=zcQDqxB_b4U",
-          "width": 1280,
-          "height": 720,
-          "duration": "PT1M42S",
-          "embedHtml": "<iframe width=\"1280\" height=\"720\" src=\"http://www.youtube.com/embed/zcQDqxB_b4U?autoplay=1\" frameborder=\"0\" allowfullscreen></iframe>",
-          "allowHttpsEmbed": true,
-          "thumbnail": {
-            "width": 160,
-            "height": 120
-          },
-          "allowMobileEmbed": true,
-          "isSuperfresh": false,
-          "name": "Hallgrímskirkja",
-          "thumbnailUrl": "https://tse1.mm.bing.net/th?id=OVP.lImeO4JVVfIor5c9DckyTgEsDh&pid=Api",
-          "webSearchUrl": "https://www.bing.com/videos/search?q=hallgr%C3%ADmskirkja&view=detail&mid=596CD374055982F69D81596CD374055982F69D81",
-          "motionThumbnailUrl": "https://tse1.mm.bing.net/th?id=OM1.gZ32glkFdNNsWQ_1544186491&pid=Api"
-        },
-        {
-          "description": "Hallgrímskirkja (Icelandic pronunciation: [ˈhatlkrimsˌcʰɪrca], church of Hallgrímur) is a Lutheran (Church of Iceland) parish church in Reykjavík, Iceland. At 73 metres (244 ft), it is the largest church in Iceland and the sixth tallest architectural structure in Iceland after Longwave radio mast Hellissandur, the radio masts of the US ...",
-          "datePublished": "2014-11-28T13:37:16",
-          "publisher": [
-            {
-              "name": "YouTube"
-            }
-          ],
-          "contentUrl": "https://www.youtube.com/watch?v=-Sle8FrgvmE",
-          "hostPageUrl": "https://www.youtube.com/watch?v=-Sle8FrgvmE",
-          "encodingFormat": "mp4",
-          "hostPageDisplayUrl": "https://www.youtube.com/watch?v=-Sle8FrgvmE",
-          "width": 1280,
-          "height": 720,
-          "duration": "PT1M18S",
-          "embedHtml": "<iframe width=\"1280\" height=\"720\" src=\"http://www.youtube.com/embed/-Sle8FrgvmE?autoplay=1\" frameborder=\"0\" allowfullscreen></iframe>",
-          "allowHttpsEmbed": true,
-          "thumbnail": {
-            "width": 160,
-            "height": 120
-          },
-          "allowMobileEmbed": true,
-          "isSuperfresh": false,
-          "name": "Reykjavík, Iceland - Hallgrímskirkja HD (2014)",
-          "thumbnailUrl": "https://tse4.mm.bing.net/th?id=OVP.L7WlwHo6Npe8ON5BQ6Z3AAEsDh&pid=Api",
-          "webSearchUrl": "https://www.bing.com/videos/search?q=hallgr%C3%ADmskirkja&view=detail&mid=58A80323173E2CA97C7C58A80323173E2CA97C7C",
-          "motionThumbnailUrl": "https://tse4.mm.bing.net/th?id=OM1.fHypLD4XIwOoWA_1543276718&pid=Api"
-        }
-      ],
-      "scenario": "List"
-    },
-    "rankingResponse": {
-      "mainline": {
-        "items": [
-          {
-            "answerType": "WebPages",
-            "value": {
-              "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.0"
-            },
-            "resultIndex": 0
-          },
-          {
-            "answerType": "Videos",
-            "value": {
-              "id": "https://api.cognitive.microsoft.com/api/v7/#Videos"
-            },
-            "resultIndex": 0
-          },
-          {
-            "answerType": "WebPages",
-            "value": {
-              "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.1"
-            },
-            "resultIndex": 1
-          },
-          {
-            "answerType": "WebPages",
-            "value": {
-              "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.2"
-            },
-            "resultIndex": 2
-          },
-          {
-            "answerType": "WebPages",
-            "value": {
-              "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.3"
-            },
-            "resultIndex": 3
-          },
-          {
-            "answerType": "WebPages",
-            "value": {
-              "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.4"
-            },
-            "resultIndex": 4
-          },
-          {
-            "answerType": "WebPages",
-            "value": {
-              "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.5"
-            },
-            "resultIndex": 5
-          },
-          {
-            "answerType": "WebPages",
-            "value": {
-              "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.6"
-            },
-            "resultIndex": 6
-          },
-          {
-            "answerType": "WebPages",
-            "value": {
-              "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.7"
-            },
-            "resultIndex": 7
-          },
-          {
-            "answerType": "WebPages",
-            "value": {
-              "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.8"
-            },
-            "resultIndex": 8
-          },
-          {
-            "answerType": "WebPages",
-            "value": {
-              "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.9"
-            },
-            "resultIndex": 9
-          },
-          {
-            "answerType": "RelatedSearches",
-            "value": {
-              "id": "https://api.cognitive.microsoft.com/api/v7/#RelatedSearches"
-            },
-            "resultIndex": 0
-          }
-        ]
-      },
-      "sidebar": {
-        "items": [
-          {
-            "answerType": "Images",
-            "value": {
-              "id": "https://api.cognitive.microsoft.com/api/v7/#Images"
-            }
-          },
-          {
-            "answerType": "Entities",
-            "value": {
-              "id": "https://api.cognitive.microsoft.com/api/v7/#Entities.0"
-            }
-          }
-        ]
-      }
-    },
-    "entities": {
-      "value": [
-        {
-          "contractualRules": [
-            {
-              "_type": "ContractualRules/LicenseAttribution",
-              "targetPropertyName": "description",
-              "mustBeCloseToContent": true,
-              "license": {
-                "name": "CC-BY-SA",
-                "url": "http://creativecommons.org/licenses/by-sa/3.0/"
-              },
-              "licenseNotice": "Text under CC-BY-SA license",
-              "text": null,
-              "url": null
-            },
-            {
-              "_type": "ContractualRules/LinkAttribution",
-              "targetPropertyName": "description",
-              "mustBeCloseToContent": true,
-              "license": null,
-              "licenseNotice": null,
-              "text": "Wikipedia",
-              "url": "http://en.wikipedia.org/wiki/Hallgr%C3%ADmskirkja"
-            },
-            {
-              "_type": "ContractualRules/MediaAttribution",
-              "targetPropertyName": "image",
-              "mustBeCloseToContent": true,
-              "license": null,
-              "licenseNotice": null,
-              "text": null,
-              "url": "http://en.wikipedia.org/wiki/Hallgr%C3%ADmskirkja"
-            }
-          ],
-          "image": {
-            "name": "Hallgrímskirkja",
-            "thumbnailUrl": "https://www.bing.com/th?id=AMMS_cac8f67805430d23a18e6a1f1baa71be&w=110&h=110&c=7&rs=1&qlt=80&cdv=1&pid=16.1",
-            "provider": [
-              {
-                "_type": "Organization",
-                "url": "http://en.wikipedia.org/wiki/Hallgr%C3%ADmskirkja"
-              }
-            ],
-            "hostPageUrl": "http://upload.wikimedia.org/wikipedia/commons/0/0f/Hallgrimskirkja_%2821877785058%29.jpg",
-            "width": 110,
-            "height": 110
-          },
-          "description": "Hallgrímskirkja is a Lutheran parish church in Reykjavík, Iceland. At 74.5 metres high, it is the largest church in Iceland and among the tallest structures in the country. The church is named after the Icelandic poet and clergyman Hallgrímur Pétursson, author of the Passion Hymns.",
-          "bingId": "0e704a40-ecb9-2ae8-d643-b2c7c79d9a24",
-          "webSearchUrl": "https://www.bing.com/entityexplore?q=Hallgr%c3%admskirkja&filters=sid:%220e704a40-ecb9-2ae8-d643-b2c7c79d9a24%22&elv=AXXfrEiqqD9r3GuelwApulqX51FnGX3*JZXryFcEMIZJBXM0*4rrG*XmnfN9KBBs*EPlt8CJie9o8rYIoG9f2M00xJfxqAzwSL1NkHolaoAT",
-          "name": "Hallgrímskirkja",
-          "url": null,
-          "entityPresentationInfo": {
-            "entityScenario": "DominantEntity",
-            "entityTypeHints": [
-              "Attraction"
-            ],
-            "entityTypeDisplayHint": "Parish Church"
-          }
-        }
-      ]
-    }
-  },
-  "RawJson": "{\r\n  \"_type\": \"SearchResponse\",\r\n  \"webPages\": {\r\n    \"webSearchUrl\": \"https://www.bing.com/search?q=hallgr%c3%admskirkja\",\r\n    \"totalEstimatedMatches\": 179000,\r\n    \"value\": [\r\n      {\r\n        \"id\": \"https://api.cognitive.microsoft.com/api/v7/#WebPages.0\",\r\n        \"deepLinks\": null,\r\n        \"dateLastCrawled\": \"2019-01-29T22:33:00Z\",\r\n        \"about\": [\r\n          {\r\n            \"name\": \"Hallgrímskirkja\"\r\n          }\r\n        ],\r\n        \"name\": \"Hallgrímskirkja - Wikipedia\",\r\n        \"url\": \"https://en.wikipedia.org/wiki/Hallgr%C3%ADmskirkja\",\r\n        \"displayUrl\": \"https://en.wikipedia.org/wiki/Hallgrímskirkja\",\r\n        \"snippet\": \"Hallgrímskirkja (Icelandic pronunciation: [ˈhatl̥krimsˌcʰɪr̥ca], church of Hallgrímur) is a Lutheran (Church of Iceland) parish church in Reykjavík, Iceland. At 74.5 metres (244 ft) high, it is the largest church in Iceland and among the tallest structures in the country.\"\r\n      },\r\n      {\r\n        \"id\": \"https://api.cognitive.microsoft.com/api/v7/#WebPages.1\",\r\n        \"deepLinks\": [\r\n          {\r\n            \"name\": \"The Tower\",\r\n            \"url\": \"http://en.hallgrimskirkja.is/information/the-tower\"\r\n          },\r\n          {\r\n            \"name\": \"Events\",\r\n            \"url\": \"http://en.hallgrimskirkja.is/information/events/\"\r\n          },\r\n          {\r\n            \"name\": \"History\",\r\n            \"url\": \"http://en.hallgrimskirkja.is/about/\"\r\n          },\r\n          {\r\n            \"name\": \"Ceremonies\",\r\n            \"url\": \"http://en.hallgrimskirkja.is/ceremonies/\"\r\n          },\r\n          {\r\n            \"name\": \"Information\",\r\n            \"url\": \"http://en.hallgrimskirkja.is/\"\r\n          }\r\n        ],\r\n        \"dateLastCrawled\": \"2019-01-30T00:16:00Z\",\r\n        \"about\": [\r\n          {\r\n            \"name\": \"Hallgrímskirkja\"\r\n          }\r\n        ],\r\n        \"name\": \"Hallgrímskirkja – Reykjavík\",\r\n        \"url\": \"http://en.hallgrimskirkja.is/\",\r\n        \"displayUrl\": \"en.hallgrimskirkja.is\",\r\n        \"snippet\": \"Hallgrímskirkja stands guard over Reykjavík. The church is both a parish church and a national sanctuary in Iceland. Its stepped concrete facade is an ode to modernism and a reminder of the Icelandic landscape.\"\r\n      },\r\n      {\r\n        \"id\": \"https://api.cognitive.microsoft.com/api/v7/#WebPages.2\",\r\n        \"deepLinks\": null,\r\n        \"dateLastCrawled\": \"2019-01-29T23:02:00Z\",\r\n        \"about\": [\r\n          {\r\n            \"name\": \"Hallgrímskirkja\"\r\n          }\r\n        ],\r\n        \"name\": \"Hallgrimskirkja Church | Visit Reykjavík\",\r\n        \"url\": \"https://visitreykjavik.is/hallgrimskirkja-church\",\r\n        \"displayUrl\": \"https://visitreykjavik.is/hallgrimskirkja-church\",\r\n        \"snippet\": \"Hallgrímskirkja church is Reykjavík's main landmark and its tower can be seen from almost everywhere in the city. It was designed by the late Guðjón Samúelsson in 1937, who was often inspired in his endeavours by the fascinating shapes and forms created when lava cools into basalt rock.\"\r\n      },\r\n      {\r\n        \"id\": \"https://api.cognitive.microsoft.com/api/v7/#WebPages.3\",\r\n        \"deepLinks\": null,\r\n        \"dateLastCrawled\": \"2019-01-25T09:31:00Z\",\r\n        \"about\": null,\r\n        \"name\": \"Hallgrímskirkja | Reykjavík, Iceland Attractions - Lonely ...\",\r\n        \"url\": \"https://www.lonelyplanet.com/iceland/reykjavik/attractions/hallgrimskirkja/a/poi-sig/426241/359560\",\r\n        \"displayUrl\": \"https://www.lonelyplanet.com/iceland/reykjavik/attractions/...\",\r\n        \"snippet\": \"Hallgrímskirkja (pronounced hatl-krims-kirkya) was named after poet Reverend Hallgrímur Pétursson (1614–1674), who wrote Iceland’s most popular hymn book: Passíusálmar (Passion Hymns).\"\r\n      },\r\n      {\r\n        \"id\": \"https://api.cognitive.microsoft.com/api/v7/#WebPages.4\",\r\n        \"deepLinks\": null,\r\n        \"dateLastCrawled\": \"2019-01-30T12:37:00Z\",\r\n        \"about\": [\r\n          {\r\n            \"name\": \"Hallgrímskirkja\"\r\n          },\r\n          {\r\n            \"name\": \"Iceland\"\r\n          }\r\n        ],\r\n        \"name\": \"Hallgrímskirkja Church: Inside Iceland's Most Bizarre Church\",\r\n        \"url\": \"https://allthatsinteresting.com/hallgrimskirkja-iceland\",\r\n        \"displayUrl\": \"https://allthatsinteresting.com/hallgrimskirkja-iceland\",\r\n        \"snippet\": \"Hallgrímskirkja’s organ, the only bright jewel in the church’s bleak interior, was installed six years later in 1992. This incredible instrument built by the German artisan Johannes Klais is nearly 50 feet tall, weighs around 25 tons, and has more than 5,000 bellowing pipes.\"\r\n      },\r\n      {\r\n        \"id\": \"https://api.cognitive.microsoft.com/api/v7/#WebPages.5\",\r\n        \"deepLinks\": null,\r\n        \"dateLastCrawled\": \"2019-01-26T06:54:00Z\",\r\n        \"about\": null,\r\n        \"name\": \"Category:Hallgrímskirkja - Wikimedia Commons\",\r\n        \"url\": \"https://commons.wikimedia.org/wiki/Category:Hallgr%C3%ADmskirkja\",\r\n        \"displayUrl\": \"https://commons.wikimedia.org/wiki/Category:Hallgrímskirkja\",\r\n        \"snippet\": \"Media in category \\\"Hallgrímskirkja\\\" The following 50 files are in this category, out of 50 total.\"\r\n      },\r\n      {\r\n        \"id\": \"https://api.cognitive.microsoft.com/api/v7/#WebPages.6\",\r\n        \"deepLinks\": null,\r\n        \"dateLastCrawled\": \"2019-01-19T10:38:00Z\",\r\n        \"about\": [\r\n          {\r\n            \"name\": \"Hallgrímskirkja\"\r\n          }\r\n        ],\r\n        \"name\": \"Hallgrímskirkja | church, Saurbaer, Iceland | Britannica.com\",\r\n        \"url\": \"https://www.britannica.com/place/Hallgrimskirkja\",\r\n        \"displayUrl\": \"https://www.britannica.com/place/Hallgrimskirkja\",\r\n        \"snippet\": \"Other articles where Hallgrímskirkja is discussed: Hallgrímur Pétursson: The Hallgrímskirkja, a memorial church built in the poet’s honour at Reykjavík, is one of the largest and finest churches in Iceland.\"\r\n      },\r\n      {\r\n        \"id\": \"https://api.cognitive.microsoft.com/api/v7/#WebPages.7\",\r\n        \"deepLinks\": null,\r\n        \"dateLastCrawled\": \"2019-01-26T03:38:00Z\",\r\n        \"about\": null,\r\n        \"name\": \"Hallgrímskirkja church : Reykjavik : Travel Guide : Nordic ...\",\r\n        \"url\": \"https://iceland.nordicvisitor.com/travel-guide/attractions/reykjavik-capital-area/hallgrimskirkja/\",\r\n        \"displayUrl\": \"https://iceland.nordicvisitor.com/travel-guide/attractions/...\",\r\n        \"snippet\": \"Hallgrímskirkja is the landmark Lutheran church in Reykjavík. Standing 73 meters tall, Hallgrímskirkja is the largest church in the country and is named for Hallgrímur Pétursson, author of the Passion Hymns. The design of the church is said to be inspired by the basalt lava columns that line many areas along Iceland’s coast.\"\r\n      },\r\n      {\r\n        \"id\": \"https://api.cognitive.microsoft.com/api/v7/#WebPages.8\",\r\n        \"deepLinks\": null,\r\n        \"dateLastCrawled\": \"2019-01-29T17:28:00Z\",\r\n        \"about\": [\r\n          {\r\n            \"name\": \"Hallgrímskirkja\"\r\n          }\r\n        ],\r\n        \"name\": \"Hallgrimskirkja, Reykjavik - TripAdvisor\",\r\n        \"url\": \"https://www.tripadvisor.com/Attraction_Review-g189970-d245998-Reviews-Hallgrimskirkja-Reykjavik_Capital_Region.html\",\r\n        \"displayUrl\": \"https://www.tripadvisor.com/Attraction_Review-g189970-d245998...\",\r\n        \"snippet\": \"We visited Hallgrimskirkja on our last afternoon in Reykjavik. The church itself is interesting but the view from the top of the spire is amazing - 360 degree views of Reykjavik and the mountains beyond. There is a lift to the top followed by 1... More. Date of experience: January 2019. Thank Deb R .\"\r\n      },\r\n      {\r\n        \"id\": \"https://api.cognitive.microsoft.com/api/v7/#WebPages.9\",\r\n        \"deepLinks\": null,\r\n        \"dateLastCrawled\": \"2019-01-26T11:16:00Z\",\r\n        \"about\": null,\r\n        \"name\": \"Hallgrímskirkja | Guide to Iceland\",\r\n        \"url\": \"https://guidetoiceland.is/travel-iceland/drive/hallgrimskirkja\",\r\n        \"displayUrl\": \"https://guidetoiceland.is/travel-iceland/drive/hallgrimskirkja\",\r\n        \"snippet\": \"Hallgrímskirkja is a Lutheran church, located on top of the Skólavörðuhæð hill in the centre of Reykjavík. At 74.5 metres (245 feet) tall, it is the largest church in Iceland, and its tower offers a spectacular panoramic view over the city.\"\r\n      }\r\n    ]\r\n  },\r\n  \"images\": {\r\n    \"id\": \"https://api.cognitive.microsoft.com/api/v7/#Images\",\r\n    \"readLink\": \"https://api.cognitive.microsoft.com/api/v7/images/search?q=hallgr%c3%admskirkja&qpvt=hallgr%c3%admskirkja\",\r\n    \"webSearchUrl\": \"https://www.bing.com/images/search?q=hallgr%c3%admskirkja&qpvt=hallgr%c3%admskirkja\",\r\n    \"isFamilyFriendly\": true,\r\n    \"value\": [\r\n      {\r\n        \"name\": \"Hallgrimskirkja - Church in Reykjavík - Thousand Wonders\",\r\n        \"datePublished\": \"2015-02-08T06:20:00Z\",\r\n        \"hostPageUrl\": \"http://www.thousandwonders.net/Hallgrimskirkja\",\r\n        \"contentSize\": \"874452 B\",\r\n        \"hostPageDisplayUrl\": \"http://www.thousandwonders.net/Hallgrimskirkja\",\r\n        \"width\": 1920,\r\n        \"height\": 1200,\r\n        \"thumbnail\": {\r\n          \"width\": 474,\r\n          \"height\": 296\r\n        },\r\n        \"webSearchUrl\": \"https://www.bing.com/images/search?q=hallgr%c3%admskirkja&id=EA4DA8E7B894D2582528C159D9647D5ADE3EB2F9&FORM=IARRTH\",\r\n        \"thumbnailUrl\": \"https://tse1.mm.bing.net/th?id=OIP.HifNEnfoTJWYfgMhNCfAFAHaEo&pid=Api\",\r\n        \"encodingFormat\": \"jpeg\",\r\n        \"contentUrl\": \"http://static.thousandwonders.net/Hallgrimskirkja.original.5405.jpg\"\r\n      },\r\n      {\r\n        \"name\": \"Datei:Hallgrimskirkja by Andreas Tille.jpg – Wikipedia\",\r\n        \"datePublished\": \"2018-10-25T00:23:00Z\",\r\n        \"hostPageUrl\": \"https://de.wikipedia.org/wiki/Datei:Hallgrimskirkja_by_Andreas_Tille.jpg\",\r\n        \"contentSize\": \"347005 B\",\r\n        \"hostPageDisplayUrl\": \"https://de.wikipedia.org/wiki/Datei:Hallgrimskirkja_by_Andreas_Tille.jpg\",\r\n        \"width\": 1024,\r\n        \"height\": 768,\r\n        \"thumbnail\": {\r\n          \"width\": 474,\r\n          \"height\": 355\r\n        },\r\n        \"webSearchUrl\": \"https://www.bing.com/images/search?q=hallgr%c3%admskirkja&id=83884802BF279F05B1962FE245AF24D37F3BAA00&FORM=IARRTH\",\r\n        \"thumbnailUrl\": \"https://tse1.mm.bing.net/th?id=OIP.gEsyyz84JdKbGz-0onxtZgHaFj&pid=Api\",\r\n        \"encodingFormat\": \"jpeg\",\r\n        \"contentUrl\": \"https://upload.wikimedia.org/wikipedia/de/3/37/Hallgrimskirkja_by_Andreas_Tille.jpg\"\r\n      },\r\n      {\r\n        \"name\": \"Hallgrímskirkja Church: Inside Iceland's Most Bizarre Church\",\r\n        \"datePublished\": \"2015-12-12T01:03:00Z\",\r\n        \"hostPageUrl\": \"http://all-that-is-interesting.com/hallgrimskirkja-iceland\",\r\n        \"contentSize\": \"63414 B\",\r\n        \"hostPageDisplayUrl\": \"http://all-that-is-interesting.com/hallgrimskirkja-iceland\",\r\n        \"width\": 900,\r\n        \"height\": 598,\r\n        \"thumbnail\": {\r\n          \"width\": 474,\r\n          \"height\": 314\r\n        },\r\n        \"webSearchUrl\": \"https://www.bing.com/images/search?q=hallgr%c3%admskirkja&id=B836309B483EECF666BEC2F5CD890B07C6190707&FORM=IARRTH\",\r\n        \"thumbnailUrl\": \"https://tse1.mm.bing.net/th?id=OIP.Z_Y9fNjqylzcvnCqyntUDgHaE6&pid=Api\",\r\n        \"encodingFormat\": \"jpeg\",\r\n        \"contentUrl\": \"http://all-that-is-interesting.com/wordpress/wp-content/uploads/2015/11/hallgrimskirkja-iceland-church-daylight.jpg\"\r\n      },\r\n      {\r\n        \"name\": \"Iceland Bucket List: Reykjavik\",\r\n        \"datePublished\": \"2016-10-07T11:32:00Z\",\r\n        \"hostPageUrl\": \"https://www.extremeiceland.is/en/information/news-and-blog/3184-iceland-bucket-list-reykjavik\",\r\n        \"contentSize\": \"576110 B\",\r\n        \"hostPageDisplayUrl\": \"https://www.extremeiceland.is/en/information/news-and-blog/3184-iceland-bucket-list-reykjavik\",\r\n        \"width\": 1500,\r\n        \"height\": 1000,\r\n        \"thumbnail\": {\r\n          \"width\": 474,\r\n          \"height\": 316\r\n        },\r\n        \"webSearchUrl\": \"https://www.bing.com/images/search?q=hallgr%c3%admskirkja&id=C061CF4A366227D8157013BCC2E8365BF7BE46E4&FORM=IARRTH\",\r\n        \"thumbnailUrl\": \"https://tse1.mm.bing.net/th?id=OIP.MWASbJx3u7O3HgDgNAEcsAHaE8&pid=Api\",\r\n        \"encodingFormat\": \"jpeg\",\r\n        \"contentUrl\": \"https://www.extremeiceland.is/images/blog/BucketListReykj/Hallgrimskirkja-1500.jpg\"\r\n      },\r\n      {\r\n        \"name\": \"Hallgrimskirkja – Reykjavik, Iceland - Atlas Obscura\",\r\n        \"datePublished\": \"2018-01-07T10:44:00Z\",\r\n        \"hostPageUrl\": \"https://www.atlasobscura.com/places/hallgrimskirkja\",\r\n        \"contentSize\": \"50799 B\",\r\n        \"hostPageDisplayUrl\": \"https://www.atlasobscura.com/places/hallgrimskirkja\",\r\n        \"width\": 585,\r\n        \"height\": 390,\r\n        \"thumbnail\": {\r\n          \"width\": 474,\r\n          \"height\": 316\r\n        },\r\n        \"webSearchUrl\": \"https://www.bing.com/images/search?q=hallgr%c3%admskirkja&id=C620D91D6103940CC49A9CFC2F7331D4664D1111&FORM=IARRTH\",\r\n        \"thumbnailUrl\": \"https://tse1.mm.bing.net/th?id=OIP.hfQW47eCLwRdzV3yIy-8aAHaE8&pid=Api\",\r\n        \"encodingFormat\": \"jpeg\",\r\n        \"contentUrl\": \"https://assets.atlasobscura.com/media/W1siZiIsInVwbG9hZHMvcGxhY2VfaW1hZ2VzLzlmMWIwODZhN2YwNDhlY2U4NjY4OTE1Mzc5YWNkMzc1MzQ5YzQ2Y2IuanBnIl0sWyJwIiwidGh1bWIiLCJ4MzkwPiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA4MSAtYXV0by1vcmllbnQiXV0/9f1b086a7f048ece8668915379acd375349c46cb.jpg\"\r\n      },\r\n      {\r\n        \"name\": \"The Colourful Buildings and Street Art of Reykjavik ...\",\r\n        \"datePublished\": \"2018-02-03T16:22:00Z\",\r\n        \"hostPageUrl\": \"http://www.theculturemap.com/colourful-buildings-street-art-reykjavik-iceland/\",\r\n        \"contentSize\": \"6950211 B\",\r\n        \"hostPageDisplayUrl\": \"http://www.theculturemap.com/colourful-buildings-street-art-reykjavik-iceland/\",\r\n        \"width\": 5184,\r\n        \"height\": 3456,\r\n        \"thumbnail\": {\r\n          \"width\": 474,\r\n          \"height\": 316\r\n        },\r\n        \"webSearchUrl\": \"https://www.bing.com/images/search?q=hallgr%c3%admskirkja&id=ECF5759A0E78A1C92549E6205D4012D1539ECB08&FORM=IARRTH\",\r\n        \"thumbnailUrl\": \"https://tse1.mm.bing.net/th?id=OIP.1dw7g_d3qp67b0t4ScOGFwHaE8&pid=Api\",\r\n        \"encodingFormat\": \"jpeg\",\r\n        \"contentUrl\": \"http://www.theculturemap.com/wp-content/uploads/2013/03/Hallgr%C3%ADmskirkja-Church-Reykjavik.jpg\"\r\n      },\r\n      {\r\n        \"name\": \"Unique Picture Around the World: Hallgrimskirkja Church ...\",\r\n        \"datePublished\": \"2013-03-22T12:00:00Z\",\r\n        \"hostPageUrl\": \"http://unigl.blogspot.com/2013/03/hallgrimskirkja-church-iceland.html\",\r\n        \"contentSize\": \"340093 B\",\r\n        \"hostPageDisplayUrl\": \"http://unigl.blogspot.com/2013/03/hallgrimskirkja-church-iceland.html\",\r\n        \"width\": 1000,\r\n        \"height\": 667,\r\n        \"thumbnail\": {\r\n          \"width\": 474,\r\n          \"height\": 316\r\n        },\r\n        \"webSearchUrl\": \"https://www.bing.com/images/search?q=hallgr%c3%admskirkja&id=213FB26A9DBD758CC0EA34E7BC17A60ABD9D2212&FORM=IARRTH\",\r\n        \"thumbnailUrl\": \"https://tse1.mm.bing.net/th?id=OIP.ToGSAo469wsfVb6omuHVpQHaE8&pid=Api\",\r\n        \"encodingFormat\": \"jpeg\",\r\n        \"contentUrl\": \"http://2.bp.blogspot.com/-8yr45mrAj68/UUwJeVTQo9I/AAAAAAAACmk/_xOFCcAV5Fs/s1600/Hallgrimskirkja_Church_Iceland+(20).jpg\"\r\n      },\r\n      {\r\n        \"name\": \"South & West Iceland Classic | 8 days / 7 nights | Iceland ...\",\r\n        \"datePublished\": \"2012-08-24T04:09:00Z\",\r\n        \"hostPageUrl\": \"https://iceland.nordicvisitor.com/travel-deals/self-drive-tours/family-adventure-in-reykjavik/750/\",\r\n        \"contentSize\": \"304465 B\",\r\n        \"hostPageDisplayUrl\": \"https://iceland.nordicvisitor.com/travel-deals/self-drive-tours/family-adventure-in-reykjavik/750/\",\r\n        \"width\": 1920,\r\n        \"height\": 1080,\r\n        \"thumbnail\": {\r\n          \"width\": 474,\r\n          \"height\": 266\r\n        },\r\n        \"webSearchUrl\": \"https://www.bing.com/images/search?q=hallgr%c3%admskirkja&id=49630F3B1970B580C1E48FBFD1FAE70B429259B8&FORM=IARRTH\",\r\n        \"thumbnailUrl\": \"https://tse1.mm.bing.net/th?id=OIP.YN4cX5s4Zvd3WjCgK1Rc6gHaEK&pid=Api\",\r\n        \"encodingFormat\": \"jpeg\",\r\n        \"contentUrl\": \"https://www.nordicvisitor.com/images/iceland/summer/hallgrimskirkja-reykjavik-iceland.jpg\"\r\n      },\r\n      {\r\n        \"name\": \"Images Cart : Hallgrimskirkja Church Iceland\",\r\n        \"datePublished\": \"2018-02-02T18:45:00Z\",\r\n        \"hostPageUrl\": \"http://imagescart.blogspot.com/2013/03/hallgrimskirkja-church-iceland.html\",\r\n        \"contentSize\": \"120331 B\",\r\n        \"hostPageDisplayUrl\": \"http://imagescart.blogspot.com/2013/03/hallgrimskirkja-church-iceland.html\",\r\n        \"width\": 500,\r\n        \"height\": 351,\r\n        \"thumbnail\": {\r\n          \"width\": 474,\r\n          \"height\": 332\r\n        },\r\n        \"webSearchUrl\": \"https://www.bing.com/images/search?q=hallgr%c3%admskirkja&id=B2C7909FC17DFDA20F35CBB7D8F4F49AF469B337&FORM=IARRTH\",\r\n        \"thumbnailUrl\": \"https://tse1.mm.bing.net/th?id=OIP.bywqAfVTjKg8_Aer9hzoJAHaFM&pid=Api\",\r\n        \"encodingFormat\": \"jpeg\",\r\n        \"contentUrl\": \"http://2.bp.blogspot.com/-Wjb8JTj442U/UUwHXjnNSJI/AAAAAAAAClI/NCtVJexuC3Y/s640/Hallgrimskirkja_Church_Iceland+(5).jpg\"\r\n      },\r\n      {\r\n        \"name\": \"Images Cart : Hallgrimskirkja Church Iceland\",\r\n        \"datePublished\": \"2018-02-02T18:45:00Z\",\r\n        \"hostPageUrl\": \"http://imagescart.blogspot.com/2013/03/hallgrimskirkja-church-iceland.html\",\r\n        \"contentSize\": \"828925 B\",\r\n        \"hostPageDisplayUrl\": \"http://imagescart.blogspot.com/2013/03/hallgrimskirkja-church-iceland.html\",\r\n        \"width\": 1536,\r\n        \"height\": 862,\r\n        \"thumbnail\": {\r\n          \"width\": 474,\r\n          \"height\": 266\r\n        },\r\n        \"webSearchUrl\": \"https://www.bing.com/images/search?q=hallgr%c3%admskirkja&id=B2C7909FC17DFDA20F353B81AAFE7407645127E8&FORM=IARRTH\",\r\n        \"thumbnailUrl\": \"https://tse1.mm.bing.net/th?id=OIP.LG4SoDdltV0uzoNrtrod-QHaEK&pid=Api\",\r\n        \"encodingFormat\": \"jpeg\",\r\n        \"contentUrl\": \"http://3.bp.blogspot.com/-kROkA8fmizA/UUwJqnDxPzI/AAAAAAAACpg/opS1DY_D9HU/s1600/Hallgrimskirkja_Church_Iceland.jpg\"\r\n      },\r\n      {\r\n        \"name\": \"Hallgrímskirkja Church: Inside Iceland's Most Bizarre Church\",\r\n        \"datePublished\": \"2015-12-12T01:03:00Z\",\r\n        \"hostPageUrl\": \"http://all-that-is-interesting.com/hallgrimskirkja-iceland\",\r\n        \"contentSize\": \"180889 B\",\r\n        \"hostPageDisplayUrl\": \"http://all-that-is-interesting.com/hallgrimskirkja-iceland\",\r\n        \"width\": 900,\r\n        \"height\": 996,\r\n        \"thumbnail\": {\r\n          \"width\": 474,\r\n          \"height\": 524\r\n        },\r\n        \"webSearchUrl\": \"https://www.bing.com/images/search?q=hallgr%c3%admskirkja&id=B836309B483EECF666BE83A4A6D12DF80C7CE456&FORM=IARRTH\",\r\n        \"thumbnailUrl\": \"https://tse1.mm.bing.net/th?id=OIP.kj_1a_JT-pB9MnXxDGqmZgHaIM&pid=Api\",\r\n        \"encodingFormat\": \"jpeg\",\r\n        \"contentUrl\": \"http://all-that-is-interesting.com/wordpress/wp-content/uploads/2015/11/hallgrimskirkja-iceland-cloudy-church.jpg\"\r\n      },\r\n      {\r\n        \"name\": \"Hallgrimskirkja – Reykjavik, Iceland | Atlas Obscura\",\r\n        \"datePublished\": \"2016-09-23T21:03:00Z\",\r\n        \"hostPageUrl\": \"http://www.atlasobscura.com/places/hallgrimskirkja\",\r\n        \"contentSize\": \"37581 B\",\r\n        \"hostPageDisplayUrl\": \"http://www.atlasobscura.com/places/hallgrimskirkja\",\r\n        \"width\": 520,\r\n        \"height\": 390,\r\n        \"thumbnail\": {\r\n          \"width\": 474,\r\n          \"height\": 355\r\n        },\r\n        \"webSearchUrl\": \"https://www.bing.com/images/search?q=hallgr%c3%admskirkja&id=1BB584D63B9E43866C354A74D465882E869406EF&FORM=IARRTH\",\r\n        \"thumbnailUrl\": \"https://tse1.mm.bing.net/th?id=OIP.zU8fD0VOtmxdfk5_nKOrSAHaFj&pid=Api\",\r\n        \"encodingFormat\": \"jpeg\",\r\n        \"contentUrl\": \"http://assets.atlasobscura.com/media/W1siZiIsInVwbG9hZHMvcGxhY2VfaW1hZ2VzL2MyMGQyN2E1YjQ4MGExY2Q0MGZlODIzNGEyNjJiYTJmMWQxMWY1MjAuanBnIl0sWyJwIiwidGh1bWIiLCJ4MzkwXHUwMDNlIl0sWyJwIiwiY29udmVydCIsIi1xdWFsaXR5IDkxIC1hdXRvLW9yaWVudCJdXQ/c20d27a5b480a1cd40fe8234a262ba2f1d11f520.jpg\"\r\n      },\r\n      {\r\n        \"name\": \"International Organ Summer in Hallgrímskirkja 2017 | What ...\",\r\n        \"datePublished\": \"2018-11-06T05:31:00Z\",\r\n        \"hostPageUrl\": \"https://www.whatson.is/event/international-organ-summer-hallgrimskirkja-2017-18/\",\r\n        \"contentSize\": \"266440 B\",\r\n        \"hostPageDisplayUrl\": \"https://www.whatson.is/event/international-organ-summer-hallgrimskirkja-2017-18/\",\r\n        \"width\": 2000,\r\n        \"height\": 1219,\r\n        \"thumbnail\": {\r\n          \"width\": 474,\r\n          \"height\": 288\r\n        },\r\n        \"webSearchUrl\": \"https://www.bing.com/images/search?q=hallgr%c3%admskirkja&id=2797530B6A33C8D551E5EE5F0D54D4CA66BE6BD3&FORM=IARRTH\",\r\n        \"thumbnailUrl\": \"https://tse1.mm.bing.net/th?id=OIP.GeL4o8G8JWGBMiUKTcMIGAHaEg&pid=Api\",\r\n        \"encodingFormat\": \"jpeg\",\r\n        \"contentUrl\": \"https://www.whatson.is/wp-content/uploads/2017/07/821576_3983_preview.jpg\"\r\n      },\r\n      {\r\n        \"name\": \"Hallgrimskirkja - Church in Reykjavík - Thousand Wonders\",\r\n        \"datePublished\": \"2019-01-11T23:40:00Z\",\r\n        \"hostPageUrl\": \"https://www.thousandwonders.net/Hallgrimskirkja\",\r\n        \"contentSize\": \"317449 B\",\r\n        \"hostPageDisplayUrl\": \"https://www.thousandwonders.net/Hallgrimskirkja\",\r\n        \"width\": 1600,\r\n        \"height\": 900,\r\n        \"thumbnail\": {\r\n          \"width\": 474,\r\n          \"height\": 266\r\n        },\r\n        \"webSearchUrl\": \"https://www.bing.com/images/search?q=hallgr%c3%admskirkja&id=22A0A5591C4750D7588C7AFB383AB3E3398CCBDD&FORM=IARRTH\",\r\n        \"thumbnailUrl\": \"https://tse1.mm.bing.net/th?id=OIP.VNKFxAtsAhz9v7TNYTEFxwHaEK&pid=Api\",\r\n        \"encodingFormat\": \"jpeg\",\r\n        \"contentUrl\": \"https://static.thousandwonders.net/Hallgrimskirkja.original.2742.jpg\"\r\n      },\r\n      {\r\n        \"name\": \"Hallgrímskirkja Church: Inside Iceland's Most Bizarre Church\",\r\n        \"datePublished\": \"2018-08-08T15:39:00Z\",\r\n        \"hostPageUrl\": \"http://allthatsinteresting.com/hallgrimskirkja-iceland\",\r\n        \"contentSize\": \"61369 B\",\r\n        \"hostPageDisplayUrl\": \"http://allthatsinteresting.com/hallgrimskirkja-iceland\",\r\n        \"width\": 900,\r\n        \"height\": 597,\r\n        \"thumbnail\": {\r\n          \"width\": 474,\r\n          \"height\": 314\r\n        },\r\n        \"webSearchUrl\": \"https://www.bing.com/images/search?q=hallgr%c3%admskirkja&id=EB340005E9955A400849887C6AAB345FFEE9D627&FORM=IARRTH\",\r\n        \"thumbnailUrl\": \"https://tse1.mm.bing.net/th?id=OIP.trfCLWCcJR1_tWWcB_f5tgHaE6&pid=Api\",\r\n        \"encodingFormat\": \"jpeg\",\r\n        \"contentUrl\": \"http://allthatsinteresting.com/wordpress/wp-content/uploads/2015/11/hallgrimskirkja-iceland-reverse-angle.jpg\"\r\n      },\r\n      {\r\n        \"name\": \"Iceland Hallgrimskirkja 1152x864 Wallpapers ...\",\r\n        \"datePublished\": \"2018-09-25T16:37:00Z\",\r\n        \"hostPageUrl\": \"http://wallpapers.brothersoft.com/iceland-hallgrimskirkja-106669-1152x864.html\",\r\n        \"contentSize\": \"141948 B\",\r\n        \"hostPageDisplayUrl\": \"http://wallpapers.brothersoft.com/iceland-hallgrimskirkja-106669-1152x864.html\",\r\n        \"width\": 1152,\r\n        \"height\": 864,\r\n        \"thumbnail\": {\r\n          \"width\": 474,\r\n          \"height\": 355\r\n        },\r\n        \"webSearchUrl\": \"https://www.bing.com/images/search?q=hallgr%c3%admskirkja&id=25BA6F67B9DD89B67082796BB17FDC213DC29ED4&FORM=IARRTH\",\r\n        \"thumbnailUrl\": \"https://tse1.mm.bing.net/th?id=OIP.-xnxVfSwj31BZzQrhWRG8QHaFj&pid=Api\",\r\n        \"encodingFormat\": \"jpeg\",\r\n        \"contentUrl\": \"http://wfiles.brothersoft.com/i/iceland-hallgrimskirkja_106669-1152x864.jpg\"\r\n      },\r\n      {\r\n        \"name\": \"Hallgrímskirkja Church - Hótel Ísland\",\r\n        \"datePublished\": \"2014-11-06T02:58:00Z\",\r\n        \"hostPageUrl\": \"http://www.hotelisland.is/hallgrimskirkja-church-2/\",\r\n        \"contentSize\": \"29980 B\",\r\n        \"hostPageDisplayUrl\": \"http://www.hotelisland.is/hallgrimskirkja-church-2/\",\r\n        \"width\": 600,\r\n        \"height\": 450,\r\n        \"thumbnail\": {\r\n          \"width\": 474,\r\n          \"height\": 355\r\n        },\r\n        \"webSearchUrl\": \"https://www.bing.com/images/search?q=hallgr%c3%admskirkja&id=498EF0358BB0FD873FF43DD4CEEBB14BD87C5557&FORM=IARRTH\",\r\n        \"thumbnailUrl\": \"https://tse1.mm.bing.net/th?id=OIP.ldRN0-sBRKXZsBpy34NkgwHaFj&pid=Api\",\r\n        \"encodingFormat\": \"jpeg\",\r\n        \"contentUrl\": \"http://www.hotelisland.is/wp-content/uploads/2014/08/church.jpg\"\r\n      },\r\n      {\r\n        \"name\": \"Iceland 2013 Tour Travelogue Part 1 (Podcast 387) • Martin ...\",\r\n        \"datePublished\": \"2013-09-16T12:00:00Z\",\r\n        \"hostPageUrl\": \"https://www.martinbaileyphotography.com/2013/09/16/iceland-2013-tour-travelogue-part-1-podcast-387/\",\r\n        \"contentSize\": \"81408 B\",\r\n        \"hostPageDisplayUrl\": \"https://www.martinbaileyphotography.com/2013/09/16/iceland-2013-tour-travelogue-part-1-podcast-387/\",\r\n        \"width\": 1440,\r\n        \"height\": 960,\r\n        \"thumbnail\": {\r\n          \"width\": 474,\r\n          \"height\": 316\r\n        },\r\n        \"webSearchUrl\": \"https://www.bing.com/images/search?q=hallgr%c3%admskirkja&id=D380CD3257CA51EC9CDCA80E3C7C4E45CB6B6AE6&FORM=IARRTH\",\r\n        \"thumbnailUrl\": \"https://tse1.mm.bing.net/th?id=OIP.6DVMl4G2kfL8-8I1w7JE0AHaE8&pid=Api\",\r\n        \"encodingFormat\": \"jpeg\",\r\n        \"contentUrl\": \"https://www.martinbaileyphotography.com/wp-content/uploads/2013/09/MBP_Iceland_20130826_81201.jpg\"\r\n      },\r\n      {\r\n        \"name\": \"Hallgrímskirkja « Juanmah\",\r\n        \"datePublished\": \"2012-08-12T12:00:00Z\",\r\n        \"hostPageUrl\": \"https://juanmah.wordpress.com/2012/08/12/hallgrimskirkja/\",\r\n        \"contentSize\": \"777853 B\",\r\n        \"hostPageDisplayUrl\": \"https://juanmah.wordpress.com/2012/08/12/hallgrimskirkja/\",\r\n        \"width\": 2560,\r\n        \"height\": 2048,\r\n        \"thumbnail\": {\r\n          \"width\": 474,\r\n          \"height\": 379\r\n        },\r\n        \"webSearchUrl\": \"https://www.bing.com/images/search?q=hallgr%c3%admskirkja&id=0BD9BC395BA4756FA6F04805FC7661F7576712B9&FORM=IARRTH\",\r\n        \"thumbnailUrl\": \"https://tse1.mm.bing.net/th?id=OIP.jYFT5VvUpNpz4tW9j8YvSAHaF7&pid=Api\",\r\n        \"encodingFormat\": \"jpeg\",\r\n        \"contentUrl\": \"https://juanmah.files.wordpress.com/2012/08/hallgrc3admskirkja-1-2560x20481.jpg\"\r\n      },\r\n      {\r\n        \"name\": \"Hallgrimskirkja - Church in Reykjavík - Thousand Wonders\",\r\n        \"datePublished\": \"2019-01-11T23:40:00Z\",\r\n        \"hostPageUrl\": \"https://www.thousandwonders.net/Hallgrimskirkja\",\r\n        \"contentSize\": \"169619 B\",\r\n        \"hostPageDisplayUrl\": \"https://www.thousandwonders.net/Hallgrimskirkja\",\r\n        \"width\": 972,\r\n        \"height\": 640,\r\n        \"thumbnail\": {\r\n          \"width\": 474,\r\n          \"height\": 312\r\n        },\r\n        \"webSearchUrl\": \"https://www.bing.com/images/search?q=hallgr%c3%admskirkja&id=22A0A5591C4750D7588C2C2959EF4EACA258B210&FORM=IARRTH\",\r\n        \"thumbnailUrl\": \"https://tse1.mm.bing.net/th?id=OIP.kPQeXjo4Ktl8tpqanHcJxwHaE4&pid=Api\",\r\n        \"encodingFormat\": \"jpeg\",\r\n        \"contentUrl\": \"https://static.thousandwonders.net/Hallgrimskirkja.640.5406.jpg\"\r\n      }\r\n    ],\r\n    \"displayShoppingSourcesBadges\": false,\r\n    \"displayRecipeSourcesBadges\": false\r\n  },\r\n  \"news\": null,\r\n  \"relatedSearches\": {\r\n    \"id\": \"https://api.cognitive.microsoft.com/api/v7/#RelatedSearches\",\r\n    \"value\": [\r\n      {\r\n        \"text\": \"famous church in iceland\",\r\n        \"displayText\": \"famous church in iceland\",\r\n        \"webSearchUrl\": \"https://www.bing.com/search?q=famous+church+in+iceland\"\r\n      },\r\n      {\r\n        \"text\": \"churches in iceland\",\r\n        \"displayText\": \"churches in iceland\",\r\n        \"webSearchUrl\": \"https://www.bing.com/search?q=churches+in+iceland\"\r\n      },\r\n      {\r\n        \"text\": \"hallgrimskirkja pronunciation\",\r\n        \"displayText\": \"hallgrimskirkja pronunciation\",\r\n        \"webSearchUrl\": \"https://www.bing.com/search?q=hallgrimskirkja+pronunciation\"\r\n      },\r\n      {\r\n        \"text\": \"church in reykjavik\",\r\n        \"displayText\": \"church in reykjavik\",\r\n        \"webSearchUrl\": \"https://www.bing.com/search?q=church+in+reykjavik\"\r\n      },\r\n      {\r\n        \"text\": \"reykjavik church tower\",\r\n        \"displayText\": \"reykjavik church tower\",\r\n        \"webSearchUrl\": \"https://www.bing.com/search?q=reykjavik+church+tower\"\r\n      },\r\n      {\r\n        \"text\": \"hallgrimskirkja church reykjavik iceland\",\r\n        \"displayText\": \"hallgrimskirkja church reykjavik iceland\",\r\n        \"webSearchUrl\": \"https://www.bing.com/search?q=hallgrimskirkja+church+reykjavik+iceland\"\r\n      },\r\n      {\r\n        \"text\": \"hallgrimskirkja church\",\r\n        \"displayText\": \"hallgrimskirkja church\",\r\n        \"webSearchUrl\": \"https://www.bing.com/search?q=hallgrimskirkja+church\"\r\n      },\r\n      {\r\n        \"text\": \"reykjavík cathedral\",\r\n        \"displayText\": \"reykjavík cathedral\",\r\n        \"webSearchUrl\": \"https://www.bing.com/search?q=reykjav%c3%adk+cathedral\"\r\n      }\r\n    ]\r\n  },\r\n  \"videos\": {\r\n    \"id\": \"https://api.cognitive.microsoft.com/api/v7/#Videos\",\r\n    \"readLink\": \"https://api.cognitive.microsoft.com/api/v7/videos/search?q=hallgr%c3%admskirkja\",\r\n    \"webSearchUrl\": \"https://www.bing.com/videos/search?q=hallgr%c3%admskirkja\",\r\n    \"isFamilyFriendly\": true,\r\n    \"value\": [\r\n      {\r\n        \"description\": \"Hallgrimskirkja Church supports the Lutheran faith in Reykjavik Iceland. The church is know for its dramatic architecture, and it is considered a landmark building in Reykjavik. It took more than 30 years to complete the design and construction of Hallgrimskirkja Church. The building was completed in the 1970s and thousands of tourists visit it ...\",\r\n        \"datePublished\": \"2015-08-23T02:04:19\",\r\n        \"publisher\": [\r\n          {\r\n            \"name\": \"YouTube\"\r\n          }\r\n        ],\r\n        \"contentUrl\": \"https://www.youtube.com/watch?v=AkcKYMkEdcQ\",\r\n        \"hostPageUrl\": \"https://www.youtube.com/watch?v=AkcKYMkEdcQ\",\r\n        \"encodingFormat\": \"mp4\",\r\n        \"hostPageDisplayUrl\": \"https://www.youtube.com/watch?v=AkcKYMkEdcQ\",\r\n        \"width\": 1280,\r\n        \"height\": 720,\r\n        \"duration\": \"PT56S\",\r\n        \"embedHtml\": \"<iframe width=\\\"1280\\\" height=\\\"720\\\" src=\\\"http://www.youtube.com/embed/AkcKYMkEdcQ?autoplay=1\\\" frameborder=\\\"0\\\" allowfullscreen></iframe>\",\r\n        \"allowHttpsEmbed\": true,\r\n        \"thumbnail\": {\r\n          \"width\": 160,\r\n          \"height\": 120\r\n        },\r\n        \"allowMobileEmbed\": true,\r\n        \"isSuperfresh\": false,\r\n        \"name\": \"Hallgrimskirkja Church - Reykjavik Iceland\",\r\n        \"thumbnailUrl\": \"https://tse1.mm.bing.net/th?id=OVP.811i_qZPbLjbeMXizgceFwEsDh&pid=Api\",\r\n        \"webSearchUrl\": \"https://www.bing.com/videos/search?q=hallgr%C3%ADmskirkja&view=detail&mid=096F8086D79CE0B249AC096F8086D79CE0B249AC\",\r\n        \"motionThumbnailUrl\": \"https://tse1.mm.bing.net/th?id=OM2.rEmy4JzXhoBvCQ_1545693684&pid=Api\"\r\n      },\r\n      {\r\n        \"description\": \"Tour around the Hallgrimskirkja Church in Reykjavik, Iceland. Hallgrímskirkja (Icelandic pronunciation: [ˈhatlkrimsˌcʰɪrca], church of Hallgrímur) is a Lutheran (Church of Iceland) parish church in Reykjavík, Iceland. At 73 metres (244 ft), it is the largest church in Iceland and the sixth tallest architectural structure in Iceland after ...\",\r\n        \"datePublished\": \"2014-01-04T21:54:43\",\r\n        \"publisher\": [\r\n          {\r\n            \"name\": \"YouTube\"\r\n          }\r\n        ],\r\n        \"contentUrl\": \"https://www.youtube.com/watch?v=Rkl-TjIWKrE\",\r\n        \"hostPageUrl\": \"https://www.youtube.com/watch?v=Rkl-TjIWKrE\",\r\n        \"encodingFormat\": \"mp4\",\r\n        \"hostPageDisplayUrl\": \"https://www.youtube.com/watch?v=Rkl-TjIWKrE\",\r\n        \"width\": 1280,\r\n        \"height\": 720,\r\n        \"duration\": \"PT1M38S\",\r\n        \"embedHtml\": \"<iframe width=\\\"1280\\\" height=\\\"720\\\" src=\\\"http://www.youtube.com/embed/Rkl-TjIWKrE?autoplay=1\\\" frameborder=\\\"0\\\" allowfullscreen></iframe>\",\r\n        \"allowHttpsEmbed\": true,\r\n        \"thumbnail\": {\r\n          \"width\": 160,\r\n          \"height\": 120\r\n        },\r\n        \"allowMobileEmbed\": true,\r\n        \"isSuperfresh\": false,\r\n        \"name\": \"Hallgrimskirkja Church in Reykjavik Iceland\",\r\n        \"thumbnailUrl\": \"https://tse2.mm.bing.net/th?id=OVP.sTw7-AVKAAUkwpU80ColhwHgFo&pid=Api\",\r\n        \"webSearchUrl\": \"https://www.bing.com/videos/search?q=hallgr%C3%ADmskirkja&view=detail&mid=3130A0A95B141D3603FF3130A0A95B141D3603FF\",\r\n        \"motionThumbnailUrl\": \"https://tse2.mm.bing.net/th?id=OM1._wM2HRRbqaAwMQ_1540035694&pid=Api\"\r\n      },\r\n      {\r\n        \"description\": \"The Hallgrímskirkja is a Lutheran (Church of Iceland) parish church in Reykjavík, Iceland. At 74.5 metres (244 ft), it is the largest church in Iceland and the sixth tallest architectural structure in Iceland after Longwave radio mast Hellissandur, the radio masts of US Navy at Grindavík, Eiðar longwave transmitter and Smáratorg tower. The ...\",\r\n        \"datePublished\": \"2012-06-03T13:10:23\",\r\n        \"publisher\": [\r\n          {\r\n            \"name\": \"YouTube\"\r\n          }\r\n        ],\r\n        \"contentUrl\": \"https://www.youtube.com/watch?v=FY6U0153UDE\",\r\n        \"hostPageUrl\": \"https://www.youtube.com/watch?v=FY6U0153UDE\",\r\n        \"encodingFormat\": \"mp4\",\r\n        \"hostPageDisplayUrl\": \"https://www.youtube.com/watch?v=FY6U0153UDE\",\r\n        \"width\": 1280,\r\n        \"height\": 720,\r\n        \"duration\": \"PT43S\",\r\n        \"embedHtml\": \"<iframe width=\\\"1280\\\" height=\\\"720\\\" src=\\\"http://www.youtube.com/embed/FY6U0153UDE?autoplay=1\\\" frameborder=\\\"0\\\" allowfullscreen></iframe>\",\r\n        \"allowHttpsEmbed\": false,\r\n        \"thumbnail\": {\r\n          \"width\": 160,\r\n          \"height\": 120\r\n        },\r\n        \"allowMobileEmbed\": false,\r\n        \"isSuperfresh\": false,\r\n        \"name\": \"Large Pipe Organ in Hallgrímskirkja Church - Reykjavik, Iceland\",\r\n        \"thumbnailUrl\": \"https://tse1.mm.bing.net/th?id=OVP.kG7g3bbnXFLyztgiZV-9xAEsDh&pid=Api\",\r\n        \"webSearchUrl\": \"https://www.bing.com/videos/search?q=hallgr%C3%ADmskirkja&view=detail&mid=D37D0CC317AE897395E2D37D0CC317AE897395E2\",\r\n        \"motionThumbnailUrl\": \"https://tse1.mm.bing.net/th?id=OM.4pVzia4Xwwx90w_1548059659&pid=Api\"\r\n      },\r\n      {\r\n        \"description\": \"Take a virtual tour of Hallgrímskirkja with your guides from Iceland Review Online. Learn more about the church's unusual design, meet one of the pastors, and finally find out what the deal is with that viking statue right in front of the entrance.\",\r\n        \"datePublished\": \"2015-06-13T21:29:20\",\r\n        \"publisher\": [\r\n          {\r\n            \"name\": \"YouTube\"\r\n          }\r\n        ],\r\n        \"contentUrl\": \"https://www.youtube.com/watch?v=lm8igCmEt1Y\",\r\n        \"hostPageUrl\": \"https://www.youtube.com/watch?v=lm8igCmEt1Y\",\r\n        \"encodingFormat\": \"mp4\",\r\n        \"hostPageDisplayUrl\": \"https://www.youtube.com/watch?v=lm8igCmEt1Y\",\r\n        \"width\": 1280,\r\n        \"height\": 720,\r\n        \"duration\": \"PT3M24S\",\r\n        \"embedHtml\": \"<iframe width=\\\"1280\\\" height=\\\"720\\\" src=\\\"http://www.youtube.com/embed/lm8igCmEt1Y?autoplay=1\\\" frameborder=\\\"0\\\" allowfullscreen></iframe>\",\r\n        \"allowHttpsEmbed\": true,\r\n        \"thumbnail\": {\r\n          \"width\": 160,\r\n          \"height\": 120\r\n        },\r\n        \"allowMobileEmbed\": true,\r\n        \"isSuperfresh\": false,\r\n        \"name\": \"Iceland in Motion -- Hallgrímskirkja\",\r\n        \"thumbnailUrl\": \"https://tse4.mm.bing.net/th?id=OVP.VNFIjDmdYSGD-agVN5QvEgEsDh&pid=Api\",\r\n        \"webSearchUrl\": \"https://www.bing.com/videos/search?q=hallgr%C3%ADmskirkja&view=detail&mid=A938D5A8653481C1C7DEA938D5A8653481C1C7DE\",\r\n        \"motionThumbnailUrl\": \"https://tse4.mm.bing.net/th?id=OM1.3sfBgTRlqNU4qQ_1543428060&pid=Api\"\r\n      },\r\n      {\r\n        \"description\": \"I took a trip to Iceland. The top of the hour Westminster chimes of Hallgrímskirkja in Reykjavík. This was taken on June 14, 2016 @ 16:00 Icelandic time (12:00 PM EST). The bells chime every 15 minutes. They turn the bells off at night. The bells run from 9 AM- 9 PM (9:00- 21:00) daily.\",\r\n        \"datePublished\": \"2016-06-18T03:26:19\",\r\n        \"publisher\": [\r\n          {\r\n            \"name\": \"YouTube\"\r\n          }\r\n        ],\r\n        \"contentUrl\": \"https://www.youtube.com/watch?v=c9VgtA4Pkrg\",\r\n        \"hostPageUrl\": \"https://www.youtube.com/watch?v=c9VgtA4Pkrg\",\r\n        \"encodingFormat\": \"mp4\",\r\n        \"hostPageDisplayUrl\": \"https://www.youtube.com/watch?v=c9VgtA4Pkrg\",\r\n        \"width\": 480,\r\n        \"height\": 360,\r\n        \"duration\": \"PT1M3S\",\r\n        \"embedHtml\": \"<iframe width=\\\"1280\\\" height=\\\"720\\\" src=\\\"http://www.youtube.com/embed/c9VgtA4Pkrg?autoplay=1\\\" frameborder=\\\"0\\\" allowfullscreen></iframe>\",\r\n        \"allowHttpsEmbed\": true,\r\n        \"thumbnail\": {\r\n          \"width\": 160,\r\n          \"height\": 120\r\n        },\r\n        \"allowMobileEmbed\": true,\r\n        \"isSuperfresh\": false,\r\n        \"name\": \"The Bells of Hallgrímskirkja- Reykjavík, Iceland\",\r\n        \"thumbnailUrl\": \"https://tse1.mm.bing.net/th?id=OVP.ppLnwc83SCRQLRPlFqNIswEsDh&pid=Api\",\r\n        \"webSearchUrl\": \"https://www.bing.com/videos/search?q=hallgr%C3%ADmskirkja&view=detail&mid=0D09794473A6BE0D6B910D09794473A6BE0D6B91\",\r\n        \"motionThumbnailUrl\": \"https://tse1.mm.bing.net/th?id=OM2.kWsNvqZzRHkJDQ_1545199945&pid=Api\"\r\n      },\r\n      {\r\n        \"description\": \"Hallgrímskirkja, which means church of Hallgrímur in Icelandic, is a Lutheran church in Reykjavík. It's not just a Lutheran church in Reykjavík; it's THE Lutheran church in Reykjavík on Skólavörðuholt, at the southeastern end of Skólavörðustígur overlooking the city. From up high inside the steeple, you can take in all of the ...\",\r\n        \"datePublished\": \"2014-12-14T13:57:45\",\r\n        \"publisher\": [\r\n          {\r\n            \"name\": \"YouTube\"\r\n          }\r\n        ],\r\n        \"contentUrl\": \"https://www.youtube.com/watch?v=bAW7DLiTwmQ\",\r\n        \"hostPageUrl\": \"https://www.youtube.com/watch?v=bAW7DLiTwmQ\",\r\n        \"encodingFormat\": \"mp4\",\r\n        \"hostPageDisplayUrl\": \"https://www.youtube.com/watch?v=bAW7DLiTwmQ\",\r\n        \"width\": 1280,\r\n        \"height\": 720,\r\n        \"duration\": \"PT1M39S\",\r\n        \"embedHtml\": \"<iframe width=\\\"1280\\\" height=\\\"720\\\" src=\\\"http://www.youtube.com/embed/bAW7DLiTwmQ?autoplay=1\\\" frameborder=\\\"0\\\" allowfullscreen></iframe>\",\r\n        \"allowHttpsEmbed\": true,\r\n        \"thumbnail\": {\r\n          \"width\": 160,\r\n          \"height\": 120\r\n        },\r\n        \"allowMobileEmbed\": true,\r\n        \"isSuperfresh\": false,\r\n        \"name\": \"The View from Hallgrimskirkja, Reykjavík, Iceland - 11 October 2014\",\r\n        \"thumbnailUrl\": \"https://tse4.mm.bing.net/th?id=OVP.lum9BrTk7it3Ix1eP869swEsDh&pid=Api\",\r\n        \"webSearchUrl\": \"https://www.bing.com/videos/search?q=hallgr%C3%ADmskirkja&view=detail&mid=D5B5F943ECCDC69554E8D5B5F943ECCDC69554E8\",\r\n        \"motionThumbnailUrl\": \"https://tse4.mm.bing.net/th?id=OM2.6FSVxs3sQ_m11Q_1545172876&pid=Api\"\r\n      },\r\n      {\r\n        \"description\": \"Hallgrimskirkja church is visible from almost anywhere in the city. The tower of the church is among the city's highest buildings and offers a great view of the city. The tower is open to guests daily from 9am to 5pm. Admission is 700ISK for adults and 100ISK for children 7-14 years old. Hallgrimskirkja is the largest church- and the sixth ...\",\r\n        \"datePublished\": \"2015-10-01T10:40:57\",\r\n        \"publisher\": [\r\n          {\r\n            \"name\": \"YouTube\"\r\n          }\r\n        ],\r\n        \"contentUrl\": \"https://www.youtube.com/watch?v=at1ENvi0Gw4\",\r\n        \"hostPageUrl\": \"https://www.youtube.com/watch?v=at1ENvi0Gw4\",\r\n        \"encodingFormat\": \"mp4\",\r\n        \"hostPageDisplayUrl\": \"https://www.youtube.com/watch?v=at1ENvi0Gw4\",\r\n        \"width\": 1280,\r\n        \"height\": 720,\r\n        \"duration\": \"PT1M9S\",\r\n        \"embedHtml\": \"<iframe width=\\\"1280\\\" height=\\\"720\\\" src=\\\"http://www.youtube.com/embed/at1ENvi0Gw4?autoplay=1\\\" frameborder=\\\"0\\\" allowfullscreen></iframe>\",\r\n        \"allowHttpsEmbed\": true,\r\n        \"thumbnail\": {\r\n          \"width\": 160,\r\n          \"height\": 120\r\n        },\r\n        \"allowMobileEmbed\": true,\r\n        \"isSuperfresh\": false,\r\n        \"name\": \"Hallgrimskirkja\",\r\n        \"thumbnailUrl\": \"https://tse2.mm.bing.net/th?id=OVP.PwIz0PCslc7FQ8x2ysb83AEsDh&pid=Api\",\r\n        \"webSearchUrl\": \"https://www.bing.com/videos/search?q=hallgr%C3%ADmskirkja&view=detail&mid=5BC0025E66932A5D66945BC0025E66932A5D6694\",\r\n        \"motionThumbnailUrl\": \"https://tse2.mm.bing.net/th?id=OM1.lGZdKpNmXgLAWw_1545895315&pid=Api\"\r\n      },\r\n      {\r\n        \"description\": \"Hallgrímskirkja is the iconic church on the hill in Reykjavik, Iceland. On a rare clear day during the Iceland Airwaves music festival, I took my quadcopter out for a spin to document the landscape. Be sure to watch in 1080p HD for full effect! Shot with a GoPro Hero3 Black in an Arris CM2000 brushless gimbal hanging from a DJI Phantom. Music ...\",\r\n        \"datePublished\": \"2013-11-26T00:51:06\",\r\n        \"publisher\": [\r\n          {\r\n            \"name\": \"YouTube\"\r\n          }\r\n        ],\r\n        \"contentUrl\": \"https://www.youtube.com/watch?v=VH7BLIMHMy8\",\r\n        \"hostPageUrl\": \"https://www.youtube.com/watch?v=VH7BLIMHMy8\",\r\n        \"encodingFormat\": \"mp4\",\r\n        \"hostPageDisplayUrl\": \"https://www.youtube.com/watch?v=VH7BLIMHMy8\",\r\n        \"width\": 1280,\r\n        \"height\": 720,\r\n        \"duration\": \"PT1M58S\",\r\n        \"embedHtml\": \"<iframe width=\\\"1280\\\" height=\\\"720\\\" src=\\\"http://www.youtube.com/embed/VH7BLIMHMy8?autoplay=1\\\" frameborder=\\\"0\\\" allowfullscreen></iframe>\",\r\n        \"allowHttpsEmbed\": true,\r\n        \"thumbnail\": {\r\n          \"width\": 160,\r\n          \"height\": 120\r\n        },\r\n        \"allowMobileEmbed\": true,\r\n        \"isSuperfresh\": false,\r\n        \"name\": \"Drone's eye view of Hallgrímskirkja - Reykjavik, Iceland\",\r\n        \"thumbnailUrl\": \"https://tse2.mm.bing.net/th?id=OVP.teJe1zb3gXocTABf4F5WwgEsDh&pid=Api\",\r\n        \"webSearchUrl\": \"https://www.bing.com/videos/search?q=hallgr%C3%ADmskirkja&view=detail&mid=D1AC3875277C4DD63A5CD1AC3875277C4DD63A5C\",\r\n        \"motionThumbnailUrl\": \"https://tse2.mm.bing.net/th?id=OM1.XDrWTXwndTis0Q_1543506389&pid=Api\"\r\n      },\r\n      {\r\n        \"description\": \"From the outside and inside the church, which is the highest building of Iceland.\",\r\n        \"datePublished\": \"2012-05-15T04:31:51\",\r\n        \"publisher\": [\r\n          {\r\n            \"name\": \"YouTube\"\r\n          }\r\n        ],\r\n        \"contentUrl\": \"https://www.youtube.com/watch?v=zcQDqxB_b4U\",\r\n        \"hostPageUrl\": \"https://www.youtube.com/watch?v=zcQDqxB_b4U\",\r\n        \"encodingFormat\": \"mp4\",\r\n        \"hostPageDisplayUrl\": \"https://www.youtube.com/watch?v=zcQDqxB_b4U\",\r\n        \"width\": 1280,\r\n        \"height\": 720,\r\n        \"duration\": \"PT1M42S\",\r\n        \"embedHtml\": \"<iframe width=\\\"1280\\\" height=\\\"720\\\" src=\\\"http://www.youtube.com/embed/zcQDqxB_b4U?autoplay=1\\\" frameborder=\\\"0\\\" allowfullscreen></iframe>\",\r\n        \"allowHttpsEmbed\": true,\r\n        \"thumbnail\": {\r\n          \"width\": 160,\r\n          \"height\": 120\r\n        },\r\n        \"allowMobileEmbed\": true,\r\n        \"isSuperfresh\": false,\r\n        \"name\": \"Hallgrímskirkja\",\r\n        \"thumbnailUrl\": \"https://tse1.mm.bing.net/th?id=OVP.lImeO4JVVfIor5c9DckyTgEsDh&pid=Api\",\r\n        \"webSearchUrl\": \"https://www.bing.com/videos/search?q=hallgr%C3%ADmskirkja&view=detail&mid=596CD374055982F69D81596CD374055982F69D81\",\r\n        \"motionThumbnailUrl\": \"https://tse1.mm.bing.net/th?id=OM1.gZ32glkFdNNsWQ_1544186491&pid=Api\"\r\n      },\r\n      {\r\n        \"description\": \"Hallgrímskirkja (Icelandic pronunciation: [ˈhatlkrimsˌcʰɪrca], church of Hallgrímur) is a Lutheran (Church of Iceland) parish church in Reykjavík, Iceland. At 73 metres (244 ft), it is the largest church in Iceland and the sixth tallest architectural structure in Iceland after Longwave radio mast Hellissandur, the radio masts of the US ...\",\r\n        \"datePublished\": \"2014-11-28T13:37:16\",\r\n        \"publisher\": [\r\n          {\r\n            \"name\": \"YouTube\"\r\n          }\r\n        ],\r\n        \"contentUrl\": \"https://www.youtube.com/watch?v=-Sle8FrgvmE\",\r\n        \"hostPageUrl\": \"https://www.youtube.com/watch?v=-Sle8FrgvmE\",\r\n        \"encodingFormat\": \"mp4\",\r\n        \"hostPageDisplayUrl\": \"https://www.youtube.com/watch?v=-Sle8FrgvmE\",\r\n        \"width\": 1280,\r\n        \"height\": 720,\r\n        \"duration\": \"PT1M18S\",\r\n        \"embedHtml\": \"<iframe width=\\\"1280\\\" height=\\\"720\\\" src=\\\"http://www.youtube.com/embed/-Sle8FrgvmE?autoplay=1\\\" frameborder=\\\"0\\\" allowfullscreen></iframe>\",\r\n        \"allowHttpsEmbed\": true,\r\n        \"thumbnail\": {\r\n          \"width\": 160,\r\n          \"height\": 120\r\n        },\r\n        \"allowMobileEmbed\": true,\r\n        \"isSuperfresh\": false,\r\n        \"name\": \"Reykjavík, Iceland - Hallgrímskirkja HD (2014)\",\r\n        \"thumbnailUrl\": \"https://tse4.mm.bing.net/th?id=OVP.L7WlwHo6Npe8ON5BQ6Z3AAEsDh&pid=Api\",\r\n        \"webSearchUrl\": \"https://www.bing.com/videos/search?q=hallgr%C3%ADmskirkja&view=detail&mid=58A80323173E2CA97C7C58A80323173E2CA97C7C\",\r\n        \"motionThumbnailUrl\": \"https://tse4.mm.bing.net/th?id=OM1.fHypLD4XIwOoWA_1543276718&pid=Api\"\r\n      }\r\n    ],\r\n    \"scenario\": \"List\"\r\n  },\r\n  \"rankingResponse\": {\r\n    \"mainline\": {\r\n      \"items\": [\r\n        {\r\n          \"answerType\": \"WebPages\",\r\n          \"value\": {\r\n            \"id\": \"https://api.cognitive.microsoft.com/api/v7/#WebPages.0\"\r\n          },\r\n          \"resultIndex\": 0\r\n        },\r\n        {\r\n          \"answerType\": \"Videos\",\r\n          \"value\": {\r\n            \"id\": \"https://api.cognitive.microsoft.com/api/v7/#Videos\"\r\n          },\r\n          \"resultIndex\": 0\r\n        },\r\n        {\r\n          \"answerType\": \"WebPages\",\r\n          \"value\": {\r\n            \"id\": \"https://api.cognitive.microsoft.com/api/v7/#WebPages.1\"\r\n          },\r\n          \"resultIndex\": 1\r\n        },\r\n        {\r\n          \"answerType\": \"WebPages\",\r\n          \"value\": {\r\n            \"id\": \"https://api.cognitive.microsoft.com/api/v7/#WebPages.2\"\r\n          },\r\n          \"resultIndex\": 2\r\n        },\r\n        {\r\n          \"answerType\": \"WebPages\",\r\n          \"value\": {\r\n            \"id\": \"https://api.cognitive.microsoft.com/api/v7/#WebPages.3\"\r\n          },\r\n          \"resultIndex\": 3\r\n        },\r\n        {\r\n          \"answerType\": \"WebPages\",\r\n          \"value\": {\r\n            \"id\": \"https://api.cognitive.microsoft.com/api/v7/#WebPages.4\"\r\n          },\r\n          \"resultIndex\": 4\r\n        },\r\n        {\r\n          \"answerType\": \"WebPages\",\r\n          \"value\": {\r\n            \"id\": \"https://api.cognitive.microsoft.com/api/v7/#WebPages.5\"\r\n          },\r\n          \"resultIndex\": 5\r\n        },\r\n        {\r\n          \"answerType\": \"WebPages\",\r\n          \"value\": {\r\n            \"id\": \"https://api.cognitive.microsoft.com/api/v7/#WebPages.6\"\r\n          },\r\n          \"resultIndex\": 6\r\n        },\r\n        {\r\n          \"answerType\": \"WebPages\",\r\n          \"value\": {\r\n            \"id\": \"https://api.cognitive.microsoft.com/api/v7/#WebPages.7\"\r\n          },\r\n          \"resultIndex\": 7\r\n        },\r\n        {\r\n          \"answerType\": \"WebPages\",\r\n          \"value\": {\r\n            \"id\": \"https://api.cognitive.microsoft.com/api/v7/#WebPages.8\"\r\n          },\r\n          \"resultIndex\": 8\r\n        },\r\n        {\r\n          \"answerType\": \"WebPages\",\r\n          \"value\": {\r\n            \"id\": \"https://api.cognitive.microsoft.com/api/v7/#WebPages.9\"\r\n          },\r\n          \"resultIndex\": 9\r\n        },\r\n        {\r\n          \"answerType\": \"RelatedSearches\",\r\n          \"value\": {\r\n            \"id\": \"https://api.cognitive.microsoft.com/api/v7/#RelatedSearches\"\r\n          },\r\n          \"resultIndex\": 0\r\n        }\r\n      ]\r\n    },\r\n    \"sidebar\": {\r\n      \"items\": [\r\n        {\r\n          \"answerType\": \"Images\",\r\n          \"value\": {\r\n            \"id\": \"https://api.cognitive.microsoft.com/api/v7/#Images\"\r\n          }\r\n        },\r\n        {\r\n          \"answerType\": \"Entities\",\r\n          \"value\": {\r\n            \"id\": \"https://api.cognitive.microsoft.com/api/v7/#Entities.0\"\r\n          }\r\n        }\r\n      ]\r\n    }\r\n  },\r\n  \"entities\": {\r\n    \"value\": [\r\n      {\r\n        \"contractualRules\": [\r\n          {\r\n            \"_type\": \"ContractualRules/LicenseAttribution\",\r\n            \"targetPropertyName\": \"description\",\r\n            \"mustBeCloseToContent\": true,\r\n            \"license\": {\r\n              \"name\": \"CC-BY-SA\",\r\n              \"url\": \"http://creativecommons.org/licenses/by-sa/3.0/\"\r\n            },\r\n            \"licenseNotice\": \"Text under CC-BY-SA license\",\r\n            \"text\": null,\r\n            \"url\": null\r\n          },\r\n          {\r\n            \"_type\": \"ContractualRules/LinkAttribution\",\r\n            \"targetPropertyName\": \"description\",\r\n            \"mustBeCloseToContent\": true,\r\n            \"license\": null,\r\n            \"licenseNotice\": null,\r\n            \"text\": \"Wikipedia\",\r\n            \"url\": \"http://en.wikipedia.org/wiki/Hallgr%C3%ADmskirkja\"\r\n          },\r\n          {\r\n            \"_type\": \"ContractualRules/MediaAttribution\",\r\n            \"targetPropertyName\": \"image\",\r\n            \"mustBeCloseToContent\": true,\r\n            \"license\": null,\r\n            \"licenseNotice\": null,\r\n            \"text\": null,\r\n            \"url\": \"http://en.wikipedia.org/wiki/Hallgr%C3%ADmskirkja\"\r\n          }\r\n        ],\r\n        \"image\": {\r\n          \"name\": \"Hallgrímskirkja\",\r\n          \"thumbnailUrl\": \"https://www.bing.com/th?id=AMMS_cac8f67805430d23a18e6a1f1baa71be&w=110&h=110&c=7&rs=1&qlt=80&cdv=1&pid=16.1\",\r\n          \"provider\": [\r\n            {\r\n              \"_type\": \"Organization\",\r\n              \"url\": \"http://en.wikipedia.org/wiki/Hallgr%C3%ADmskirkja\"\r\n            }\r\n          ],\r\n          \"hostPageUrl\": \"http://upload.wikimedia.org/wikipedia/commons/0/0f/Hallgrimskirkja_%2821877785058%29.jpg\",\r\n          \"width\": 110,\r\n          \"height\": 110\r\n        },\r\n        \"description\": \"Hallgrímskirkja is a Lutheran parish church in Reykjavík, Iceland. At 74.5 metres high, it is the largest church in Iceland and among the tallest structures in the country. The church is named after the Icelandic poet and clergyman Hallgrímur Pétursson, author of the Passion Hymns.\",\r\n        \"bingId\": \"0e704a40-ecb9-2ae8-d643-b2c7c79d9a24\",\r\n        \"webSearchUrl\": \"https://www.bing.com/entityexplore?q=Hallgr%c3%admskirkja&filters=sid:%220e704a40-ecb9-2ae8-d643-b2c7c79d9a24%22&elv=AXXfrEiqqD9r3GuelwApulqX51FnGX3*JZXryFcEMIZJBXM0*4rrG*XmnfN9KBBs*EPlt8CJie9o8rYIoG9f2M00xJfxqAzwSL1NkHolaoAT\",\r\n        \"name\": \"Hallgrímskirkja\",\r\n        \"url\": null,\r\n        \"entityPresentationInfo\": {\r\n          \"entityScenario\": \"DominantEntity\",\r\n          \"entityTypeHints\": [\r\n            \"Attraction\"\r\n          ],\r\n          \"entityTypeDisplayHint\": \"Parish Church\"\r\n        }\r\n      }\r\n    ]\r\n  }\r\n}",
-  "QueryString": null,
-  "BingNewsSearchLink": null,
-  "Query": null,
-  "Market": "en-us",
-  "Freshness": null
+	"Demo": {
+		"_type": "SearchResponse",
+		"webPages": {
+			"webSearchUrl": "https://www.bing.com/search?q=hallgr%c3%admskirkja",
+			"totalEstimatedMatches": 179000,
+			"value": [{
+					"id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.0",
+					"deepLinks": null,
+					"dateLastCrawled": "2019-01-29T22:33:00Z",
+					"about": [{
+						"name": "Hallgrímskirkja"
+					}],
+					"name": "Hallgrímskirkja - Wikipedia",
+					"url": "https://en.wikipedia.org/wiki/Hallgr%C3%ADmskirkja",
+					"displayUrl": "https://en.wikipedia.org/wiki/Hallgrímskirkja",
+					"snippet": "Hallgrímskirkja (Icelandic pronunciation: [ˈhatl̥krimsˌcʰɪr̥ca], church of Hallgrímur) is a Lutheran (Church of Iceland) parish church in Reykjavík, Iceland. At 74.5 metres (244 ft) high, it is the largest church in Iceland and among the tallest structures in the country."
+				},
+				{
+					"id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.1",
+					"deepLinks": [{
+							"name": "The Tower",
+							"url": "http://en.hallgrimskirkja.is/information/the-tower"
+						},
+						{
+							"name": "Events",
+							"url": "http://en.hallgrimskirkja.is/information/events/"
+						},
+						{
+							"name": "History",
+							"url": "http://en.hallgrimskirkja.is/about/"
+						},
+						{
+							"name": "Ceremonies",
+							"url": "http://en.hallgrimskirkja.is/ceremonies/"
+						},
+						{
+							"name": "Information",
+							"url": "http://en.hallgrimskirkja.is/"
+						}
+					],
+					"dateLastCrawled": "2019-01-30T00:16:00Z",
+					"about": [{
+						"name": "Hallgrímskirkja"
+					}],
+					"name": "Hallgrímskirkja – Reykjavík",
+					"url": "http://en.hallgrimskirkja.is/",
+					"displayUrl": "en.hallgrimskirkja.is",
+					"snippet": "Hallgrímskirkja stands guard over Reykjavík. The church is both a parish church and a national sanctuary in Iceland. Its stepped concrete facade is an ode to modernism and a reminder of the Icelandic landscape."
+				},
+				{
+					"id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.2",
+					"deepLinks": null,
+					"dateLastCrawled": "2019-01-29T23:02:00Z",
+					"about": [{
+						"name": "Hallgrímskirkja"
+					}],
+					"name": "Hallgrimskirkja Church | Visit Reykjavík",
+					"url": "https://visitreykjavik.is/hallgrimskirkja-church",
+					"displayUrl": "https://visitreykjavik.is/hallgrimskirkja-church",
+					"snippet": "Hallgrímskirkja church is Reykjavík's main landmark and its tower can be seen from almost everywhere in the city. It was designed by the late Guðjón Samúelsson in 1937, who was often inspired in his endeavours by the fascinating shapes and forms created when lava cools into basalt rock."
+				},
+				{
+					"id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.3",
+					"deepLinks": null,
+					"dateLastCrawled": "2019-01-25T09:31:00Z",
+					"about": null,
+					"name": "Hallgrímskirkja | Reykjavík, Iceland Attractions - Lonely ...",
+					"url": "https://www.lonelyplanet.com/iceland/reykjavik/attractions/hallgrimskirkja/a/poi-sig/426241/359560",
+					"displayUrl": "https://www.lonelyplanet.com/iceland/reykjavik/attractions/...",
+					"snippet": "Hallgrímskirkja (pronounced hatl-krims-kirkya) was named after poet Reverend Hallgrímur Pétursson (1614–1674), who wrote Iceland’s most popular hymn book: Passíusálmar (Passion Hymns)."
+				},
+				{
+					"id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.4",
+					"deepLinks": null,
+					"dateLastCrawled": "2019-01-30T12:37:00Z",
+					"about": [{
+							"name": "Hallgrímskirkja"
+						},
+						{
+							"name": "Iceland"
+						}
+					],
+					"name": "Hallgrímskirkja Church: Inside Iceland's Most Bizarre Church",
+					"url": "https://allthatsinteresting.com/hallgrimskirkja-iceland",
+					"displayUrl": "https://allthatsinteresting.com/hallgrimskirkja-iceland",
+					"snippet": "Hallgrímskirkja’s organ, the only bright jewel in the church’s bleak interior, was installed six years later in 1992. This incredible instrument built by the German artisan Johannes Klais is nearly 50 feet tall, weighs around 25 tons, and has more than 5,000 bellowing pipes."
+				},
+				{
+					"id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.5",
+					"deepLinks": null,
+					"dateLastCrawled": "2019-01-26T06:54:00Z",
+					"about": null,
+					"name": "Category:Hallgrímskirkja - Wikimedia Commons",
+					"url": "https://commons.wikimedia.org/wiki/Category:Hallgr%C3%ADmskirkja",
+					"displayUrl": "https://commons.wikimedia.org/wiki/Category:Hallgrímskirkja",
+					"snippet": "Media in category \"Hallgrímskirkja\" The following 50 files are in this category, out of 50 total."
+				},
+				{
+					"id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.6",
+					"deepLinks": null,
+					"dateLastCrawled": "2019-01-19T10:38:00Z",
+					"about": [{
+						"name": "Hallgrímskirkja"
+					}],
+					"name": "Hallgrímskirkja | church, Saurbaer, Iceland | Britannica.com",
+					"url": "https://www.britannica.com/place/Hallgrimskirkja",
+					"displayUrl": "https://www.britannica.com/place/Hallgrimskirkja",
+					"snippet": "Other articles where Hallgrímskirkja is discussed: Hallgrímur Pétursson: The Hallgrímskirkja, a memorial church built in the poet’s honour at Reykjavík, is one of the largest and finest churches in Iceland."
+				},
+				{
+					"id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.7",
+					"deepLinks": null,
+					"dateLastCrawled": "2019-01-26T03:38:00Z",
+					"about": null,
+					"name": "Hallgrímskirkja church : Reykjavik : Travel Guide : Nordic ...",
+					"url": "https://iceland.nordicvisitor.com/travel-guide/attractions/reykjavik-capital-area/hallgrimskirkja/",
+					"displayUrl": "https://iceland.nordicvisitor.com/travel-guide/attractions/...",
+					"snippet": "Hallgrímskirkja is the landmark Lutheran church in Reykjavík. Standing 73 meters tall, Hallgrímskirkja is the largest church in the country and is named for Hallgrímur Pétursson, author of the Passion Hymns. The design of the church is said to be inspired by the basalt lava columns that line many areas along Iceland’s coast."
+				},
+				{
+					"id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.8",
+					"deepLinks": null,
+					"dateLastCrawled": "2019-01-29T17:28:00Z",
+					"about": [{
+						"name": "Hallgrímskirkja"
+					}],
+					"name": "Hallgrimskirkja, Reykjavik - TripAdvisor",
+					"url": "https://www.tripadvisor.com/Attraction_Review-g189970-d245998-Reviews-Hallgrimskirkja-Reykjavik_Capital_Region.html",
+					"displayUrl": "https://www.tripadvisor.com/Attraction_Review-g189970-d245998...",
+					"snippet": "We visited Hallgrimskirkja on our last afternoon in Reykjavik. The church itself is interesting but the view from the top of the spire is amazing - 360 degree views of Reykjavik and the mountains beyond. There is a lift to the top followed by 1... More. Date of experience: January 2019. Thank Deb R ."
+				},
+				{
+					"id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.9",
+					"deepLinks": null,
+					"dateLastCrawled": "2019-01-26T11:16:00Z",
+					"about": null,
+					"name": "Hallgrímskirkja | Guide to Iceland",
+					"url": "https://guidetoiceland.is/travel-iceland/drive/hallgrimskirkja",
+					"displayUrl": "https://guidetoiceland.is/travel-iceland/drive/hallgrimskirkja",
+					"snippet": "Hallgrímskirkja is a Lutheran church, located on top of the Skólavörðuhæð hill in the centre of Reykjavík. At 74.5 metres (245 feet) tall, it is the largest church in Iceland, and its tower offers a spectacular panoramic view over the city."
+				}
+			]
+		},
+		"images": {
+			"id": "https://api.cognitive.microsoft.com/api/v7/#Images",
+			"readLink": "https://api.cognitive.microsoft.com/api/v7/images/search?q=hallgr%c3%admskirkja&qpvt=hallgr%c3%admskirkja",
+			"webSearchUrl": "https://www.bing.com/images/search?q=hallgr%c3%admskirkja&qpvt=hallgr%c3%admskirkja",
+			"isFamilyFriendly": true,
+			"value": [{
+					"name": "Hallgrimskirkja - Church in Reykjavík - Thousand Wonders",
+					"datePublished": "2015-02-08T06:20:00Z",
+					"hostPageUrl": "http://www.thousandwonders.net/Hallgrimskirkja",
+					"contentSize": "874452 B",
+					"hostPageDisplayUrl": "http://www.thousandwonders.net/Hallgrimskirkja",
+					"width": 1920,
+					"height": 1200,
+					"thumbnail": {
+						"width": 474,
+						"height": 296
+					},
+					"webSearchUrl": "https://www.bing.com/images/search?q=hallgr%c3%admskirkja&id=EA4DA8E7B894D2582528C159D9647D5ADE3EB2F9&FORM=IARRTH",
+					"thumbnailUrl": "https://tse1.mm.bing.net/th?id=OIP.HifNEnfoTJWYfgMhNCfAFAHaEo&pid=Api",
+					"encodingFormat": "jpeg",
+					"contentUrl": "http://static.thousandwonders.net/Hallgrimskirkja.original.5405.jpg"
+				},
+				{
+					"name": "Datei:Hallgrimskirkja by Andreas Tille.jpg – Wikipedia",
+					"datePublished": "2018-10-25T00:23:00Z",
+					"hostPageUrl": "https://de.wikipedia.org/wiki/Datei:Hallgrimskirkja_by_Andreas_Tille.jpg",
+					"contentSize": "347005 B",
+					"hostPageDisplayUrl": "https://de.wikipedia.org/wiki/Datei:Hallgrimskirkja_by_Andreas_Tille.jpg",
+					"width": 1024,
+					"height": 768,
+					"thumbnail": {
+						"width": 474,
+						"height": 355
+					},
+					"webSearchUrl": "https://www.bing.com/images/search?q=hallgr%c3%admskirkja&id=83884802BF279F05B1962FE245AF24D37F3BAA00&FORM=IARRTH",
+					"thumbnailUrl": "https://tse1.mm.bing.net/th?id=OIP.gEsyyz84JdKbGz-0onxtZgHaFj&pid=Api",
+					"encodingFormat": "jpeg",
+					"contentUrl": "https://upload.wikimedia.org/wikipedia/de/3/37/Hallgrimskirkja_by_Andreas_Tille.jpg"
+				},
+				{
+					"name": "Hallgrímskirkja Church: Inside Iceland's Most Bizarre Church",
+					"datePublished": "2015-12-12T01:03:00Z",
+					"hostPageUrl": "http://all-that-is-interesting.com/hallgrimskirkja-iceland",
+					"contentSize": "63414 B",
+					"hostPageDisplayUrl": "http://all-that-is-interesting.com/hallgrimskirkja-iceland",
+					"width": 900,
+					"height": 598,
+					"thumbnail": {
+						"width": 474,
+						"height": 314
+					},
+					"webSearchUrl": "https://www.bing.com/images/search?q=hallgr%c3%admskirkja&id=B836309B483EECF666BEC2F5CD890B07C6190707&FORM=IARRTH",
+					"thumbnailUrl": "https://tse1.mm.bing.net/th?id=OIP.Z_Y9fNjqylzcvnCqyntUDgHaE6&pid=Api",
+					"encodingFormat": "jpeg",
+					"contentUrl": "http://all-that-is-interesting.com/wordpress/wp-content/uploads/2015/11/hallgrimskirkja-iceland-church-daylight.jpg"
+				},
+				{
+					"name": "Iceland Bucket List: Reykjavik",
+					"datePublished": "2016-10-07T11:32:00Z",
+					"hostPageUrl": "https://www.extremeiceland.is/en/information/news-and-blog/3184-iceland-bucket-list-reykjavik",
+					"contentSize": "576110 B",
+					"hostPageDisplayUrl": "https://www.extremeiceland.is/en/information/news-and-blog/3184-iceland-bucket-list-reykjavik",
+					"width": 1500,
+					"height": 1000,
+					"thumbnail": {
+						"width": 474,
+						"height": 316
+					},
+					"webSearchUrl": "https://www.bing.com/images/search?q=hallgr%c3%admskirkja&id=C061CF4A366227D8157013BCC2E8365BF7BE46E4&FORM=IARRTH",
+					"thumbnailUrl": "https://tse1.mm.bing.net/th?id=OIP.MWASbJx3u7O3HgDgNAEcsAHaE8&pid=Api",
+					"encodingFormat": "jpeg",
+					"contentUrl": "https://www.extremeiceland.is/images/blog/BucketListReykj/Hallgrimskirkja-1500.jpg"
+				},
+				{
+					"name": "Hallgrimskirkja – Reykjavik, Iceland - Atlas Obscura",
+					"datePublished": "2018-01-07T10:44:00Z",
+					"hostPageUrl": "https://www.atlasobscura.com/places/hallgrimskirkja",
+					"contentSize": "50799 B",
+					"hostPageDisplayUrl": "https://www.atlasobscura.com/places/hallgrimskirkja",
+					"width": 585,
+					"height": 390,
+					"thumbnail": {
+						"width": 474,
+						"height": 316
+					},
+					"webSearchUrl": "https://www.bing.com/images/search?q=hallgr%c3%admskirkja&id=C620D91D6103940CC49A9CFC2F7331D4664D1111&FORM=IARRTH",
+					"thumbnailUrl": "https://tse1.mm.bing.net/th?id=OIP.hfQW47eCLwRdzV3yIy-8aAHaE8&pid=Api",
+					"encodingFormat": "jpeg",
+					"contentUrl": "https://assets.atlasobscura.com/media/W1siZiIsInVwbG9hZHMvcGxhY2VfaW1hZ2VzLzlmMWIwODZhN2YwNDhlY2U4NjY4OTE1Mzc5YWNkMzc1MzQ5YzQ2Y2IuanBnIl0sWyJwIiwidGh1bWIiLCJ4MzkwPiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA4MSAtYXV0by1vcmllbnQiXV0/9f1b086a7f048ece8668915379acd375349c46cb.jpg"
+				},
+				{
+					"name": "The Colourful Buildings and Street Art of Reykjavik ...",
+					"datePublished": "2018-02-03T16:22:00Z",
+					"hostPageUrl": "http://www.theculturemap.com/colourful-buildings-street-art-reykjavik-iceland/",
+					"contentSize": "6950211 B",
+					"hostPageDisplayUrl": "http://www.theculturemap.com/colourful-buildings-street-art-reykjavik-iceland/",
+					"width": 5184,
+					"height": 3456,
+					"thumbnail": {
+						"width": 474,
+						"height": 316
+					},
+					"webSearchUrl": "https://www.bing.com/images/search?q=hallgr%c3%admskirkja&id=ECF5759A0E78A1C92549E6205D4012D1539ECB08&FORM=IARRTH",
+					"thumbnailUrl": "https://tse1.mm.bing.net/th?id=OIP.1dw7g_d3qp67b0t4ScOGFwHaE8&pid=Api",
+					"encodingFormat": "jpeg",
+					"contentUrl": "http://www.theculturemap.com/wp-content/uploads/2013/03/Hallgr%C3%ADmskirkja-Church-Reykjavik.jpg"
+				},
+				{
+					"name": "Unique Picture Around the World: Hallgrimskirkja Church ...",
+					"datePublished": "2013-03-22T12:00:00Z",
+					"hostPageUrl": "http://unigl.blogspot.com/2013/03/hallgrimskirkja-church-iceland.html",
+					"contentSize": "340093 B",
+					"hostPageDisplayUrl": "http://unigl.blogspot.com/2013/03/hallgrimskirkja-church-iceland.html",
+					"width": 1000,
+					"height": 667,
+					"thumbnail": {
+						"width": 474,
+						"height": 316
+					},
+					"webSearchUrl": "https://www.bing.com/images/search?q=hallgr%c3%admskirkja&id=213FB26A9DBD758CC0EA34E7BC17A60ABD9D2212&FORM=IARRTH",
+					"thumbnailUrl": "https://tse1.mm.bing.net/th?id=OIP.ToGSAo469wsfVb6omuHVpQHaE8&pid=Api",
+					"encodingFormat": "jpeg",
+					"contentUrl": "http://2.bp.blogspot.com/-8yr45mrAj68/UUwJeVTQo9I/AAAAAAAACmk/_xOFCcAV5Fs/s1600/Hallgrimskirkja_Church_Iceland+(20).jpg"
+				},
+				{
+					"name": "South & West Iceland Classic | 8 days / 7 nights | Iceland ...",
+					"datePublished": "2012-08-24T04:09:00Z",
+					"hostPageUrl": "https://iceland.nordicvisitor.com/travel-deals/self-drive-tours/family-adventure-in-reykjavik/750/",
+					"contentSize": "304465 B",
+					"hostPageDisplayUrl": "https://iceland.nordicvisitor.com/travel-deals/self-drive-tours/family-adventure-in-reykjavik/750/",
+					"width": 1920,
+					"height": 1080,
+					"thumbnail": {
+						"width": 474,
+						"height": 266
+					},
+					"webSearchUrl": "https://www.bing.com/images/search?q=hallgr%c3%admskirkja&id=49630F3B1970B580C1E48FBFD1FAE70B429259B8&FORM=IARRTH",
+					"thumbnailUrl": "https://tse1.mm.bing.net/th?id=OIP.YN4cX5s4Zvd3WjCgK1Rc6gHaEK&pid=Api",
+					"encodingFormat": "jpeg",
+					"contentUrl": "https://www.nordicvisitor.com/images/iceland/summer/hallgrimskirkja-reykjavik-iceland.jpg"
+				},
+				{
+					"name": "Images Cart : Hallgrimskirkja Church Iceland",
+					"datePublished": "2018-02-02T18:45:00Z",
+					"hostPageUrl": "http://imagescart.blogspot.com/2013/03/hallgrimskirkja-church-iceland.html",
+					"contentSize": "120331 B",
+					"hostPageDisplayUrl": "http://imagescart.blogspot.com/2013/03/hallgrimskirkja-church-iceland.html",
+					"width": 500,
+					"height": 351,
+					"thumbnail": {
+						"width": 474,
+						"height": 332
+					},
+					"webSearchUrl": "https://www.bing.com/images/search?q=hallgr%c3%admskirkja&id=B2C7909FC17DFDA20F35CBB7D8F4F49AF469B337&FORM=IARRTH",
+					"thumbnailUrl": "https://tse1.mm.bing.net/th?id=OIP.bywqAfVTjKg8_Aer9hzoJAHaFM&pid=Api",
+					"encodingFormat": "jpeg",
+					"contentUrl": "http://2.bp.blogspot.com/-Wjb8JTj442U/UUwHXjnNSJI/AAAAAAAAClI/NCtVJexuC3Y/s640/Hallgrimskirkja_Church_Iceland+(5).jpg"
+				},
+				{
+					"name": "Images Cart : Hallgrimskirkja Church Iceland",
+					"datePublished": "2018-02-02T18:45:00Z",
+					"hostPageUrl": "http://imagescart.blogspot.com/2013/03/hallgrimskirkja-church-iceland.html",
+					"contentSize": "828925 B",
+					"hostPageDisplayUrl": "http://imagescart.blogspot.com/2013/03/hallgrimskirkja-church-iceland.html",
+					"width": 1536,
+					"height": 862,
+					"thumbnail": {
+						"width": 474,
+						"height": 266
+					},
+					"webSearchUrl": "https://www.bing.com/images/search?q=hallgr%c3%admskirkja&id=B2C7909FC17DFDA20F353B81AAFE7407645127E8&FORM=IARRTH",
+					"thumbnailUrl": "https://tse1.mm.bing.net/th?id=OIP.LG4SoDdltV0uzoNrtrod-QHaEK&pid=Api",
+					"encodingFormat": "jpeg",
+					"contentUrl": "http://3.bp.blogspot.com/-kROkA8fmizA/UUwJqnDxPzI/AAAAAAAACpg/opS1DY_D9HU/s1600/Hallgrimskirkja_Church_Iceland.jpg"
+				},
+				{
+					"name": "Hallgrímskirkja Church: Inside Iceland's Most Bizarre Church",
+					"datePublished": "2015-12-12T01:03:00Z",
+					"hostPageUrl": "http://all-that-is-interesting.com/hallgrimskirkja-iceland",
+					"contentSize": "180889 B",
+					"hostPageDisplayUrl": "http://all-that-is-interesting.com/hallgrimskirkja-iceland",
+					"width": 900,
+					"height": 996,
+					"thumbnail": {
+						"width": 474,
+						"height": 524
+					},
+					"webSearchUrl": "https://www.bing.com/images/search?q=hallgr%c3%admskirkja&id=B836309B483EECF666BE83A4A6D12DF80C7CE456&FORM=IARRTH",
+					"thumbnailUrl": "https://tse1.mm.bing.net/th?id=OIP.kj_1a_JT-pB9MnXxDGqmZgHaIM&pid=Api",
+					"encodingFormat": "jpeg",
+					"contentUrl": "http://all-that-is-interesting.com/wordpress/wp-content/uploads/2015/11/hallgrimskirkja-iceland-cloudy-church.jpg"
+				},
+				{
+					"name": "Hallgrimskirkja – Reykjavik, Iceland | Atlas Obscura",
+					"datePublished": "2016-09-23T21:03:00Z",
+					"hostPageUrl": "http://www.atlasobscura.com/places/hallgrimskirkja",
+					"contentSize": "37581 B",
+					"hostPageDisplayUrl": "http://www.atlasobscura.com/places/hallgrimskirkja",
+					"width": 520,
+					"height": 390,
+					"thumbnail": {
+						"width": 474,
+						"height": 355
+					},
+					"webSearchUrl": "https://www.bing.com/images/search?q=hallgr%c3%admskirkja&id=1BB584D63B9E43866C354A74D465882E869406EF&FORM=IARRTH",
+					"thumbnailUrl": "https://tse1.mm.bing.net/th?id=OIP.zU8fD0VOtmxdfk5_nKOrSAHaFj&pid=Api",
+					"encodingFormat": "jpeg",
+					"contentUrl": "http://assets.atlasobscura.com/media/W1siZiIsInVwbG9hZHMvcGxhY2VfaW1hZ2VzL2MyMGQyN2E1YjQ4MGExY2Q0MGZlODIzNGEyNjJiYTJmMWQxMWY1MjAuanBnIl0sWyJwIiwidGh1bWIiLCJ4MzkwXHUwMDNlIl0sWyJwIiwiY29udmVydCIsIi1xdWFsaXR5IDkxIC1hdXRvLW9yaWVudCJdXQ/c20d27a5b480a1cd40fe8234a262ba2f1d11f520.jpg"
+				},
+				{
+					"name": "International Organ Summer in Hallgrímskirkja 2017 | What ...",
+					"datePublished": "2018-11-06T05:31:00Z",
+					"hostPageUrl": "https://www.whatson.is/event/international-organ-summer-hallgrimskirkja-2017-18/",
+					"contentSize": "266440 B",
+					"hostPageDisplayUrl": "https://www.whatson.is/event/international-organ-summer-hallgrimskirkja-2017-18/",
+					"width": 2000,
+					"height": 1219,
+					"thumbnail": {
+						"width": 474,
+						"height": 288
+					},
+					"webSearchUrl": "https://www.bing.com/images/search?q=hallgr%c3%admskirkja&id=2797530B6A33C8D551E5EE5F0D54D4CA66BE6BD3&FORM=IARRTH",
+					"thumbnailUrl": "https://tse1.mm.bing.net/th?id=OIP.GeL4o8G8JWGBMiUKTcMIGAHaEg&pid=Api",
+					"encodingFormat": "jpeg",
+					"contentUrl": "https://www.whatson.is/wp-content/uploads/2017/07/821576_3983_preview.jpg"
+				},
+				{
+					"name": "Hallgrimskirkja - Church in Reykjavík - Thousand Wonders",
+					"datePublished": "2019-01-11T23:40:00Z",
+					"hostPageUrl": "https://www.thousandwonders.net/Hallgrimskirkja",
+					"contentSize": "317449 B",
+					"hostPageDisplayUrl": "https://www.thousandwonders.net/Hallgrimskirkja",
+					"width": 1600,
+					"height": 900,
+					"thumbnail": {
+						"width": 474,
+						"height": 266
+					},
+					"webSearchUrl": "https://www.bing.com/images/search?q=hallgr%c3%admskirkja&id=22A0A5591C4750D7588C7AFB383AB3E3398CCBDD&FORM=IARRTH",
+					"thumbnailUrl": "https://tse1.mm.bing.net/th?id=OIP.VNKFxAtsAhz9v7TNYTEFxwHaEK&pid=Api",
+					"encodingFormat": "jpeg",
+					"contentUrl": "https://static.thousandwonders.net/Hallgrimskirkja.original.2742.jpg"
+				},
+				{
+					"name": "Hallgrímskirkja Church: Inside Iceland's Most Bizarre Church",
+					"datePublished": "2018-08-08T15:39:00Z",
+					"hostPageUrl": "http://allthatsinteresting.com/hallgrimskirkja-iceland",
+					"contentSize": "61369 B",
+					"hostPageDisplayUrl": "http://allthatsinteresting.com/hallgrimskirkja-iceland",
+					"width": 900,
+					"height": 597,
+					"thumbnail": {
+						"width": 474,
+						"height": 314
+					},
+					"webSearchUrl": "https://www.bing.com/images/search?q=hallgr%c3%admskirkja&id=EB340005E9955A400849887C6AAB345FFEE9D627&FORM=IARRTH",
+					"thumbnailUrl": "https://tse1.mm.bing.net/th?id=OIP.trfCLWCcJR1_tWWcB_f5tgHaE6&pid=Api",
+					"encodingFormat": "jpeg",
+					"contentUrl": "http://allthatsinteresting.com/wordpress/wp-content/uploads/2015/11/hallgrimskirkja-iceland-reverse-angle.jpg"
+				},
+				{
+					"name": "Iceland Hallgrimskirkja 1152x864 Wallpapers ...",
+					"datePublished": "2018-09-25T16:37:00Z",
+					"hostPageUrl": "http://wallpapers.brothersoft.com/iceland-hallgrimskirkja-106669-1152x864.html",
+					"contentSize": "141948 B",
+					"hostPageDisplayUrl": "http://wallpapers.brothersoft.com/iceland-hallgrimskirkja-106669-1152x864.html",
+					"width": 1152,
+					"height": 864,
+					"thumbnail": {
+						"width": 474,
+						"height": 355
+					},
+					"webSearchUrl": "https://www.bing.com/images/search?q=hallgr%c3%admskirkja&id=25BA6F67B9DD89B67082796BB17FDC213DC29ED4&FORM=IARRTH",
+					"thumbnailUrl": "https://tse1.mm.bing.net/th?id=OIP.-xnxVfSwj31BZzQrhWRG8QHaFj&pid=Api",
+					"encodingFormat": "jpeg",
+					"contentUrl": "http://wfiles.brothersoft.com/i/iceland-hallgrimskirkja_106669-1152x864.jpg"
+				},
+				{
+					"name": "Hallgrímskirkja Church - Hótel Ísland",
+					"datePublished": "2014-11-06T02:58:00Z",
+					"hostPageUrl": "http://www.hotelisland.is/hallgrimskirkja-church-2/",
+					"contentSize": "29980 B",
+					"hostPageDisplayUrl": "http://www.hotelisland.is/hallgrimskirkja-church-2/",
+					"width": 600,
+					"height": 450,
+					"thumbnail": {
+						"width": 474,
+						"height": 355
+					},
+					"webSearchUrl": "https://www.bing.com/images/search?q=hallgr%c3%admskirkja&id=498EF0358BB0FD873FF43DD4CEEBB14BD87C5557&FORM=IARRTH",
+					"thumbnailUrl": "https://tse1.mm.bing.net/th?id=OIP.ldRN0-sBRKXZsBpy34NkgwHaFj&pid=Api",
+					"encodingFormat": "jpeg",
+					"contentUrl": "http://www.hotelisland.is/wp-content/uploads/2014/08/church.jpg"
+				},
+				{
+					"name": "Iceland 2013 Tour Travelogue Part 1 (Podcast 387) • Martin ...",
+					"datePublished": "2013-09-16T12:00:00Z",
+					"hostPageUrl": "https://www.martinbaileyphotography.com/2013/09/16/iceland-2013-tour-travelogue-part-1-podcast-387/",
+					"contentSize": "81408 B",
+					"hostPageDisplayUrl": "https://www.martinbaileyphotography.com/2013/09/16/iceland-2013-tour-travelogue-part-1-podcast-387/",
+					"width": 1440,
+					"height": 960,
+					"thumbnail": {
+						"width": 474,
+						"height": 316
+					},
+					"webSearchUrl": "https://www.bing.com/images/search?q=hallgr%c3%admskirkja&id=D380CD3257CA51EC9CDCA80E3C7C4E45CB6B6AE6&FORM=IARRTH",
+					"thumbnailUrl": "https://tse1.mm.bing.net/th?id=OIP.6DVMl4G2kfL8-8I1w7JE0AHaE8&pid=Api",
+					"encodingFormat": "jpeg",
+					"contentUrl": "https://www.martinbaileyphotography.com/wp-content/uploads/2013/09/MBP_Iceland_20130826_81201.jpg"
+				},
+				{
+					"name": "Hallgrímskirkja « Juanmah",
+					"datePublished": "2012-08-12T12:00:00Z",
+					"hostPageUrl": "https://juanmah.wordpress.com/2012/08/12/hallgrimskirkja/",
+					"contentSize": "777853 B",
+					"hostPageDisplayUrl": "https://juanmah.wordpress.com/2012/08/12/hallgrimskirkja/",
+					"width": 2560,
+					"height": 2048,
+					"thumbnail": {
+						"width": 474,
+						"height": 379
+					},
+					"webSearchUrl": "https://www.bing.com/images/search?q=hallgr%c3%admskirkja&id=0BD9BC395BA4756FA6F04805FC7661F7576712B9&FORM=IARRTH",
+					"thumbnailUrl": "https://tse1.mm.bing.net/th?id=OIP.jYFT5VvUpNpz4tW9j8YvSAHaF7&pid=Api",
+					"encodingFormat": "jpeg",
+					"contentUrl": "https://juanmah.files.wordpress.com/2012/08/hallgrc3admskirkja-1-2560x20481.jpg"
+				},
+				{
+					"name": "Hallgrimskirkja - Church in Reykjavík - Thousand Wonders",
+					"datePublished": "2019-01-11T23:40:00Z",
+					"hostPageUrl": "https://www.thousandwonders.net/Hallgrimskirkja",
+					"contentSize": "169619 B",
+					"hostPageDisplayUrl": "https://www.thousandwonders.net/Hallgrimskirkja",
+					"width": 972,
+					"height": 640,
+					"thumbnail": {
+						"width": 474,
+						"height": 312
+					},
+					"webSearchUrl": "https://www.bing.com/images/search?q=hallgr%c3%admskirkja&id=22A0A5591C4750D7588C2C2959EF4EACA258B210&FORM=IARRTH",
+					"thumbnailUrl": "https://tse1.mm.bing.net/th?id=OIP.kPQeXjo4Ktl8tpqanHcJxwHaE4&pid=Api",
+					"encodingFormat": "jpeg",
+					"contentUrl": "https://static.thousandwonders.net/Hallgrimskirkja.640.5406.jpg"
+				}
+			],
+			"displayShoppingSourcesBadges": false,
+			"displayRecipeSourcesBadges": false
+		},
+		"news": null,
+		"relatedSearches": {
+			"id": "https://api.cognitive.microsoft.com/api/v7/#RelatedSearches",
+			"value": [{
+					"text": "famous church in iceland",
+					"displayText": "famous church in iceland",
+					"webSearchUrl": "https://www.bing.com/search?q=famous+church+in+iceland"
+				},
+				{
+					"text": "churches in iceland",
+					"displayText": "churches in iceland",
+					"webSearchUrl": "https://www.bing.com/search?q=churches+in+iceland"
+				},
+				{
+					"text": "hallgrimskirkja pronunciation",
+					"displayText": "hallgrimskirkja pronunciation",
+					"webSearchUrl": "https://www.bing.com/search?q=hallgrimskirkja+pronunciation"
+				},
+				{
+					"text": "church in reykjavik",
+					"displayText": "church in reykjavik",
+					"webSearchUrl": "https://www.bing.com/search?q=church+in+reykjavik"
+				},
+				{
+					"text": "reykjavik church tower",
+					"displayText": "reykjavik church tower",
+					"webSearchUrl": "https://www.bing.com/search?q=reykjavik+church+tower"
+				},
+				{
+					"text": "hallgrimskirkja church reykjavik iceland",
+					"displayText": "hallgrimskirkja church reykjavik iceland",
+					"webSearchUrl": "https://www.bing.com/search?q=hallgrimskirkja+church+reykjavik+iceland"
+				},
+				{
+					"text": "hallgrimskirkja church",
+					"displayText": "hallgrimskirkja church",
+					"webSearchUrl": "https://www.bing.com/search?q=hallgrimskirkja+church"
+				},
+				{
+					"text": "reykjavík cathedral",
+					"displayText": "reykjavík cathedral",
+					"webSearchUrl": "https://www.bing.com/search?q=reykjav%c3%adk+cathedral"
+				}
+			]
+		},
+		"videos": {
+			"id": "https://api.cognitive.microsoft.com/api/v7/#Videos",
+			"readLink": "https://api.cognitive.microsoft.com/api/v7/videos/search?q=hallgr%c3%admskirkja",
+			"webSearchUrl": "https://www.bing.com/videos/search?q=hallgr%c3%admskirkja",
+			"isFamilyFriendly": true,
+			"value": [{
+					"description": "Hallgrimskirkja Church supports the Lutheran faith in Reykjavik Iceland. The church is know for its dramatic architecture, and it is considered a landmark building in Reykjavik. It took more than 30 years to complete the design and construction of Hallgrimskirkja Church. The building was completed in the 1970s and thousands of tourists visit it ...",
+					"datePublished": "2015-08-23T02:04:19",
+					"publisher": [{
+						"name": "YouTube"
+					}],
+					"contentUrl": "https://www.youtube.com/watch?v=AkcKYMkEdcQ",
+					"hostPageUrl": "https://www.youtube.com/watch?v=AkcKYMkEdcQ",
+					"encodingFormat": "mp4",
+					"hostPageDisplayUrl": "https://www.youtube.com/watch?v=AkcKYMkEdcQ",
+					"width": 1280,
+					"height": 720,
+					"duration": "PT56S",
+					"embedHtml": "<iframe width=\"1280\" height=\"720\" src=\"http://www.youtube.com/embed/AkcKYMkEdcQ?autoplay=1\" frameborder=\"0\" allowfullscreen></iframe>",
+					"allowHttpsEmbed": true,
+					"thumbnail": {
+						"width": 160,
+						"height": 120
+					},
+					"allowMobileEmbed": true,
+					"isSuperfresh": false,
+					"name": "Hallgrimskirkja Church - Reykjavik Iceland",
+					"thumbnailUrl": "https://tse1.mm.bing.net/th?id=OVP.811i_qZPbLjbeMXizgceFwEsDh&pid=Api",
+					"webSearchUrl": "https://www.bing.com/videos/search?q=hallgr%C3%ADmskirkja&view=detail&mid=096F8086D79CE0B249AC096F8086D79CE0B249AC",
+					"motionThumbnailUrl": "https://tse1.mm.bing.net/th?id=OM2.rEmy4JzXhoBvCQ_1545693684&pid=Api"
+				},
+				{
+					"description": "Tour around the Hallgrimskirkja Church in Reykjavik, Iceland. Hallgrímskirkja (Icelandic pronunciation: [ˈhatlkrimsˌcʰɪrca], church of Hallgrímur) is a Lutheran (Church of Iceland) parish church in Reykjavík, Iceland. At 73 metres (244 ft), it is the largest church in Iceland and the sixth tallest architectural structure in Iceland after ...",
+					"datePublished": "2014-01-04T21:54:43",
+					"publisher": [{
+						"name": "YouTube"
+					}],
+					"contentUrl": "https://www.youtube.com/watch?v=Rkl-TjIWKrE",
+					"hostPageUrl": "https://www.youtube.com/watch?v=Rkl-TjIWKrE",
+					"encodingFormat": "mp4",
+					"hostPageDisplayUrl": "https://www.youtube.com/watch?v=Rkl-TjIWKrE",
+					"width": 1280,
+					"height": 720,
+					"duration": "PT1M38S",
+					"embedHtml": "<iframe width=\"1280\" height=\"720\" src=\"http://www.youtube.com/embed/Rkl-TjIWKrE?autoplay=1\" frameborder=\"0\" allowfullscreen></iframe>",
+					"allowHttpsEmbed": true,
+					"thumbnail": {
+						"width": 160,
+						"height": 120
+					},
+					"allowMobileEmbed": true,
+					"isSuperfresh": false,
+					"name": "Hallgrimskirkja Church in Reykjavik Iceland",
+					"thumbnailUrl": "https://tse2.mm.bing.net/th?id=OVP.sTw7-AVKAAUkwpU80ColhwHgFo&pid=Api",
+					"webSearchUrl": "https://www.bing.com/videos/search?q=hallgr%C3%ADmskirkja&view=detail&mid=3130A0A95B141D3603FF3130A0A95B141D3603FF",
+					"motionThumbnailUrl": "https://tse2.mm.bing.net/th?id=OM1._wM2HRRbqaAwMQ_1540035694&pid=Api"
+				},
+				{
+					"description": "The Hallgrímskirkja is a Lutheran (Church of Iceland) parish church in Reykjavík, Iceland. At 74.5 metres (244 ft), it is the largest church in Iceland and the sixth tallest architectural structure in Iceland after Longwave radio mast Hellissandur, the radio masts of US Navy at Grindavík, Eiðar longwave transmitter and Smáratorg tower. The ...",
+					"datePublished": "2012-06-03T13:10:23",
+					"publisher": [{
+						"name": "YouTube"
+					}],
+					"contentUrl": "https://www.youtube.com/watch?v=FY6U0153UDE",
+					"hostPageUrl": "https://www.youtube.com/watch?v=FY6U0153UDE",
+					"encodingFormat": "mp4",
+					"hostPageDisplayUrl": "https://www.youtube.com/watch?v=FY6U0153UDE",
+					"width": 1280,
+					"height": 720,
+					"duration": "PT43S",
+					"embedHtml": "<iframe width=\"1280\" height=\"720\" src=\"http://www.youtube.com/embed/FY6U0153UDE?autoplay=1\" frameborder=\"0\" allowfullscreen></iframe>",
+					"allowHttpsEmbed": false,
+					"thumbnail": {
+						"width": 160,
+						"height": 120
+					},
+					"allowMobileEmbed": false,
+					"isSuperfresh": false,
+					"name": "Large Pipe Organ in Hallgrímskirkja Church - Reykjavik, Iceland",
+					"thumbnailUrl": "https://tse1.mm.bing.net/th?id=OVP.kG7g3bbnXFLyztgiZV-9xAEsDh&pid=Api",
+					"webSearchUrl": "https://www.bing.com/videos/search?q=hallgr%C3%ADmskirkja&view=detail&mid=D37D0CC317AE897395E2D37D0CC317AE897395E2",
+					"motionThumbnailUrl": "https://tse1.mm.bing.net/th?id=OM.4pVzia4Xwwx90w_1548059659&pid=Api"
+				},
+				{
+					"description": "Take a virtual tour of Hallgrímskirkja with your guides from Iceland Review Online. Learn more about the church's unusual design, meet one of the pastors, and finally find out what the deal is with that viking statue right in front of the entrance.",
+					"datePublished": "2015-06-13T21:29:20",
+					"publisher": [{
+						"name": "YouTube"
+					}],
+					"contentUrl": "https://www.youtube.com/watch?v=lm8igCmEt1Y",
+					"hostPageUrl": "https://www.youtube.com/watch?v=lm8igCmEt1Y",
+					"encodingFormat": "mp4",
+					"hostPageDisplayUrl": "https://www.youtube.com/watch?v=lm8igCmEt1Y",
+					"width": 1280,
+					"height": 720,
+					"duration": "PT3M24S",
+					"embedHtml": "<iframe width=\"1280\" height=\"720\" src=\"http://www.youtube.com/embed/lm8igCmEt1Y?autoplay=1\" frameborder=\"0\" allowfullscreen></iframe>",
+					"allowHttpsEmbed": true,
+					"thumbnail": {
+						"width": 160,
+						"height": 120
+					},
+					"allowMobileEmbed": true,
+					"isSuperfresh": false,
+					"name": "Iceland in Motion -- Hallgrímskirkja",
+					"thumbnailUrl": "https://tse4.mm.bing.net/th?id=OVP.VNFIjDmdYSGD-agVN5QvEgEsDh&pid=Api",
+					"webSearchUrl": "https://www.bing.com/videos/search?q=hallgr%C3%ADmskirkja&view=detail&mid=A938D5A8653481C1C7DEA938D5A8653481C1C7DE",
+					"motionThumbnailUrl": "https://tse4.mm.bing.net/th?id=OM1.3sfBgTRlqNU4qQ_1543428060&pid=Api"
+				},
+				{
+					"description": "I took a trip to Iceland. The top of the hour Westminster chimes of Hallgrímskirkja in Reykjavík. This was taken on June 14, 2016 @ 16:00 Icelandic time (12:00 PM EST). The bells chime every 15 minutes. They turn the bells off at night. The bells run from 9 AM- 9 PM (9:00- 21:00) daily.",
+					"datePublished": "2016-06-18T03:26:19",
+					"publisher": [{
+						"name": "YouTube"
+					}],
+					"contentUrl": "https://www.youtube.com/watch?v=c9VgtA4Pkrg",
+					"hostPageUrl": "https://www.youtube.com/watch?v=c9VgtA4Pkrg",
+					"encodingFormat": "mp4",
+					"hostPageDisplayUrl": "https://www.youtube.com/watch?v=c9VgtA4Pkrg",
+					"width": 480,
+					"height": 360,
+					"duration": "PT1M3S",
+					"embedHtml": "<iframe width=\"1280\" height=\"720\" src=\"http://www.youtube.com/embed/c9VgtA4Pkrg?autoplay=1\" frameborder=\"0\" allowfullscreen></iframe>",
+					"allowHttpsEmbed": true,
+					"thumbnail": {
+						"width": 160,
+						"height": 120
+					},
+					"allowMobileEmbed": true,
+					"isSuperfresh": false,
+					"name": "The Bells of Hallgrímskirkja- Reykjavík, Iceland",
+					"thumbnailUrl": "https://tse1.mm.bing.net/th?id=OVP.ppLnwc83SCRQLRPlFqNIswEsDh&pid=Api",
+					"webSearchUrl": "https://www.bing.com/videos/search?q=hallgr%C3%ADmskirkja&view=detail&mid=0D09794473A6BE0D6B910D09794473A6BE0D6B91",
+					"motionThumbnailUrl": "https://tse1.mm.bing.net/th?id=OM2.kWsNvqZzRHkJDQ_1545199945&pid=Api"
+				},
+				{
+					"description": "Hallgrímskirkja, which means church of Hallgrímur in Icelandic, is a Lutheran church in Reykjavík. It's not just a Lutheran church in Reykjavík; it's THE Lutheran church in Reykjavík on Skólavörðuholt, at the southeastern end of Skólavörðustígur overlooking the city. From up high inside the steeple, you can take in all of the ...",
+					"datePublished": "2014-12-14T13:57:45",
+					"publisher": [{
+						"name": "YouTube"
+					}],
+					"contentUrl": "https://www.youtube.com/watch?v=bAW7DLiTwmQ",
+					"hostPageUrl": "https://www.youtube.com/watch?v=bAW7DLiTwmQ",
+					"encodingFormat": "mp4",
+					"hostPageDisplayUrl": "https://www.youtube.com/watch?v=bAW7DLiTwmQ",
+					"width": 1280,
+					"height": 720,
+					"duration": "PT1M39S",
+					"embedHtml": "<iframe width=\"1280\" height=\"720\" src=\"http://www.youtube.com/embed/bAW7DLiTwmQ?autoplay=1\" frameborder=\"0\" allowfullscreen></iframe>",
+					"allowHttpsEmbed": true,
+					"thumbnail": {
+						"width": 160,
+						"height": 120
+					},
+					"allowMobileEmbed": true,
+					"isSuperfresh": false,
+					"name": "The View from Hallgrimskirkja, Reykjavík, Iceland - 11 October 2014",
+					"thumbnailUrl": "https://tse4.mm.bing.net/th?id=OVP.lum9BrTk7it3Ix1eP869swEsDh&pid=Api",
+					"webSearchUrl": "https://www.bing.com/videos/search?q=hallgr%C3%ADmskirkja&view=detail&mid=D5B5F943ECCDC69554E8D5B5F943ECCDC69554E8",
+					"motionThumbnailUrl": "https://tse4.mm.bing.net/th?id=OM2.6FSVxs3sQ_m11Q_1545172876&pid=Api"
+				},
+				{
+					"description": "Hallgrimskirkja church is visible from almost anywhere in the city. The tower of the church is among the city's highest buildings and offers a great view of the city. The tower is open to guests daily from 9am to 5pm. Admission is 700ISK for adults and 100ISK for children 7-14 years old. Hallgrimskirkja is the largest church- and the sixth ...",
+					"datePublished": "2015-10-01T10:40:57",
+					"publisher": [{
+						"name": "YouTube"
+					}],
+					"contentUrl": "https://www.youtube.com/watch?v=at1ENvi0Gw4",
+					"hostPageUrl": "https://www.youtube.com/watch?v=at1ENvi0Gw4",
+					"encodingFormat": "mp4",
+					"hostPageDisplayUrl": "https://www.youtube.com/watch?v=at1ENvi0Gw4",
+					"width": 1280,
+					"height": 720,
+					"duration": "PT1M9S",
+					"embedHtml": "<iframe width=\"1280\" height=\"720\" src=\"http://www.youtube.com/embed/at1ENvi0Gw4?autoplay=1\" frameborder=\"0\" allowfullscreen></iframe>",
+					"allowHttpsEmbed": true,
+					"thumbnail": {
+						"width": 160,
+						"height": 120
+					},
+					"allowMobileEmbed": true,
+					"isSuperfresh": false,
+					"name": "Hallgrimskirkja",
+					"thumbnailUrl": "https://tse2.mm.bing.net/th?id=OVP.PwIz0PCslc7FQ8x2ysb83AEsDh&pid=Api",
+					"webSearchUrl": "https://www.bing.com/videos/search?q=hallgr%C3%ADmskirkja&view=detail&mid=5BC0025E66932A5D66945BC0025E66932A5D6694",
+					"motionThumbnailUrl": "https://tse2.mm.bing.net/th?id=OM1.lGZdKpNmXgLAWw_1545895315&pid=Api"
+				},
+				{
+					"description": "Hallgrímskirkja is the iconic church on the hill in Reykjavik, Iceland. On a rare clear day during the Iceland Airwaves music festival, I took my quadcopter out for a spin to document the landscape. Be sure to watch in 1080p HD for full effect! Shot with a GoPro Hero3 Black in an Arris CM2000 brushless gimbal hanging from a DJI Phantom. Music ...",
+					"datePublished": "2013-11-26T00:51:06",
+					"publisher": [{
+						"name": "YouTube"
+					}],
+					"contentUrl": "https://www.youtube.com/watch?v=VH7BLIMHMy8",
+					"hostPageUrl": "https://www.youtube.com/watch?v=VH7BLIMHMy8",
+					"encodingFormat": "mp4",
+					"hostPageDisplayUrl": "https://www.youtube.com/watch?v=VH7BLIMHMy8",
+					"width": 1280,
+					"height": 720,
+					"duration": "PT1M58S",
+					"embedHtml": "<iframe width=\"1280\" height=\"720\" src=\"http://www.youtube.com/embed/VH7BLIMHMy8?autoplay=1\" frameborder=\"0\" allowfullscreen></iframe>",
+					"allowHttpsEmbed": true,
+					"thumbnail": {
+						"width": 160,
+						"height": 120
+					},
+					"allowMobileEmbed": true,
+					"isSuperfresh": false,
+					"name": "Drone's eye view of Hallgrímskirkja - Reykjavik, Iceland",
+					"thumbnailUrl": "https://tse2.mm.bing.net/th?id=OVP.teJe1zb3gXocTABf4F5WwgEsDh&pid=Api",
+					"webSearchUrl": "https://www.bing.com/videos/search?q=hallgr%C3%ADmskirkja&view=detail&mid=D1AC3875277C4DD63A5CD1AC3875277C4DD63A5C",
+					"motionThumbnailUrl": "https://tse2.mm.bing.net/th?id=OM1.XDrWTXwndTis0Q_1543506389&pid=Api"
+				},
+				{
+					"description": "From the outside and inside the church, which is the highest building of Iceland.",
+					"datePublished": "2012-05-15T04:31:51",
+					"publisher": [{
+						"name": "YouTube"
+					}],
+					"contentUrl": "https://www.youtube.com/watch?v=zcQDqxB_b4U",
+					"hostPageUrl": "https://www.youtube.com/watch?v=zcQDqxB_b4U",
+					"encodingFormat": "mp4",
+					"hostPageDisplayUrl": "https://www.youtube.com/watch?v=zcQDqxB_b4U",
+					"width": 1280,
+					"height": 720,
+					"duration": "PT1M42S",
+					"embedHtml": "<iframe width=\"1280\" height=\"720\" src=\"http://www.youtube.com/embed/zcQDqxB_b4U?autoplay=1\" frameborder=\"0\" allowfullscreen></iframe>",
+					"allowHttpsEmbed": true,
+					"thumbnail": {
+						"width": 160,
+						"height": 120
+					},
+					"allowMobileEmbed": true,
+					"isSuperfresh": false,
+					"name": "Hallgrímskirkja",
+					"thumbnailUrl": "https://tse1.mm.bing.net/th?id=OVP.lImeO4JVVfIor5c9DckyTgEsDh&pid=Api",
+					"webSearchUrl": "https://www.bing.com/videos/search?q=hallgr%C3%ADmskirkja&view=detail&mid=596CD374055982F69D81596CD374055982F69D81",
+					"motionThumbnailUrl": "https://tse1.mm.bing.net/th?id=OM1.gZ32glkFdNNsWQ_1544186491&pid=Api"
+				},
+				{
+					"description": "Hallgrímskirkja (Icelandic pronunciation: [ˈhatlkrimsˌcʰɪrca], church of Hallgrímur) is a Lutheran (Church of Iceland) parish church in Reykjavík, Iceland. At 73 metres (244 ft), it is the largest church in Iceland and the sixth tallest architectural structure in Iceland after Longwave radio mast Hellissandur, the radio masts of the US ...",
+					"datePublished": "2014-11-28T13:37:16",
+					"publisher": [{
+						"name": "YouTube"
+					}],
+					"contentUrl": "https://www.youtube.com/watch?v=-Sle8FrgvmE",
+					"hostPageUrl": "https://www.youtube.com/watch?v=-Sle8FrgvmE",
+					"encodingFormat": "mp4",
+					"hostPageDisplayUrl": "https://www.youtube.com/watch?v=-Sle8FrgvmE",
+					"width": 1280,
+					"height": 720,
+					"duration": "PT1M18S",
+					"embedHtml": "<iframe width=\"1280\" height=\"720\" src=\"http://www.youtube.com/embed/-Sle8FrgvmE?autoplay=1\" frameborder=\"0\" allowfullscreen></iframe>",
+					"allowHttpsEmbed": true,
+					"thumbnail": {
+						"width": 160,
+						"height": 120
+					},
+					"allowMobileEmbed": true,
+					"isSuperfresh": false,
+					"name": "Reykjavík, Iceland - Hallgrímskirkja HD (2014)",
+					"thumbnailUrl": "https://tse4.mm.bing.net/th?id=OVP.L7WlwHo6Npe8ON5BQ6Z3AAEsDh&pid=Api",
+					"webSearchUrl": "https://www.bing.com/videos/search?q=hallgr%C3%ADmskirkja&view=detail&mid=58A80323173E2CA97C7C58A80323173E2CA97C7C",
+					"motionThumbnailUrl": "https://tse4.mm.bing.net/th?id=OM1.fHypLD4XIwOoWA_1543276718&pid=Api"
+				}
+			],
+			"scenario": "List"
+		},
+		"rankingResponse": {
+			"mainline": {
+				"items": [{
+						"answerType": "WebPages",
+						"value": {
+							"id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.0"
+						},
+						"resultIndex": 0
+					},
+					{
+						"answerType": "Videos",
+						"value": {
+							"id": "https://api.cognitive.microsoft.com/api/v7/#Videos"
+						},
+						"resultIndex": 0
+					},
+					{
+						"answerType": "WebPages",
+						"value": {
+							"id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.1"
+						},
+						"resultIndex": 1
+					},
+					{
+						"answerType": "WebPages",
+						"value": {
+							"id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.2"
+						},
+						"resultIndex": 2
+					},
+					{
+						"answerType": "WebPages",
+						"value": {
+							"id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.3"
+						},
+						"resultIndex": 3
+					},
+					{
+						"answerType": "WebPages",
+						"value": {
+							"id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.4"
+						},
+						"resultIndex": 4
+					},
+					{
+						"answerType": "WebPages",
+						"value": {
+							"id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.5"
+						},
+						"resultIndex": 5
+					},
+					{
+						"answerType": "WebPages",
+						"value": {
+							"id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.6"
+						},
+						"resultIndex": 6
+					},
+					{
+						"answerType": "WebPages",
+						"value": {
+							"id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.7"
+						},
+						"resultIndex": 7
+					},
+					{
+						"answerType": "WebPages",
+						"value": {
+							"id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.8"
+						},
+						"resultIndex": 8
+					},
+					{
+						"answerType": "WebPages",
+						"value": {
+							"id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.9"
+						},
+						"resultIndex": 9
+					},
+					{
+						"answerType": "RelatedSearches",
+						"value": {
+							"id": "https://api.cognitive.microsoft.com/api/v7/#RelatedSearches"
+						},
+						"resultIndex": 0
+					}
+				]
+			},
+			"sidebar": {
+				"items": [{
+						"answerType": "Images",
+						"value": {
+							"id": "https://api.cognitive.microsoft.com/api/v7/#Images"
+						}
+					},
+					{
+						"answerType": "Entities",
+						"value": {
+							"id": "https://api.cognitive.microsoft.com/api/v7/#Entities.0"
+						}
+					}
+				]
+			}
+		},
+		"entities": {
+			"value": [{
+				"contractualRules": [{
+						"_type": "ContractualRules/LicenseAttribution",
+						"targetPropertyName": "description",
+						"mustBeCloseToContent": true,
+						"license": {
+							"name": "CC-BY-SA",
+							"url": "http://creativecommons.org/licenses/by-sa/3.0/"
+						},
+						"licenseNotice": "Text under CC-BY-SA license",
+						"text": null,
+						"url": null
+					},
+					{
+						"_type": "ContractualRules/LinkAttribution",
+						"targetPropertyName": "description",
+						"mustBeCloseToContent": true,
+						"license": null,
+						"licenseNotice": null,
+						"text": "Wikipedia",
+						"url": "http://en.wikipedia.org/wiki/Hallgr%C3%ADmskirkja"
+					},
+					{
+						"_type": "ContractualRules/MediaAttribution",
+						"targetPropertyName": "image",
+						"mustBeCloseToContent": true,
+						"license": null,
+						"licenseNotice": null,
+						"text": null,
+						"url": "http://en.wikipedia.org/wiki/Hallgr%C3%ADmskirkja"
+					}
+				],
+				"image": {
+					"name": "Hallgrímskirkja",
+					"thumbnailUrl": "https://www.bing.com/th?id=AMMS_cac8f67805430d23a18e6a1f1baa71be&w=110&h=110&c=7&rs=1&qlt=80&cdv=1&pid=16.1",
+					"provider": [{
+						"_type": "Organization",
+						"url": "http://en.wikipedia.org/wiki/Hallgr%C3%ADmskirkja"
+					}],
+					"hostPageUrl": "http://upload.wikimedia.org/wikipedia/commons/0/0f/Hallgrimskirkja_%2821877785058%29.jpg",
+					"width": 110,
+					"height": 110
+				},
+				"description": "Hallgrímskirkja is a Lutheran parish church in Reykjavík, Iceland. At 74.5 metres high, it is the largest church in Iceland and among the tallest structures in the country. The church is named after the Icelandic poet and clergyman Hallgrímur Pétursson, author of the Passion Hymns.",
+				"bingId": "0e704a40-ecb9-2ae8-d643-b2c7c79d9a24",
+				"webSearchUrl": "https://www.bing.com/entityexplore?q=Hallgr%c3%admskirkja&filters=sid:%220e704a40-ecb9-2ae8-d643-b2c7c79d9a24%22&elv=AXXfrEiqqD9r3GuelwApulqX51FnGX3*JZXryFcEMIZJBXM0*4rrG*XmnfN9KBBs*EPlt8CJie9o8rYIoG9f2M00xJfxqAzwSL1NkHolaoAT",
+				"name": "Hallgrímskirkja",
+				"url": null,
+				"entityPresentationInfo": {
+					"entityScenario": "DominantEntity",
+					"entityTypeHints": [
+			Demo
+			Demo
+			DemoayHint": "Parish Church"
+			Demo
+			}]Demo
+		}
+	},
+	"QueryString": null,
+	"BingNewsSearchLink": null,
+	"Query": null,
+	"Market": "en-us",
+	"Freshness": null
 }

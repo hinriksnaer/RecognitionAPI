@@ -7,13 +7,14 @@ filename = rs.OpenFileName("Open JSON File", filter)
 
 #Read JSON data into the datastore variable
 if filename:
-    with open(filename, 'r') as f:
-        datastore = json.load(f)
+    with open(filename, "r") as f:
+        data = json.load(f)
 
-#Use the new datastore datastructure
-#print datastore["office"]["parking"]["style"]
-#print datastore ["Demo"]["value"]
-print(datastore["Demo"])
+#Use the new datastore datastructure    
+print(data)
+
+#print(json.dumps(f,indent=4, sort_keys=description))
+#print(data.Demo.value[description])
 
 
 #datastore = json.loads(json_string)
