@@ -49,13 +49,14 @@ class ConvertImage(Resource):
     def post(self):
         args = parser.parse_args()
         imgstring = {'imgText' : args['imgText']}
-        imgstring = re.sub("\n", "", imgstring)
-        imgdata = base64.b64decode(imgstring)
-        filename = 'some_image.png'  # I assume you have a way of picking unique filenames
-        with open(filename, 'wb') as f:
-            f.write(imgdata)
+        return imgstring
+        #imgstring = re.sub("\n", "", imgstring)
+        #imgdata = base64.b64decode(imgstring)
+        #filename = 'some_image.png'  # I assume you have a way of picking unique filenames
+        #with open(filename, 'wb') as f:
+        #    f.write(imgdata)
         
-        return json.dumps({'key':'Message sent!'}), 201
+        #return json.dumps({'key':'Message sent!'}), 201
 # TodoList
 # shows a list of all todos, and lets you POST to add new tasks
 
