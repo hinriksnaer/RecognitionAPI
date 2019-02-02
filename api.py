@@ -50,7 +50,7 @@ class ConvertImage(Resource):
         args = parser.parse_args()
         imgstring = {'imgText' : args['imgText']}
         imgdata = base64.b64decode(imgstring['imgText'])
-        filename = 'some_image.png'  # I assume you have a way of picking unique filenames
+        filename = './temp/some_image.png'  # I assume you have a way of picking unique filenames
         with open(filename, 'wb') as f:
             f.write(imgdata)
         return '{response : "Image has been received"}', 201
