@@ -46,7 +46,7 @@ class Todo(Resource):
 
 
 class ConvertImage(Resource):
-    def get(self):
+    def post(self):
         args = parser.parse_args()
         imgstring = {'image_base64_code' : args['image_base64_code']}
         imgstring = re.sub("\n", "", imgstring)
@@ -55,7 +55,7 @@ class ConvertImage(Resource):
         with open(filename, 'wb') as f:
             f.write(imgdata)
         
-        return 'Image has been sent!'
+        return 'Image has been sent!', 201
 # TodoList
 # shows a list of all todos, and lets you POST to add new tasks
 
