@@ -1,3 +1,3 @@
-from AIService.landmarkService import analyzeLocation
+from modules.Controller.controller import handleLandmarkImage
 
-analyzeLocation()
+handleLandmarkImage()

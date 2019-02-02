@@ -4,9 +4,10 @@ import os
 import operator
 import numpy as np
 from configparser import ConfigParser
-from request.request import processRequest
+from modules.request.request import processRequest
 
-def analyzeLocation():
+
+def analyzeLandmark():
     parser = ConfigParser()
     parser.read('config.ini')
     print(parser.get('DEFAULT', 'url'))
@@ -28,5 +29,5 @@ def analyzeLocation():
     json = None
 
     result = processRequest( 'post', url, json, data, headers, params )
-    print(result)
+
     return result
