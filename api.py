@@ -49,6 +49,7 @@ class ConvertImage(Resource):
     def post(self):
         args = parser.parse_args()
         imgstring = {'imgText' : args['imgText']}
+        imgstring = str(imgstring)
         imgstring = re.sub("\n", "", imgstring)
         return imgstring
         #imgdata = base64.b64decode(imgstring)
