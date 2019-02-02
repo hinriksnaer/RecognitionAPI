@@ -48,6 +48,7 @@ class Todo(Resource):
 class ConvertImage(Resource):
     def post(self):
         args = parser.parse_args()
+        print(args)
         imgstring = {'image_base64_code' : args['image_base64_code']}
         imgstring = re.sub("\n", "", imgstring)
         imgdata = base64.b64decode(imgstring)
