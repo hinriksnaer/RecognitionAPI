@@ -20,7 +20,7 @@ def abort_if_image_doesnt_exist(image_id):
 
 #init parser
 parser = reqparse.RequestParser()
-parser.add_argument('image_base64_code', type=int, location='form')
+parser.add_argument('imgText', type=str, location='form')
 
 #Makes it a must to include a task param in the request
 #parser.add_argument('task')
@@ -48,15 +48,14 @@ class Todo(Resource):
 class ConvertImage(Resource):
     def post(self):
         args = parser.parse_args()
-        print(args)
-        imgstring = {'image_base64_code' : args['image_base64_code']}
+        imgstring = {'imgText' : args['imgText']}
         imgstring = re.sub("\n", "", imgstring)
         imgdata = base64.b64decode(imgstring)
         filename = 'some_image.png'  # I assume you have a way of picking unique filenames
         with open(filename, 'wb') as f:
             f.write(imgdata)
         
-        return json.dumps({'key':'Message sent!'}), 201
+        #return json.dumps({'key':'Message sent!'}), 201
 # TodoList
 # shows a list of all todos, and lets you POST to add new tasks
 
