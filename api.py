@@ -50,11 +50,13 @@ class ConvertImage(Resource):
         args = parser.parse_args()
         imgstring = {'imgText' : args['imgText']}
         #imgstring = re.sub("\n", "", imgstring)
+        print('decoding image...')
         imgdata = base64.b64decode(imgstring['imgText'])
+        print('image has been decoded')
         filename = 'some_image.png'  # I assume you have a way of picking unique filenames
         with open(filename, 'wb') as f:
             f.write(imgdata)
-        
+        print(imgdata)
         return imgdata, 201
 # TodoList
 # shows a list of all todos, and lets you POST to add new tasks
