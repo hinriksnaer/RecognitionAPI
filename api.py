@@ -55,7 +55,7 @@ class ConvertImage(Resource):
         with open(filename, 'wb') as f:
             f.write(imgdata)
         
-        return 'Image has been sent!', 201
+        return json.dumps({'key':'Message sent!'}), 201
 # TodoList
 # shows a list of all todos, and lets you POST to add new tasks
 
