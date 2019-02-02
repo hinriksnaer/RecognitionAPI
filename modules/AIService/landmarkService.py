@@ -10,9 +10,8 @@ from modules.request.request import processRequest
 def analyzeLandmark():
     parser = ConfigParser()
     parser.read('config.ini')
-    print(parser.get('DEFAULT', 'url'))
-    url = parser.get('DEFAULT', 'Url')
-    key = parser.get('DEFAULT', 'Key')
+    url = parser.get('DEFAULT', 'ComputerVisionUrl')
+    key = parser.get('DEFAULT', 'ComputerVisionKey')
 
     # Load raw image file into memory
     pathToFileInDisk = f'./res/church.jpg'
@@ -28,6 +27,6 @@ def analyzeLandmark():
 
     json = None
 
-    result = processRequest( 'post', url, json, data, headers, params )
+    result = processRequest( 'post', url, json = json, data = data, headers = headers, params = params )
 
     return result

@@ -5,7 +5,7 @@ import operator
 import numpy as np
 from configparser import ConfigParser
 
-def processRequest( method, url, json, data, headers, params ):
+def processRequest( method, url, **kwargs):
 
     """
     Helper function to process the request to Project Oxford
@@ -24,7 +24,7 @@ def processRequest( method, url, json, data, headers, params ):
 
     while True:
 
-        response = requests.request( method, url, json = json, data = data, headers = headers, params = params )
+        response = requests.request( method, url, **kwargs)
 
         if response.status_code == 429: 
 
