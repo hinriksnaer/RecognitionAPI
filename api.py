@@ -17,7 +17,6 @@ def abort_if_image_doesnt_exist(image_id):
     if image_id not in data:
         abort(404, message="Todo {} doesn't exist".format(image_id))
 
-
 #init parser
 parser = reqparse.RequestParser()
 parser.add_argument('imgText', type=str, location='form')
@@ -49,16 +48,15 @@ class ConvertImage(Resource):
     print('Converting image...')
     def post(self):
         args = parser.parse_args()
-        print(args)
         imgstring = {'imgText' : args['imgText']}
-        print(imgstring)
-        imgstring = re.sub("\n", "", imgstring)
-        imgdata = base64.b64decode(imgstring)
-        filename = 'some_image.png'  # I assume you have a way of picking unique filenames
-        with open(filename, 'wb') as f:
-            f.write(imgdata)
+        return imgstring['imgText']
+        #imgstring = re.sub("\n", "", imgstring)
+        #imgdata = base64.b64decode(imgstring)
+        #filename = 'some_image.png'  # I assume you have a way of picking unique filenames
+        #with open(filename, 'wb') as f:
+        #    f.write(imgdata)
         
-        return json.dumps({'key':'Message sent!'}), 201
+        #return json.dumps({'key':'Message sent!'}), 201
 # TodoList
 # shows a list of all todos, and lets you POST to add new tasks
 
