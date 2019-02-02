@@ -50,7 +50,7 @@ class ConvertImage(Resource):
         args = parser.parse_args()
         print(args)
         imgstring = {'imgText' : args['imgText']}
-        return 'FuckjúHelgi'
+        return args
         #imgstring = re.sub("\n", "", imgstring)
         #imgdata = base64.b64decode(imgstring)
         #filename = 'some_image.png'  # I assume you have a way of picking unique filenames
