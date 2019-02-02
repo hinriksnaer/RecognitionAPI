@@ -1,6 +1,8 @@
 from flask import Flask, request
 
-app = Flask(__name__)        
+app = Flask(__name__)
+
+imagefile = None      
 
 # POST - just get the image and metadata
 @app.route('/RequestImageWithMetadata', methods=['POST'])
@@ -12,3 +14,6 @@ def post():
     return "OK", 200
 
 app.run(port=5000)
+
+def get()
+    return imagefile
