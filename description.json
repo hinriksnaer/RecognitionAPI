@@ -1,0 +1,126 @@
+{
+    "categories": [
+      {
+        "name": "building_",
+        "score": 0.31640625,
+        "detail": {
+          "celebrities": null,
+          "landmarks": [
+            {
+              "name": "Colosseum",
+              "confidence": 0.94448524713516235
+            }
+          ]
+        }
+      },
+      {
+        "name": "others_",
+        "score": 0.00390625,
+        "detail": null
+      },
+      {
+        "name": "outdoor_",
+        "score": 0.04296875,
+        "detail": {
+          "celebrities": null,
+          "landmarks": [
+            {
+              "name": "Colosseum",
+              "confidence": 0.94448524713516235
+            }
+          ]
+        }
+      }
+    ],
+    "adult": null,
+    "tags": [
+      {
+        "name": "building",
+        "confidence": 0.99887830018997192
+      },
+      {
+        "name": "outdoor",
+        "confidence": 0.97255456447601318
+      },
+      {
+        "name": "vacation",
+        "confidence": 0.97255456447601318
+      },
+      {
+        "name": "city",
+        "confidence": 0.64028876596052775
+      },
+      {
+        "name": "plaza",
+        "confidence": 0.61078953383279588
+      },
+      {
+        "name": "castle",
+        "confidence": 0.3956587995593468
+      },
+      {
+        "name": "travel",
+        "confidence": 0.36951870081754234
+      },
+      {
+        "name": "citadel",
+        "confidence": 0.25731551477688025
+      }
+    ],
+    "description": {
+      "tags": [
+        "building",
+        "outdoor",
+        "front",
+        "sitting",
+        "large",
+        "old",
+        "standing",
+        "table",
+        "train",
+        "bridge",
+        "city",
+        "group",
+        "white",
+        "man",
+        "clock",
+        "walking",
+        "people",
+        "parked",
+        "track",
+        "castle",
+        "sheep",
+        "riding",
+        "tower",
+        "street",
+        "tall"
+      ],
+      "captions": [
+        {
+          "text": "a group of people in front of Colosseum",
+          "confidence": 0.84631329657339982
+        }
+      ]
+    },
+    "requestId": "94b43cfc-06cc-4059-afb1-39f7a710c2ca",
+    "metadata": {
+      "width": 600,
+      "height": 399,
+      "format": "Jpeg"
+    },
+    "faces": [],
+    "color": {
+      "dominantColorForeground": "Grey",
+      "dominantColorBackground": "White",
+      "dominantColors": [
+        "Grey",
+        "White"
+      ],
+      "accentColor": "486A83",
+      "isBWImg": false
+    },
+    "imageType": {
+      "clipArtType": 0,
+      "lineDrawingType": 0
+    }
+  }
