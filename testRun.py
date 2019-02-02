@@ -1,3 +1,5 @@
-from modules.Controller.controller import handleLandmarkImage
+from modules.AIService.EntitySearchService import searchEntity
+from modules.AIService.landmarkService import analyzeLandmark
 
-handleLandmarkImage()
+searchEntity('Hallgrímskirkja')
+#print(analyzeLandmark())
