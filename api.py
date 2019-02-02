@@ -59,7 +59,9 @@ class TodoList(Resource):
 ##
 api.add_resource(TodoList, '/todos')
 api.add_resource(Todo, '/todos/<todo_id>')
-
+@app.route("/")
+def hello():
+    return "<h1 style='color:blue'>Hello There!</h1>"
 
 if __name__ == '__main__':
     app.run(debug=True)
