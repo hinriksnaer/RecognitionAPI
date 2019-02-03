@@ -30,7 +30,7 @@ class dummyRead(Resource):
 class ConvertImage(Resource):
     print('Converting image...')
     def post(self):
-        #try:
+        try:
             args = parser.parse_args()
             imgstring = {'imgText' : args['imgText']}
             imgdata = base64.b64decode(imgstring['imgText'])
@@ -39,8 +39,8 @@ class ConvertImage(Resource):
                 f.write(imgdata)
             results = {'results': handleLandmarkImage()}
             return results, 201
-        #except Exception:
-        #    abort(404, message="Something went wrong")
+        except Exception:
+            abort(404, message="Something went wrong")
 
 class ImageList(Resource):
     def get(self):
