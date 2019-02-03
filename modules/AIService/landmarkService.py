@@ -9,7 +9,7 @@ def analyzeLandmark():
     key = parser.get('DEFAULT', 'ComputerVisionKey')
 
     # Load raw image file into memory
-    pathToFileInDisk = f'../temp/image_to_analyze.png'
+    pathToFileInDisk = f'../../temp/image_to_analyze.png'
     with open( pathToFileInDisk, 'rb' ) as f:
         data = f.read()
         
