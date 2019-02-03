@@ -41,7 +41,8 @@ class ConvertImage(Resource):
 
             return results, 201
         except Exception:
-             abort(404, message="Something went wrong")
+            print(Exception)
+            abort(404, message="Something went wrong")
 
 class ImageList(Resource):
     def get(self):
