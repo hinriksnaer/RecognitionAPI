@@ -20,6 +20,11 @@ parser = reqparse.RequestParser()
 #Makes it a must to include a imgText param in the request
 parser.add_argument('imgText', type=str)
 
+
+class dummyRead(Resource):
+    dummyFile = open('description.json', 'r')
+    return dummyFile.read(), 201
+
 class ConvertImage(Resource):
     print('Converting image...')
     def post(self):
@@ -30,7 +35,8 @@ class ConvertImage(Resource):
             filename = './temp/image_to_analyze.png'  # I assume you have a way of picking unique filenames
             with open(filename, 'wb') as f:
                 f.write(imgdata)
-            return '{response : "Image has been received"}', 201
+            
+            return '{message : "Image received successfully"}', 201
         except Exception:
              abort(404, message="Something went wrong")
 
@@ -51,6 +57,7 @@ class ImageList(Resource):
 ##
 api.add_resource(ImageList, '/')
 api.add_resource(ConvertImage, '/imagepost')
+api.add_resource(dummyRead, '/dummy')
 #api.add_resource(Todo, '/todos/<todo_id>')
 if __name__ == '__main__':
     app.run(debug=True)
