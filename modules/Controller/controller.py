@@ -9,10 +9,10 @@ def handleLandmarkImage():
     landmarkResults = analyzeLandmark()
     landmarkName = getNameFromLandmarkResults(landmarkResults)
     
-    entitySearchResults = searchEntity(searchParam)
+    entitySearchResults = searchEntity(landmarkName)
     entity = parseEntity(entitySearchResults)
 
-    webSearchResult = searchWeb(searchParam)
+    webSearchResult = searchWeb(landmarkName)
     deepLinks = getReleventLinksFromWebSearch(webSearchResult)
 
     data['name'] = landmarkName

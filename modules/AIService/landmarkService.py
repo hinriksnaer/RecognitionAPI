@@ -1,8 +1,3 @@
-import time 
-import requests
-import os
-import operator
-import numpy as np
 from configparser import ConfigParser
 from modules.request.request import processRequest
 
