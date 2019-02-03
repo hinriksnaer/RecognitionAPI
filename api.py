@@ -38,7 +38,7 @@ class ConvertImage(Resource):
             with open(filename, 'wb') as f:
                 f.write(imgdata)
             results = {'results': handleLandmarkImage()}
-
+            print(results)
             return results, 201
         #except Exception:
         #    abort(404, message="Something went wrong")
