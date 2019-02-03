@@ -28,8 +28,8 @@ class dummyRead(Resource):
         return dummyFile.read(), 201
 
 class ConvertImage(Resource):
-    print('Converting image...')
     def post(self):
+        print('Attempting to convert image...')
         try:
             args = parser.parse_args()
             imgstring = {'imgText' : args['imgText']}
@@ -37,7 +37,7 @@ class ConvertImage(Resource):
             filename = './temp/image_to_analyze.png'  # I assume you have a way of picking unique filenames
             with open(filename, 'wb') as f:
                 f.write(imgdata)
-            results = {'results': handleLandmarkImage()}
+            results = handleLandmarkImage()
             return results, 201, {'Content-Type': 'application/json;charset=utf-8'}
         except Exception:
             abort(404, message="Something went wrong")
