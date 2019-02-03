@@ -23,9 +23,14 @@ parser.add_argument('imgText', type=str)
 
 
 class dummyRead(Resource):
-    def post(self):
-        dummyFile = open('description.json', 'r')
-        return dummyFile.read(), 201
+    def get(self):
+        dummyFile = open('tett.txt', 'r')
+        dummyFile = base64.b64decode(dummyFile.read())
+        filename = './temp/image_to_analyze.png'  # I assume you have a way of picking unique filenames
+        with open(filename, 'wb') as f:
+            f.write(dummyFile)
+        results = handleLandmarkImage()
+        return results, 201, {'Content-Type': 'application/json;charset=utf-8'}
 
 class ConvertImage(Resource):
     def post(self):
