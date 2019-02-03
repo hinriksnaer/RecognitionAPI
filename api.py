@@ -38,7 +38,7 @@ class ConvertImage(Resource):
             with open(filename, 'wb') as f:
                 f.write(imgdata)
             results = {'results': handleLandmarkImage()}
-            return results, 201
+            return results, 201, {'Content-Type': 'application/json;charset=utf-8'}
         except Exception:
             abort(404, message="Something went wrong")
 
