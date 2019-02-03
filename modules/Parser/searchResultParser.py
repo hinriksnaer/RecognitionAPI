@@ -13,7 +13,7 @@ def getReleventLinksFromWebSearch(webSearchResult):
 
     webSearchResult = webSearchResult['webPages']['value']
 
-    deepLinks = None
+    deepLinks = []
 
     for value in webSearchResult:
         if (value.get('deepLinks') != None):
