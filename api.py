@@ -2,8 +2,6 @@ from flask import Flask
 from flask_restful import reqparse, abort, Api, Resource
 import json
 import base64
-import re
-
 
 app = Flask(__name__)
 api = Api(app)
@@ -13,52 +11,28 @@ with open('description.json') as f:
 
 
 #Function used to send error if id does not exist
-def abort_if_image_doesnt_exist(image_id):
-    if image_id not in data:
-        abort(404, message="Todo {} doesn't exist".format(image_id))
-
+def abort_if_image_doesnt_exist(image_arg):
+    if 'imgText' not in image_arg:
+        abort(404, message="Image {} doesn't exist".format(image_arg))
 
 #init parser
 parser = reqparse.RequestParser()
-parser.add_argument('image_base64_code', type=int, location='form')
-
-#Makes it a must to include a task param in the request
-#parser.add_argument('task')
-
-
-# Todo
-# shows a single todo item and lets you delete a todo item
-class Todo(Resource):
-    def get(self, image_id):
-        abort_if_image_doesnt_exist(image_id)
-        return data[image_id]
-
-    def delete(self, image_id):
-        abort_if_image_doesnt_exist(image_id)
-        del data[image_id]
-        return '', 204
-
-    def put(self, image_id):
-        args = parser.parse_args()
-        task = {'task': args['task']}
-        data[image_id] = task
-        return task, 201
-
+#Makes it a must to include a imgText param in the request
+parser.add_argument('imgText', type=str)
 
 class ConvertImage(Resource):
+    print('Converting image...')
     def post(self):
-        args = parser.parse_args()
-        imgstring = {'image_base64_code' : args['image_base64_code']}
-        imgstring = re.sub("\n", "", imgstring)
-        imgdata = base64.b64decode(imgstring)
-        filename = 'some_image.png'  # I assume you have a way of picking unique filenames
-        with open(filename, 'wb') as f:
-            f.write(imgdata)
-        
-        return 'Image has been sent!', 201
-# TodoList
-# shows a list of all todos, and lets you POST to add new tasks
-
+        try:
+            args = parser.parse_args()
+            imgstring = {'imgText' : args['imgText']}
+            imgdata = base64.b64decode(imgstring['imgText'])
+            filename = './temp/image_to_analyze.png'  # I assume you have a way of picking unique filenames
+            with open(filename, 'wb') as f:
+                f.write(imgdata)
+            return '{response : "Image has been received"}', 201
+        except Exception:
+             abort(404, message="Something went wrong")
 
 class ImageList(Resource):
     def get(self):
