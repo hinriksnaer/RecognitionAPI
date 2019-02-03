@@ -3,9 +3,9 @@ def parseEntity(entitySearchResult):
     entitySearchResult = entitySearchResult['entities']['value'][0]
 
     dataObject = {}
-    dataObject['wikiUrl'] = entitySearchResult['contractualRules'][1]['url']
     dataObject['thumbnailUrl'] = entitySearchResult['image']['thumbnailUrl']
     dataObject['discription'] = entitySearchResult['description']
+    dataObject['wikiUrl'] = entitySearchResult['contractualRules'][1]['url']
 
     return dataObject
 
