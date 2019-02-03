@@ -22,8 +22,9 @@ parser.add_argument('imgText', type=str)
 
 
 class dummyRead(Resource):
-    dummyFile = open('description.json', 'r')
-    return dummyFile.read(), 201
+    def post(self):
+        dummyFile = open('description.json', 'r')
+        return dummyFile.read(), 201
 
 class ConvertImage(Resource):
     print('Converting image...')
