@@ -2,6 +2,7 @@ from flask import Flask
 from flask_restful import reqparse, abort, Api, Resource
 import json
 import base64
+from modules.Controller.controller import handleLandmarkImage
 
 app = Flask(__name__)
 api = Api(app)
@@ -36,8 +37,9 @@ class ConvertImage(Resource):
             filename = './temp/image_to_analyze.png'  # I assume you have a way of picking unique filenames
             with open(filename, 'wb') as f:
                 f.write(imgdata)
-            
-            return '{message : "Image received successfully"}', 201
+            results = {'results': handleLandmarkImage()}
+
+            return results, 201
         except Exception:
              abort(404, message="Something went wrong")
 

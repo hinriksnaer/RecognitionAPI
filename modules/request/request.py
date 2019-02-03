@@ -1,8 +1,4 @@
-import time 
 import requests
-import os
-import operator
-import numpy as np
 from configparser import ConfigParser
 
 def processRequest( method, url, **kwargs):
